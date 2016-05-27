@@ -1,4 +1,4 @@
-  {{
+  [{
       "titre": "Les futurs myst de paris - Roland C Wagner",
       "tomes": 6,
       "subgenre": "Science-fiction",
@@ -9,4 +9,4 @@
       "tomes": 6,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
-  }}
+  }]
