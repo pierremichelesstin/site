@@ -72,8 +72,9 @@ var jsonLivres = [
   }, {
     "titre": "Ronge - Yves Fr\xE9mion",
     "tomes": 1,
-    "subgenre": "Science-fiction"
-  }, {
+    "subgenre": "Science-fiction",
+    "subgenre": "Societ\xE9"
+}, {
     "titre": "Ubik - Philip K Dick",
     "tomes": 1,
     "subgenre": "Science-fiction",
@@ -97,7 +98,7 @@ var jsonLivres = [
     "subgenre": "Science-fiction"
   }, {
     "titre": "Axiomatique / Radieux / Oc\xE9anique  - Greg Egan",
-    "tomes": 1,
+    "tomes": 3,
     "subgenre": "Science-fiction"
   }, {
     "titre": "La fille automate - Paolo Bacigalupi",
@@ -123,17 +124,21 @@ var jsonLivres = [
     "tomes": 1,
     "subgenre": "Science-fiction"
   }, {
-    "titre": "Les Olympiades truquée - Jo\xEBlle Wintrebert ",
+    "titre": "Les Olympiades truquées - Jo\xEBlle Wintrebert",
     "tomes": 1,
     "subgenre": "Science-fiction",
     "subgenre2": "Societ\xE9"
+  }, {
+    "titre": "Omale - Laurent Genefort",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
   },
   // ==============Space opera=======================														
   {
     "titre": "Le cycle de la culture - Iam M. Banks",
     "tomes": 4,
     "subgenre": "Space-op\xE9ra",
-    "subgenre2": "Societ\xE9"
+    "subgenre2": "Anarchisme"
   }, {
     "titre": "Hyperion - Dan Simmons",
     "tomes": 1,
@@ -160,7 +165,7 @@ var jsonLivres = [
     "tomes": 2,
     "subgenre": "Space-op\xE9ra"
   }, {
-    "titre": "Le dragon ne dort jamais- Glen Cook",
+    "titre": "Le dragon ne dort jamais - Glen Cook",
     "tomes": 1,
     "subgenre": "Space-op\xE9ra"
   }, {
@@ -180,10 +185,19 @@ var jsonLivres = [
     "tomes": 2,
     "subgenre": "Space-op\xE9ra",
     "subgenre2": "OLNI"
+  }, {
+    "titre": "L'h\xE9r\xE9sie d'Horus ",
+    "tomes": 3,
+    "subgenre": "Space-op\xE9ra",
   },
   // ==============Uchronie =========================													
   {
     "titre": "R\xEAves de gloire - Roland C Wagner",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Histoire"
+  }, {
+    "titre": "Fran\xE7atome -Johan Heliot",
     "tomes": 1,
     "subgenre": "Uchronie",
     "subgenre2": "Histoire"
@@ -219,8 +233,9 @@ var jsonLivres = [
     "subgenre2": "Societ\xE9"
   }, {
     "titre": "Nestor Burma - L\xE9o Malet",
-    "tomes": 1,
-    "subgenre": "Policier"
+    "tomes": 3,
+    "subgenre": "Policier",
+    "subgenre2": "Classique"
   }, {
     "titre": "L'\xE9chiquier du mal- Dan Simmons ",
     "tomes": 1,
@@ -397,7 +412,7 @@ var jsonLivres = [
     "subgenre": "Histoire",
     "subgenre2": "Anarchisme"
   }, {
-    "titre": " What Uncle Sam Really Wants - Noam Chomsky",
+    "titre": "What Uncle Sam Really Wants - Noam Chomsky",
     "tomes": 1,
     "subgenre": "Histoire",
     "subgenre2": "Societ\xE9"
@@ -477,6 +492,10 @@ var jsonLivres = [
     "titre": "Les nouveaux chiens de garde - Serge Halimi",
     "tomes": 1,
     "subgenre": "Societ\xE9"
+  }, {
+    "titre": "The Prosperous Few and the Restless Many - Noam Chomsky",
+    "tomes": 1,
+    "subgenre": "Societ\xE9",
   },
   // ==============Anarchisme=====================													
   {
@@ -682,99 +701,98 @@ for (i = 0; jsonLivres.length > i; i += 1) {
 
 var scale_genre = 0;
 var scale_genre_c = 20;
-var scale_livre = 1 * 2;
+var scale_livre = 1;
 var scale_livre_c = 10;
-var nodes_data_name = ["Science-fiction", "Space-op\xE9ra", "Uchronie", "Policier", "Classique", "Dark fantasy", "Fantasy", "Histoire", "Ecologie", "Societ\xE9", "Anarchisme", "OLNI"];
+var nodes_data_name = ["Fantasy","Dark fantasy","Policier","Science-fiction","Space-op\xE9ra","Uchronie","Histoire", "Ecologie", "Anarchisme", "Societ\xE9", "Classique", "OLNI"];
 
-var nodes_data = [{
-  name: "Science-fiction",
-  tomes: subgenre1_size,
-  radius: subgenre1_size * scale_genre + scale_genre_c,
-  color: "rgb(000, 150, 190)",
+var clusters_data = [{
+  name: "Fantasy",
+  tomes: subgenre7_size,
+  radius: subgenre7_size * scale_genre + scale_genre_c,
+  color: "rgb(200, 100, 200)",
   type: "genre",
   cluster: 0
-}, {
-  name: "Space-op\xE9ra",
-  tomes: subgenre2_size,
-  radius: subgenre2_size * scale_genre + scale_genre_c,
-  color: "rgb(000, 220, 250)",
+},{
+  name: "Dark fantasy",
+  tomes: subgenre6_size,
+  radius: subgenre6_size * scale_genre + scale_genre_c,
+  color: "rgb(150, 50, 150)",
   type: "genre",
   cluster: 1
-}, {
-  name: "Uchronie",
-  tomes: subgenre3_size,
-  radius: subgenre3_size * scale_genre + scale_genre_c,
-  color: "rgb(050, 080, 130)",
-  type: "genre",
-  cluster: 2
 }, {
   name: "Policier",
   tomes: subgenre4_size,
   radius: subgenre4_size * scale_genre + scale_genre_c,
   color: "rgb(100, 100, 100)",
   type: "genre",
-  x: 100,
-  y: 100,
+  cluster: 2
+},{
+  name: "Science-fiction",
+  tomes: subgenre1_size,
+  radius: subgenre1_size * scale_genre + scale_genre_c,
+  color: "rgb(000, 080, 150)",
+  type: "genre",
   cluster: 3
 }, {
-  name: "Classique",
-  tomes: subgenre5_size,
-  radius: subgenre5_size * scale_genre + scale_genre_c,
-  color: "rgb(250, 075, 075)",
+  name: "Space-op\xE9ra",
+  tomes: subgenre2_size,
+  radius: subgenre2_size * scale_genre + scale_genre_c,
+  color: "rgb(000, 180, 240)",
   type: "genre",
   cluster: 4
 }, {
-  name: "Dark fantasy",
-  tomes: subgenre6_size,
-  radius: subgenre6_size * scale_genre + scale_genre_c,
-  color: "rgb(160, 000, 180)",
+  name: "Uchronie",
+  tomes: subgenre3_size,
+  radius: subgenre3_size * scale_genre + scale_genre_c,
+  color: "rgb(080, 200, 170)",
   type: "genre",
   cluster: 5
-}, {
-  name: "Fantasy",
-  tomes: subgenre7_size,
-  radius: subgenre7_size * scale_genre + scale_genre_c,
-  color: "rgb(230, 000, 250)",
-  type: "genre",
-  cluster: 6
 }, {
   name: "Histoire",
   tomes: subgenre8_size,
   radius: subgenre8_size * scale_genre + scale_genre_c,
-  color: "rgb(050, 150, 100)",
+  color: "rgb(050, 120, 100)",
   type: "genre",
-  cluster: 7
+  cluster: 6
 }, {
   name: "Ecologie",
   tomes: subgenre9_size,
   radius: subgenre9_size * scale_genre + scale_genre_c,
-  color: "rgb(050, 100, 000)",
+  color: "rgb(000, 190, 000)",
   type: "genre",
-  cluster: 8
-}, {
-  name: "Societ\xE9",
-  tomes: subgenre10_size,
-  radius: subgenre10_size * scale_genre + scale_genre_c,
-  color: "rgb(100, 150, 000)",
-  type: "genre",
-  cluster: 9
+  cluster: 7
 }, {
   name: "Anarchisme",
   tomes: subgenre11_size,
   radius: subgenre11_size * scale_genre + scale_genre_c,
   color: "rgb(000, 000, 000)",
   type: "genre",
-  cluster: 10
+  cluster: 8
 }, {
+  name: "Societ\xE9",
+  tomes: subgenre10_size,
+  radius: subgenre10_size * scale_genre + scale_genre_c,
+  color: "rgb(220, 050, 000)",
+  type: "genre",
+  cluster: 9
+}, {
+  name: "Classique",
+  tomes: subgenre5_size,
+  radius: subgenre5_size * scale_genre + scale_genre_c,
+  color: "rgb(220, 110, 000)",
+  type: "genre",
+  cluster: 10
+},{
   name: "OLNI",
   tomes: subgenre1_size,
   radius: subgenre12_size * scale_genre + scale_genre_c,
-  color: "rgb(255, 170, 00)",
+  color: "rgb(230, 180, 000)",
   type: "genre",
   cluster: 11
 }];
 
-var clusters_data = nodes_data;
+var nodes_data = clusters_data;
+
 for (i = 0; jsonLivres.length > i; i += 1) {
   //var nodes_data_offset = Object.keys(nodes_data).length;
   //var links_data_offset = Object.keys(links_data).length;
@@ -791,20 +809,21 @@ for (i = 0; jsonLivres.length > i; i += 1) {
   });
 }
 
-var width = 750,
-  height = 750,
+var width = 1100,
+  height = 575,
   padding = 4, // separation between same-color circles
   clusterPadding = 6; // separation between different-color circles
 
-clusters = clusters_data;
+
 nodes = nodes_data;
+clusters = clusters_data;
 
 var force = d3.layout.force()
   .nodes(nodes)
   .size([width, height])
   .gravity(0)
   .charge(0)
-  //  .alpha(0.3)
+  .alpha(2)
   .on("tick", tick)
   .start();
 
@@ -812,6 +831,55 @@ var svg = d3.select("body").append("svg")
   .attr("width", width)
   .attr("height", height)
   .style("border", "1px solid black");
+
+var rectangle = svg.selectAll("rect")
+  .data(clusters)
+  .enter().append("rect")
+  .filter(function(d) {
+    return d.type == "genre"
+  })
+  .attr("x", width - 130)
+  .attr("y", function(d, i) {
+    return 50 + i * 45
+  })
+  .attr("width", 125)
+  .attr("height", 25)
+  .style("fill", function(d) {
+    return d.color
+  })
+  .on("click", function(d, i) {
+    selec_genre = i;
+    label.attr("dx", -100)
+      .attr("dy", -100);
+    label.filter(function(d) {
+        return (d.cluster == selec_genre | d.cluster2 == selec_genre);
+      })
+      .attr("dx", 5)
+      .attr("dy", function(d, i) {
+        return 42 + i * 16;
+      });
+    force.on("tick", tick_2)
+      .start();
+  });
+
+var rectangle_label = svg.selectAll("text")
+  .data(clusters)
+  .enter().append("text")
+  .filter(function(d) {
+    return d.type == "genre"
+  })
+  .text(function(d) {
+    return d.name;
+  })
+  .attr("x", width - 125)
+  .attr("y", function(d, i) {
+    return 46 + i * 45;
+  })
+  .attr("font-family", "Tahoma")
+  .attr("font-size", 12)
+  .style("fill", function(d) {
+    return d.color;
+  });
 
 var circle = svg.selectAll("circle")
   .data(nodes)
@@ -827,10 +895,14 @@ var circle = svg.selectAll("circle")
     }
   })
   .attr("stroke-width", function(d) {
-    return 3;
+    return 6;
   })
   .attr("stroke", function(d) {
-    return d.color;
+    if (d.type == "genre") {
+      return d.color;
+    } else if (d.subgenre2 != null) {
+      return nodes_data[nodes_data_name.indexOf(d.subgenre2)].color;
+    }
   })
   .call(force.drag)
   .on("mouseover", function(d) {
@@ -838,45 +910,42 @@ var circle = svg.selectAll("circle")
     label.filter(function(d) {
         return (d.name == name_temp & d.type == "livre")
       })
-      .attr("font-size", 14)
+      .attr("font-size", 18)
   })
-   .on("mouseout", function(d) {
+  .on("mouseout", function(d) {
     name_temp = d.name;
     label.filter(function(d) {
         return (d.name == name_temp & d.type == "livre")
       })
-      .attr("font-size", 12)
+      .attr("font-size", 14)
   });;
 
-var label = svg.selectAll("text")
+var label = svg.selectAll("text2")
   .data(nodes)
   .enter().append("text")
   .text(function(d) {
     if (d.type == "genre") {
-      label_temp = "La biblioth\xE8que a " + d.tomes + " livres de " + d.name;
+      label_temp = "Dans la biblioth\xE8que il y a " + d.tomes + " livres dont le genre est: " + d.name;
     } else {
-      label_temp = d.name + " (" + d.tomes + ")";
+      label_temp = d.name;
+      if (d.tomes > 1) {
+        label_temp = label_temp + " (" + d.tomes + " tomes)";
+      }
     }
     return label_temp;
   })
-  .attr("font-size", function(d) {
-    if (d.type == "genre") {
-      return 12;
-    } else {
-      return 12;
-    }
-  })
+  .attr("font-family", "Tahoma")
+  .attr("font-size", 14)
   .style("fill", function(d) {
-    return "black";
+    return d.color;
   })
   .attr("dx", -100)
-  .attr("dy", -100)
-  .attr("font-family", "Lucida Sans Typewriter");
+  .attr("dy", -100);
 
 
 function tick(e) {
   circle
-    .each(cluster(10 * e.alpha * e.alpha))
+    .each(cluster(15 * e.alpha * e.alpha))
     .each(collide(.4))
     .attr("cx", function(d) {
       return d.x;
@@ -894,8 +963,8 @@ function cluster(alpha) {
     // si le noeud est un cluster
     if (cluster === d) {
       cluster = {
-        x: width / 2,
-        y: height / 2,
+        x: 0.5 * width,
+        y: 0.5 * height,
         radius: -d.radius
       }
       k = .1 * Math.sqrt(d.radius);
@@ -916,7 +985,7 @@ function cluster(alpha) {
 
 function tick_2(e) {
   circle
-    .each(cluster_2(10 * e.alpha * e.alpha))
+    .each(cluster_2(25 * e.alpha * e.alpha))
     .each(collide(.4))
     .attr("cx", function(d) {
       return d.x;
@@ -936,14 +1005,14 @@ function cluster_2(alpha) {
     if (cluster === d) {
       if (d.cluster == selec_genre) {
         cluster = {
-          x: 4 * width / 5,
-          y: height / 6,
+          x: 0.6 * width,
+          y: 0.4 * height,
           radius: -d.radius
         };
       } else {
         cluster = {
-          x: 6*width / 4,
-          y: height / 4,
+          x: 0.5 * width,
+          y: 3 * height,
           radius: -d.radius
         };
       }
@@ -965,8 +1034,6 @@ function cluster_2(alpha) {
     }
   };
 }
-
-
 
 
 // Resolves collisions between d and all other circles.
@@ -998,37 +1065,44 @@ function collide(alpha) {
 }
 
 
-var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9ee virtuellement sous forme d'une grappe avec la librairie DS3.js";
-var titre_principal = svg.selectAll("XXX22")
+var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme d'une grappe avec la librairie DS3.js";
+var titre_principal = svg.selectAll("XXX21")
   .data([1])
   .enter()
   .append("text")
-  .attr("x", 10)
-  .attr("y", 12)
+  .attr("x", 5)
+  .attr("y", 14)
   .text(text_p)
-  .attr("font-family", "Lucida Sans Typewriter")
-  .attr("font-size", 12)
+  .attr("font-family", "Tahoma")
+  .attr("font-size", 16)
   .attr("fill", "black");
 
 
-d3.select("#GO").on("click", function() {
-  selec_genre = d3.select("#form_selec_genre").property("value");
-  label.attr("dx", -100)
-    .attr("dy", -100);
-  label.filter(function(d) {
-      return (d.cluster == selec_genre | d.cluster2 == selec_genre);
-    })
-    .attr("dx", 10)
-    .attr("dy", function(d, i) {
-      return 50 + i * 15
-    });
-  force.on("tick", tick_2)
-    .start();
-});
+var rectangle_reset = svg.selectAll("rect3")
+  .data([1])
+  .enter().append("rect")
+  .attr("x", 5)
+  .attr("y", function() {
+    return height - 35
+  })
+  .attr("width", 100)
+  .attr("height", 30)
+  .style("fill", "black")
+  .on("click", function() {
+    label.attr("dx", -100)
+      .attr("dy", -100);
+    force.on("tick", tick)
+      .start();
+  });
 
-d3.select("#RESET").on("click", function() {
-  label.attr("dx", -100)
-    .attr("dy", -100);
-  force.on("tick", tick)
-    .start();
-});
+var rectangle_reset_label = svg.selectAll("text3")
+  .data([1])
+  .enter().append("text")
+  .text("Reset")
+  .attr("x", 10)
+  .attr("y", function() {
+    return height - 16
+  })
+  .attr("font-family", "Tahoma")
+  .attr("font-size", 14)
+  .style("fill", "white");
