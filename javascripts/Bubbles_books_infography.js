@@ -809,7 +809,7 @@ for (i = 0; jsonLivres.length > i; i += 1) {
   });
 }
 
-var width = 1100,
+var width = 1000,
   height = 575,
   padding = 4, // separation between same-color circles
   clusterPadding = 6; // separation between different-color circles
