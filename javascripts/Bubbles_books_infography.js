@@ -1105,4 +1105,4 @@ var rectangle_reset_label = svg.selectAll("text3")
   })
   .attr("font-family", "Tahoma")
   .attr("font-size", 14)
-  .style("fill", "white");
+  .style("fill", "white"); 
