@@ -14,7 +14,7 @@ asyncCounter.prototype.increment = function() {
 
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
 
-var jsonLivres
+var jsonLivres;
 //truc qui toune
 d3.json("/javascripts/livres2.json", function(data) {
     jsonLivres = data;
