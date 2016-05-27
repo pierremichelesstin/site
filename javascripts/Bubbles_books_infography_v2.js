@@ -16,7 +16,7 @@ var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2
 
 var jsonLivres;
 //truc qui toune
-d3.json("livres2.json", function(data) {
+d3.json("javascripts/livres2.json", function(data) {
     jsonLivres = data;
     myAsyncCounter.increment();});
 
