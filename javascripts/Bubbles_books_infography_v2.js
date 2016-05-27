@@ -32,4 +32,4 @@ function draw() { //fonction appellee quand le compteur de telechargements attei
         .style("border", "1px solid black");
 
 }
-
+}
