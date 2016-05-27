@@ -1,4 +1,3 @@
- // ============== Science-fiction =========================													
   {
     "titre": "Les futurs myst\xE8res de paris - Roland C Wagner",
     "tomes": 6,
@@ -119,7 +118,6 @@
     "tomes": 1,
     "subgenre": "Science-fiction"
   },
-  // ==============Space opera=======================														
   {
     "titre": "Le cycle de la culture - Iam M. Banks",
     "tomes": 4,
@@ -175,9 +173,7 @@
     "titre": "L'h\xE9r\xE9sie d'Horus ",
     "tomes": 3,
     "subgenre": "Space-op\xE9ra",
-  },
-  // ==============Uchronie =========================													
-  {
+  },  {
     "titre": "R\xEAves de gloire - Roland C Wagner",
     "tomes": 1,
     "subgenre": "Uchronie",
@@ -210,9 +206,7 @@
     "titre": "Cinacitt\xE0 - Tommaso Pincio",
     "tomes": 1,
     "subgenre": "Uchronie"
-  },
-  // ==============Policiers=============													
-  {
+  },  {
     "titre": "Le roman d'un crime - Maj Sj\xF6wall et Per Wahl\xF6\xF6",
     "tomes": 10,
     "subgenre": "Policier",
@@ -236,9 +230,7 @@
     "tomes": 1,
     "subgenre": "Policier",
     "subgenre2": "OLNI"
-  },
-  // ==============Fantsay ====================											
-  {
+  },  {
     "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
     "tomes": 15,
     "subgenre": "Fantasy"
@@ -342,9 +334,7 @@
     "tomes": 2,
     "subgenre": "Fantasy",
     "subgenre2": "Histoire"
-  },
-  // ==============Dark fantasy =====================													
-  {
+  }, {
     "titre": "La compagnie noire - Glen Cook",
     "tomes": 9,
     "subgenre": "Dark fantasy"
@@ -381,9 +371,7 @@
     "titre": "Le mythe de Cthulhu- HP Lovecraft",
     "tomes": 1,
     "subgenre": "Dark fantasy"
-  },
-  // ==============Histoire====================													
-  {
+  },  {
     "titre": "Une histoire populaire des Etats-Unis - Howard Zinn",
     "tomes": 1,
     "subgenre": "Histoire",
@@ -402,9 +390,7 @@
     "tomes": 1,
     "subgenre": "Histoire",
     "subgenre2": "Societ\xE9"
-  },
-  // ==============Ecologie=====================													
-  {
+  },  {
     "titre": "M\xE9tamorphoses du travail - Andr\xE9  Gorz",
     "tomes": 1,
     "subgenre": "Ecologie",
@@ -429,9 +415,7 @@
     "tomes": 1,
     "subgenre": "Ecologie",
     "subgenre2": "Societ\xE9"
-  },
-  // ==============Societe=====================													
-  {
+  },  {
     "titre": "Manifeste convivialiste. D\xE9claration d'interd\xE9pendance",
     "tomes": 1,
     "subgenre": "Societ\xE9"
@@ -482,9 +466,7 @@
     "titre": "The Prosperous Few and the Restless Many - Noam Chomsky",
     "tomes": 1,
     "subgenre": "Societ\xE9",
-  },
-  // ==============Anarchisme=====================													
-  {
+  },  {
     "titre": "The Next Revolution: Popular Assemblies... - Murray Bookchin",
     "tomes": 1,
     "subgenre": "Anarchisme",
@@ -494,9 +476,7 @@
     "tomes": 1,
     "subgenre": "Anarchisme",
     "subgenre2": "Histoire"
-  },
-  // ==============Classique=====================													
-  {
+  },  {
     "titre": "Lettre \xE0 D. - Andr\xE9 Gorz",
     "tomes": 1,
     "subgenre": "Classique"
@@ -570,9 +550,7 @@
     "tomes": 1,
     "subgenre": "Classique",
     "subgenre2": "Science-fiction"
-  },
-  // ==============OLNI=====================	
-  {
+  },  {
     "titre": "Le parti des co\xEEncidences - Mohamed Boudjedra",
     "tomes": 1,
     "subgenre": "OLNI"
