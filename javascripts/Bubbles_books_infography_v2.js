@@ -23,8 +23,8 @@ d3.json("livres.json", function(data) {
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
     var jsonLivres_length = Object.keys(jsonLivres).length;
 
-    var width = 1000,
-        height = 575,
+    var width = 50,
+        height = 50,
 
     var svg = d3.select("graphe2").append("svg")
         .attr("width", width)
