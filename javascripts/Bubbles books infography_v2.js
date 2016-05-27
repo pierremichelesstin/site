@@ -204,7 +204,7 @@ var force = d3.layout.force()
   .on("tick", tick)
   .start();
 
-var svg = d3.select("graphe1").append("svg")
+var svg = d3.select("graphe2").append("svg")
   .attr("width", width)
   .attr("height", height)
   .style("border", "1px solid black");
