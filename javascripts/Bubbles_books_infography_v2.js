@@ -11,13 +11,14 @@ asyncCounter.prototype.increment = function() {
     }
 }
 
+
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
 
 var jsonLivres
 //truc qui toune
 d3.json("livres.json", function(data) {
     jsonLivres = data;
-    myAsyncCounter.increment(); //on incremente le compteur pour dire que un fichier est chargé });
+    myAsyncCounter.increment();});
 
 
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
@@ -32,4 +33,4 @@ function draw() { //fonction appellee quand le compteur de telechargements attei
         .style("border", "1px solid black");
 
 }
-}
+
