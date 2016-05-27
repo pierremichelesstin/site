@@ -25,7 +25,7 @@ function draw() { //fonction appellee quand le compteur de telechargements attei
     var jsonLivres_length = Object.keys(jsonLivres).length;
 
     var width = 50,
-        height = 50,
+        height = 50;
 
     var svg = d3.select("graphe2").append("svg")
         .attr("width", width)
