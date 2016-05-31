@@ -20,8 +20,8 @@ d3.json("javascripts/livres2.json", function(data) {
     jsonLivresb = data;
     myAsyncCounter.increment();});
 console.log("___________")
-var jsonLivres_length = Object.keys(jsonLivresb).length;
-console.log(jsonLivres_length)
+var jsonLivres_length2 = Object.keys(jsonLivresb).length;
+console.log(jsonLivres_length2)
 console.log("___________")
 
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
