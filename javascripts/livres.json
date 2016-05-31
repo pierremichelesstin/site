@@ -1,4 +1,4 @@
-  {
+  [{
       "titre": "Les futurs myst\xE8res de paris - Roland C Wagner",
       "tomes": 6,
       "subgenre": "Science-fiction",
@@ -585,4 +585,4 @@
       "titre": " How to Read Foucault - Johanna Oksala",
       "tomes": 1,
       "subgenre": "OLNI"
-  }
+  }]
