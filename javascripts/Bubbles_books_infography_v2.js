@@ -20,7 +20,9 @@ d3.json("javascripts/livres2.json", function(data) {
     jsonLivresb = data;
     myAsyncCounter.increment();});
 console.log("___________")
-//var jsonLivres_length2 = Object.keys(jsonLivresb).length;
+var jsonLivres_length2 = jsonLivresb.length;
+console.log(jsonLivres_length2)
+console.log("___________")
 console.log(jsonLivres_length)
 console.log("___________")
 
