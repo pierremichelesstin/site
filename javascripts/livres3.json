@@ -228,4 +228,108 @@
       "tomes": 1,
       "subgenre": "Policier",
       "subgenre2": "OLNI"
+  }, {
+      "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
+      "tomes": 15,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Les chroniques de Krondor - Raymond Elias Feist",
+      "tomes": 6,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "La trilogie du magicien noir - Trudi Canavan",
+      "tomes": 3,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "La roue du temps - Robert Jordan",
+      "tomes": 10,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Le trône de fer - GRR Martin",
+      "tomes": 5,
+      "subgenre": "Fantasy",
+      "subgenre2": "Dark fantasy"
+  }, {
+      "titre": "Le seigneur des anneaux - JRR Torlkien",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Bilbo le hobbit- JRR Torlkien",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Le silmarion - JRR Torlkien",
+      "tomes": 1,
+      "subgenre": "Fantasy",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Gagner la guerre - Jean-Phillipe Jaworski",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Janua Vera - Jean-Phillipe Jaworski",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Les chroniques des Féals - Mathieu Gaborit",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Le chevalier-mage - Gene Wolf ",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Le sang des Ambrose - James Enge ",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Porcelaine - Estelle Faye ",
+      "tomes": 1,
+      "subgenre": "Fantasy",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le lion de Macédoine - David Gemmell  ",
+      "tomes": 2,
+      "subgenre": "Fantasy",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "L'assassin royal - Robin Hobb  ",
+      "tomes": 6,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Les aventuriers de la mer - Robin Hobb  ",
+      "tomes": 3,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "La couronne des 7 royaumes - David B. Coe  ",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Le secret de Ji -  Pierre Grimbert  ",
+      "tomes": 4,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Le clan des Otori - Lian Hearn  ",
+      "tomes": 4,
+      "subgenre": "Fantasy",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le cycle de Phénix - Bernard Simonay  ",
+      "tomes": 3,
+      "subgenre": "Fantasy",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "Royaume de vent et de colères - Jean-Laurent Del Socoro ",
+      "tomes": 1,
+      "subgenre": "Fantasy",
+      "subgenre2": "Uchronie"
+  }, {
+      "titre": "Winterheim - Fabrice Colin ",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Les dames du lac - Marion Zimmer Bradley",
+      "tomes": 2,
+      "subgenre": "Fantasy",
+      "subgenre2": "Histoire"
   }]
