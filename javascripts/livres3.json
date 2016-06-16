@@ -100,4 +100,149 @@
       "tomes": 1,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
+  }, {
+      "titre": "Forteresse - Georges Panchard ",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "L'opéra de Shaya - Sylvie Lainé ",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les Olympiades truquées - Joëlle Wintrebert",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Omale - Laurent Genefort",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Le cycle de la culture - Iam M. Banks",
+      "tomes": 4,
+      "subgenre": "Space-opéra",
+      "subgenre2": "Anarchisme"
+  }, {
+      "titre": "Hyperion - Dan Simmons",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "La bohême et l'ivraie - Ayerdhal",
+      "tomes": 1,
+      "subgenre": "Space-opéra",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Le chant du cosmos - Roland C Wagner",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Poupée aux yeux morts - Roland C Wagner",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "L'espace de la révélation - Reynolds, Alastair",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "La saga Vorkosigan - Lois McMaster Bujold",
+      "tomes": 2,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Le dragon ne dort jamais - Glen Cook",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Un feu sur l'abïme - Bernoir Vinge",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Le système Valentine  - John Varley",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Les guerriers du silence - Pierre Bordage",
+      "tomes": 2,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Les Seigneurs de l’Instrumentalité - Cordwainer Smith",
+      "tomes": 2,
+      "subgenre": "Space-opéra",
+      "subgenre2": "OLNI"
+  }, {
+      "titre": "L'hérésie d'Horus ",
+      "tomes": 3,
+      "subgenre": "Space-opéra",
+  }, {
+      "titre": "Rêves de gloire - Roland C Wagner",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Françatome -Johan Heliot",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le club des policiers yiddish - Michael Chabon",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Policier"
+  }, {
+      "titre": "Fatherland- Robert Harris",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Policier"
+  }, {
+      "titre": "Le maïtre du haut chateau - Phillip K Dick",
+      "tomes": 1,
+      "subgenre": "Uchronie"
+  }, {
+      "titre": "Aucun homme n'est une ïle - Christophe Lambert",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Cinacittà - Tommaso Pincio",
+      "tomes": 1,
+      "subgenre": "Uchronie"
+  }, {
+      "titre": "Le roman d'un crime - Maj Sjöwall et Per Wahlöö",
+      "tomes": 10,
+      "subgenre": "Policier",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Nestor Burma - Léo Malet",
+      "tomes": 3,
+      "subgenre": "Policier",
+      "subgenre2": "Classique"
+  }, {
+      "titre": "L'échiquier du mal- Dan Simmons ",
+      "tomes": 1,
+      "subgenre": "Policier"
+  }, {
+      "titre": "Les racines du mal - Maurice G Dantec",
+      "tomes": 1,
+      "subgenre": "Policier",
+      "subgenre2": "Science-fiction"
+  }, {
+      "titre": "The city and the city - China Melville",
+      "tomes": 1,
+      "subgenre": "Policier",
+      "subgenre2": "OLNI"
+  }, {
+      "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
+      "tomes": 15,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "Les chroniques de Krondor - Raymond Elias Feist",
+      "tomes": 6,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "La trilogie du magicien noir - Trudi Canavan",
+      "tomes": 3,
+      "subgenre": "Fantasy"
+  }, {
+      "titre": "La roue du temps - Robert Jordan",
+      "tomes": 10,
+      "subgenre": "Fantasy"
   }]
