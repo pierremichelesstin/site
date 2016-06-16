@@ -1,24 +1,19 @@
   [{
-      "titre": "Les futurs myst de paris 1 - Roland C Wagner",
+      "titre": "Les futurs mystères de paris - Roland C Wagner",
       "tomes": 6,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
-  },
-    {
-      "titre": "Les futurs myst de paris 2 - Roland C Wagner",
-      "tomes": 6,
+  }, {
+      "titre": "La horde du contrevent - Alain Damasio",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Le déchronologue - Stéphane Beauverger",
+      "tomes": 1,
       "subgenre": "Science-fiction",
-      "subgenre2": "Policier"
-  },
-    {
-      "titre": "Les futurs myst de paris 3 - Roland C Wagner",
-      "tomes": 6,
-      "subgenre": "Science-fiction",
-      "subgenre2": "Policier"
-  },
-    {
-      "titre": "Les futurs myst de paris 4 - Roland C Wagner",
-      "tomes": 6,
-      "subgenre": "Science-fiction",
-      "subgenre2": "Policier"
+      "subgenre2": "Uchronie"
+  }, {
+      "titre": "La ménagerie de papier - Ken Liu",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
   }]
