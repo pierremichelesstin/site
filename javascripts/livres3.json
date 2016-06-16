@@ -1,5 +1,5 @@
   [{
-      "titre": "Les futurs myst\xE8res de paris - Roland C Wagner",
+      "titre": "Les futurs mystères de paris - Roland C Wagner",
       "tomes": 6,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
@@ -8,16 +8,16 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "Le d\xE9chronologue - St\xE9phane Beauverger",
+      "titre": "Le déchronologue - Stéphane Beauverger",
       "tomes": 1,
       "subgenre": "Science-fiction",
       "subgenre2": "Uchronie"
   }, {
-      "titre": "La m\xE9nagerie de papier - Ken Liu",
+      "titre": "La ménagerie de papier - Ken Liu",
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "Les d\xE9poss\xE9d\xE9s - Ursula K Le Guin",
+      "titre": "Les dépossédés - Ursula K Le Guin",
       "tomes": 1,
       "subgenre": "Science-fiction",
       "subgenre2": "Anarchisme"
@@ -43,7 +43,7 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "Trilogie de l'\xE2ge d'or - John C Wright",
+      "titre": "Trilogie de l'âge d'or - John C Wright",
       "tomes": 3,
       "subgenre": "Science-fiction"
   }, {
@@ -55,10 +55,10 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "Ronge - Yves Fr\xE9mion",
+      "titre": "Ronge - Yves Frémion",
       "tomes": 1,
       "subgenre": "Science-fiction",
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
       "titre": "Ubik - Philip K Dick",
       "tomes": 1,
@@ -82,7 +82,7 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "Axiomatique / Radieux / Oc\xE9anique  - Greg Egan",
+      "titre": "Axiomatique / Radieux / Océanique  - Greg Egan",
       "tomes": 3,
       "subgenre": "Science-fiction"
   }, {
@@ -91,12 +91,12 @@
       "subgenre": "Science-fiction",
       "subgenre2": "Ecologie"
   }, {
-      "titre": "La fille fl\xFAte et autres fragments de...- Paolo Bacigalupi",
+      "titre": "La fille flûte et autres fragments de...- Paolo Bacigalupi",
       "tomes": 1,
       "subgenre": "Science-fiction",
       "subgenre2": "Ecologie"
   }, {
-      "titre": "F\xE9es, weed et guillotines...- Karim Berrouka",
+      "titre": "Fées, weed et guillotines...- Karim Berrouka",
       "tomes": 1,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
@@ -105,14 +105,14 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "L'op\xE9ra de Shaya - Sylvie Lain\xE9 ",
+      "titre": "L'opéra de Shaya - Sylvie Lainé ",
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "Les Olympiades truquées - Jo\xEBlle Wintrebert",
+      "titre": "Les Olympiades truquées - Joëlle Wintrebert",
       "tomes": 1,
       "subgenre": "Science-fiction",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
       "titre": "Omale - Laurent Genefort",
       "tomes": 1,
@@ -120,65 +120,65 @@
   }, {
       "titre": "Le cycle de la culture - Iam M. Banks",
       "tomes": 4,
-      "subgenre": "Space-op\xE9ra",
+      "subgenre": "Space-opéra",
       "subgenre2": "Anarchisme"
   }, {
       "titre": "Hyperion - Dan Simmons",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
-      "titre": "La boh\xEAme et l'ivraie - Ayerdhal",
+      "titre": "La bohême et l'ivraie - Ayerdhal",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra",
-      "subgenre2": "Societ\xE9"
+      "subgenre": "Space-opéra",
+      "subgenre2": "Societé"
   }, {
       "titre": "Le chant du cosmos - Roland C Wagner",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
-      "titre": "Poup\xE9e aux yeux morts - Roland C Wagner",
+      "titre": "Poupée aux yeux morts - Roland C Wagner",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
-      "titre": "L'espace de la r\xE9v\xE9lation - Reynolds, Alastair",
+      "titre": "L'espace de la révélation - Reynolds, Alastair",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
       "titre": "La saga Vorkosigan - Lois McMaster Bujold",
       "tomes": 2,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
       "titre": "Le dragon ne dort jamais - Glen Cook",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
-      "titre": "Un feu sur l'ab\xEEme - Bernoir Vinge",
+      "titre": "Un feu sur l'abïme - Bernoir Vinge",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
-      "titre": "Le syst\xE8me Valentine  - John Varley",
+      "titre": "Le système Valentine  - John Varley",
       "tomes": 1,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
       "titre": "Les guerriers du silence - Pierre Bordage",
       "tomes": 2,
-      "subgenre": "Space-op\xE9ra"
+      "subgenre": "Space-opéra"
   }, {
       "titre": "Les Seigneurs de l’Instrumentalité - Cordwainer Smith",
       "tomes": 2,
-      "subgenre": "Space-op\xE9ra",
+      "subgenre": "Space-opéra",
       "subgenre2": "OLNI"
   }, {
-      "titre": "L'h\xE9r\xE9sie d'Horus ",
+      "titre": "L'hérésie d'Horus ",
       "tomes": 3,
-      "subgenre": "Space-op\xE9ra",
+      "subgenre": "Space-opéra",
   }, {
-      "titre": "R\xEAves de gloire - Roland C Wagner",
+      "titre": "Rêves de gloire - Roland C Wagner",
       "tomes": 1,
       "subgenre": "Uchronie",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Fran\xE7atome -Johan Heliot",
+      "titre": "Françatome -Johan Heliot",
       "tomes": 1,
       "subgenre": "Uchronie",
       "subgenre2": "Histoire"
@@ -193,30 +193,30 @@
       "subgenre": "Uchronie",
       "subgenre2": "Policier"
   }, {
-      "titre": "Le ma\xEEtre du haut chateau - Phillip K Dick",
+      "titre": "Le maïtre du haut chateau - Phillip K Dick",
       "tomes": 1,
       "subgenre": "Uchronie"
   }, {
-      "titre": "Aucun homme n'est une \xEEle - Christophe Lambert",
+      "titre": "Aucun homme n'est une ïle - Christophe Lambert",
       "tomes": 1,
       "subgenre": "Uchronie",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Cinacitt\xE0 - Tommaso Pincio",
+      "titre": "Cinacittà - Tommaso Pincio",
       "tomes": 1,
       "subgenre": "Uchronie"
   }, {
-      "titre": "Le roman d'un crime - Maj Sj\xF6wall et Per Wahl\xF6\xF6",
+      "titre": "Le roman d'un crime - Maj Sjöwall et Per Wahlöö",
       "tomes": 10,
       "subgenre": "Policier",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
-      "titre": "Nestor Burma - L\xE9o Malet",
+      "titre": "Nestor Burma - Léo Malet",
       "tomes": 3,
       "subgenre": "Policier",
       "subgenre2": "Classique"
   }, {
-      "titre": "L'\xE9chiquier du mal- Dan Simmons ",
+      "titre": "L'échiquier du mal- Dan Simmons ",
       "tomes": 1,
       "subgenre": "Policier"
   }, {
@@ -246,7 +246,7 @@
       "tomes": 10,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Le tr\xF4ne de fer - GRR Martin",
+      "titre": "Le trône de fer - GRR Martin",
       "tomes": 5,
       "subgenre": "Fantasy",
       "subgenre2": "Dark fantasy"
@@ -272,7 +272,7 @@
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Les chroniques des F\xE9als - Mathieu Gaborit",
+      "titre": "Les chroniques des Féals - Mathieu Gaborit",
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
@@ -289,7 +289,7 @@
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Le lion de Mac\xE9doine - David Gemmell  ",
+      "titre": "Le lion de Macédoine - David Gemmell  ",
       "tomes": 2,
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
@@ -315,12 +315,12 @@
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Le cycle de Ph\xE9nix -  Bernard Simonay  ",
+      "titre": "Le cycle de Phénix -  Bernard Simonay  ",
       "tomes": 3,
       "subgenre": "Fantasy",
       "subgenre2": "Ecologie"
   }, {
-      "titre": "Royaume de vent et de col\xE8res - Jean-Laurent Del Socoro ",
+      "titre": "Royaume de vent et de colères - Jean-Laurent Del Socoro ",
       "tomes": 1,
       "subgenre": "Fantasy",
       "subgenre2": "Uchronie"
@@ -338,12 +338,12 @@
       "tomes": 9,
       "subgenre": "Dark fantasy"
   }, {
-      "titre": "L'\xE9p\xE9e bris\xE9e - Poul Anderson",
+      "titre": "L'épée brisée - Poul Anderson",
       "tomes": 1,
       "subgenre": "Dark fantasy",
       "subgenre2": "Fantasy"
   }, {
-      "titre": "Les intrumentalit\xE9s de la nuit (3) - Glen Cook",
+      "titre": "Les intrumentalités de la nuit (3) - Glen Cook",
       "tomes": 1,
       "subgenre": "Dark fantasy"
   }, {
@@ -363,7 +363,7 @@
       "tomes": 1,
       "subgenre": "Dark fantasy"
   }, {
-      "titre": "Wastburg - C\xE9dric Ferrand",
+      "titre": "Wastburg - Cédric Ferrand",
       "tomes": 1,
       "subgenre": "Dark fantasy"
   }, {
@@ -374,7 +374,7 @@
       "titre": "Une histoire populaire des Etats-Unis - Howard Zinn",
       "tomes": 1,
       "subgenre": "Histoire",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
       "titre": "Histoire de chicago - Pap Ndiaye",
       "tomes": 1,
@@ -388,83 +388,83 @@
       "titre": "What Uncle Sam Really Wants - Noam Chomsky",
       "tomes": 1,
       "subgenre": "Histoire",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
-      "titre": "M\xE9tamorphoses du travail - Andr\xE9  Gorz",
+      "titre": "Métamorphoses du travail - André  Gorz",
       "tomes": 1,
       "subgenre": "Ecologie",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
-      "titre": "Ecologica - Andr\xE9  Gorz",
+      "titre": "Ecologica - André  Gorz",
       "tomes": 1,
       "subgenre": "Ecologie",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
-      "titre": "B\xE2tir la civilisation du temps lib\xE9r\xE9 - Andr\xE9  Gorz",
+      "titre": "Bâtir la civilisation du temps libéré - André  Gorz",
       "tomes": 1,
       "subgenre": "Ecologie",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
-      "titre": "Renverser nos mani\xE8res de penser - Serge Latouche",
+      "titre": "Renverser nos manières de penser - Serge Latouche",
       "tomes": 1,
       "subgenre": "Ecologie",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
       "titre": "Manifeste Negawatt - Collectif",
       "tomes": 1,
       "subgenre": "Ecologie",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
-      "titre": "Manifeste convivialiste. D\xE9claration d'interd\xE9pendance",
+      "titre": "Manifeste convivialiste. Déclaration d'interdépendance",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
-      "titre": "La convivialit\xE9 - Ivan Illitch",
+      "titre": "La convivialité - Ivan Illitch",
       "tomes": 1,
-      "subgenre": "Societ\xE9",
+      "subgenre": "Societé",
       "subgenre2": "Ecologie"
   }, {
-      "titre": "L'opinion, \xE7a se travaille...  - SH, DV, HM",
+      "titre": "L'opinion, ça se travaille...  - SH, DV, HM",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
       "titre": "La fin de l'homme rouge - Svetlana Aleksievitch",
       "tomes": 1,
-      "subgenre": "Societ\xE9",
+      "subgenre": "Societé",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Nouveau manifeste des \xE9conomistes atterr\xE9s - Collectif",
+      "titre": "Nouveau manifeste des économistes atterrés - Collectif",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
-      "titre": "Les naufrag\xE9s du libre-\xE9change - ATTAC",
+      "titre": "Les naufragés du libre-échange - ATTAC",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
       "titre": "Artists in Times of War - Howard Zinn",
       "tomes": 1,
-      "subgenre": "Societ\xE9",
+      "subgenre": "Societé",
       "subgenre2": "Histoire"
   }, {
       "titre": "Terrorism and war- Howard Zinn",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
       "titre": "Media Control - Noam Chomsky",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
       "titre": "Le travail - Dominique Meda",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
       "titre": "Les nouveaux chiens de garde - Serge Halimi",
       "tomes": 1,
-      "subgenre": "Societ\xE9"
+      "subgenre": "Societé"
   }, {
       "titre": "The Prosperous Few and the Restless Many - Noam Chomsky",
       "tomes": 1,
-      "subgenre": "Societ\xE9",
+      "subgenre": "Societé",
   }, {
       "titre": "The Next Revolution: Popular Assemblies... - Murray Bookchin",
       "tomes": 1,
@@ -476,15 +476,15 @@
       "subgenre": "Anarchisme",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Lettre \xE0 D. - Andr\xE9 Gorz",
+      "titre": "Lettre à D. - André Gorz",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "Voage au bout de la nuit - Louis-Ferdinand C\xE9lin",
+      "titre": "Voage au bout de la nuit - Louis-Ferdinand Célin",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "P\xEAcheurs d'Islande - Pierre Lotti",
+      "titre": "Pêcheurs d'Islande - Pierre Lotti",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
@@ -519,11 +519,11 @@
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "Les particules \xE9l\xE9mentaires — Michel Houellebecq",
+      "titre": "Les particules élémentaires — Michel Houellebecq",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "Le joueur d’\xE9checs - Stefan Zweig ",
+      "titre": "Le joueur d’échecs - Stefan Zweig ",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
@@ -535,26 +535,26 @@
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "L'espoir - Andr\xE9 Malraux ",
+      "titre": "L'espoir - André Malraux ",
       "tomes": 1,
       "subgenre": "Classique",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Le proc\xE8s - Franz Kafka ",
+      "titre": "Le procès - Franz Kafka ",
       "tomes": 1,
       "subgenre": "Classique",
       "subgenre2": "OLNI"
   }, {
-      "titre": "La nuit des temps - Ren\xE9  Barjavel ",
+      "titre": "La nuit des temps - René  Barjavel ",
       "tomes": 1,
       "subgenre": "Classique",
       "subgenre2": "Science-fiction"
   }, {
-      "titre": "Le parti des co\xEEncidences - Mohamed Boudjedra",
+      "titre": "Le parti des coïncidences - Mohamed Boudjedra",
       "tomes": 1,
       "subgenre": "OLNI"
   }, {
-      "titre": "Yama Loka Terminus - L\xE9o Henry",
+      "titre": "Yama Loka Terminus - Léo Henry",
       "tomes": 1,
       "subgenre": "OLNI"
   }, {
@@ -577,10 +577,10 @@
       "subgenre": "OLNI",
       "subgenre2": "Science-fiction"
   }, {
-      "titre": "Ep\xE9p\xE9 - Ferenc Karinthy",
+      "titre": "Epépé - Ferenc Karinthy",
       "tomes": 1,
       "subgenre": "OLNI",
-      "subgenre2": "Societ\xE9"
+      "subgenre2": "Societé"
   }, {
       "titre": " How to Read Foucault - Johanna Oksala",
       "tomes": 1,
