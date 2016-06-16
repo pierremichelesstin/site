@@ -2,4 +2,210 @@
       "tomes": 6,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
+  }, {  "titre": "Les futurs mystères de paris - Roland C Wagner",
+      "tomes": 6,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Policier"
+  }, {
+      "titre": "La horde du contrevent - Alain Damasio",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Le déchronologue - Stéphane Beauverger",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Uchronie"
+  }, {
+      "titre": "La ménagerie de papier - Ken Liu",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les dépossédés - Ursula K Le Guin",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Anarchisme"
+  }, {
+      "titre": "Le temps incertain -  Michel Jeury",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les singes du temps -  Michel Jeury",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Aqua (TM) - Jean-Marc Ligny",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "Des milliards de tapis de cheveux - Andreas Eschbach ",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "La tour de Babylone - Ted Chaing",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Trilogie de l'âge d'or - John C Wright",
+      "tomes": 3,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les gardiens d'Aleph-deux - Colin Marchika",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Le silence de l'espace - Tommaso Pincio",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Ronge - Yves Frémion",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre": "Societé"
+  }, {
+      "titre": "Ubik - Philip K Dick",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "OLNI"
+  }, {
+      "titre": "Rasta solitude - Philippe Curval",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Chanson pour Lya - GRR Martin",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Nicolas Eymerich, inquisiteur - Valerio Evangelisti",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Skin Trade - GRR Martin",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Axiomatique, Radieux, Océanique  - Greg Egan",
+      "tomes": 3,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "La fille automate - Paolo Bacigalupi",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "La fille flûte et autres fragments de...- Paolo Bacigalupi",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "Fées, weed et guillotines...- Karim Berrouka",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Policier"
+  }, {
+      "titre": "Forteresse - Georges Panchard ",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "L'opéra de Shaya - Sylvie Lainé ",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les Olympiades truquées - Joëlle Wintrebert",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Omale - Laurent Genefort",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Le cycle de la culture - Iam M. Banks",
+      "tomes": 4,
+      "subgenre": "Space-opéra",
+      "subgenre2": "Anarchisme"
+  }, {
+      "titre": "Hyperion - Dan Simmons",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "La bohême et l'ivraie - Ayerdhal",
+      "tomes": 1,
+      "subgenre": "Space-opéra",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Le chant du cosmos - Roland C Wagner",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Poupée aux yeux morts - Roland C Wagner",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "L'espace de la révélation - Reynolds, Alastair",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "La saga Vorkosigan - Lois McMaster Bujold",
+      "tomes": 2,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Le dragon ne dort jamais - Glen Cook",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Un feu sur l'abîme - Bernoir Vinge",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Le système Valentine  - John Varley",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Les guerriers du silence - Pierre Bordage",
+      "tomes": 2,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Les Seigneurs de l’Instrumentalité - Cordwainer Smith",
+      "tomes": 2,
+      "subgenre": "Space-opéra",
+      "subgenre2": "OLNI"
+  }, {
+      "titre": "L'hérésie d'Horus ",
+      "tomes": 3,
+      "subgenre": "Space-opéra",
+  }, {
+      "titre": "Rêves de gloire - Roland C Wagner",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Françatome -Johan Heliot",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le club des policiers yiddish - Michael Chabon",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Policier"
+  }, {
+      "titre": "Fatherland- Robert Harris",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Policier"
+  }, {
+      "titre": "Le maître du haut chateau - Phillip K Dick",
+      "tomes": 1,
+      "subgenre": "Uchronie"
+  }, {
+      "titre": "Aucun homme n'est une île - Christophe Lambert",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Cinacittà - Tommaso Pincio",
+      "tomes": 1,
+      "subgenre": "Uchronie"
   }]
