@@ -32,4 +32,60 @@
       "titre": "Les singes du temps -  Michel Jeury",
       "tomes": 1,
       "subgenre": "Science-fiction"
+  }, {
+      "titre": "Aqua (TM) - Jean-Marc Ligny",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "Des milliards de tapis de cheveux - Andreas Eschbach ",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "La tour de Babylone - Ted Chaing",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Trilogie de l'âge d'or - John C Wright",
+      "tomes": 3,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les gardiens d'Aleph-deux - Colin Marchika",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Le silence de l'espace - Tommaso Pincio",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Ronge - Yves Frémion",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre": "Societé"
+  }, {
+      "titre": "Ubik - Philip K Dick",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "OLNI"
+  }, {
+      "titre": "Rasta solitude - Philippe Curval",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Chanson pour Lya - GRR Martin",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Nicolas Eymerich, inquisiteur - Valerio Evangelisti",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Skin Trade - GRR Martin",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Axiomatique / Radieux / Océanique  - Greg Egan",
+      "tomes": 3,
+      "subgenre": "Science-fiction"
   }]
