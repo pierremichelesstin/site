@@ -158,4 +158,22 @@
       "titre": "Un feu sur l'abîme - Bernoir Vinge",
       "tomes": 1,
       "subgenre": "Space-opéra"
+  }, {
+      "titre": "Les guerriers du silence - Pierre Bordage",
+      "tomes": 2,
+      "subgenre": "Space-opéra"
+  }, {
+      "titre": "Les Seigneurs de l’Instrumentalité - Cordwainer Smith",
+      "tomes": 2,
+      "subgenre": "Space-opéra",
+      "subgenre2": "OLNI"
+  }, {
+      "titre": "L'hérésie d'Horus ",
+      "tomes": 3,
+      "subgenre": "Space-opéra",
+  }, {
+      "titre": "Rêves de gloire - Roland C Wagner",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Histoire"
   }]
