@@ -332,4 +332,158 @@
       "tomes": 2,
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
+  }, {
+      "titre": "La compagnie noire - Glen Cook",
+      "tomes": 9,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "L'épée brisée - Poul Anderson",
+      "tomes": 1,
+      "subgenre": "Dark fantasy",
+      "subgenre2": "Fantasy"
+  }, {
+      "titre": "Les intrumentalités de la nuit (3) - Glen Cook",
+      "tomes": 1,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "Chien du heaume- Justine Niogret",
+      "tomes": 1,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "Mordre le bouclier- Justine Niogret",
+      "tomes": 1,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "La chronique des immortels - Wolfgang Hohlbein",
+      "tomes": 5,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "Aquaforte - KJ Bishop",
+      "tomes": 1,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "Wastburg - Cédric Ferrand",
+      "tomes": 1,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "Le mythe de Cthulhu- HP Lovecraft",
+      "tomes": 1,
+      "subgenre": "Dark fantasy"
+  }, {
+      "titre": "Une histoire populaire des Etats-Unis - Howard Zinn",
+      "tomes": 1,
+      "subgenre": "Histoire",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Histoire de Chicago - Pap Ndiaye",
+      "tomes": 1,
+      "subgenre": "Histoire"
+  }, {
+      "titre": "La Guerre d'Espagne - Burnett Bolloten",
+      "tomes": 1,
+      "subgenre": "Histoire",
+      "subgenre2": "Anarchisme"
+  }, {
+      "titre": "What Uncle Sam Really Wants - Noam Chomsky",
+      "tomes": 1,
+      "subgenre": "Histoire",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Métamorphoses du travail - André Gorz",
+      "tomes": 1,
+      "subgenre": "Ecologie",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Ecologica - André Gorz",
+      "tomes": 1,
+      "subgenre": "Ecologie",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Bâtir la civilisation du temps libéré - André Gorz",
+      "tomes": 1,
+      "subgenre": "Ecologie",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Renverser nos manières de penser - Serge Latouche",
+      "tomes": 1,
+      "subgenre": "Ecologie",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Manifeste Negawatt - Collectif",
+      "tomes": 1,
+      "subgenre": "Ecologie",
+      "subgenre2": "Societé"
+  }, {
+      "titre": "Manifeste convivialiste. Déclaration d'interdépendance",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "La convivialité - Ivan Illitch",
+      "tomes": 1,
+      "subgenre": "Societé",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "L'opinion, ça se travaille...  - SH, DV, HM",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "La fin de l'homme rouge - Svetlana Aleksievitch",
+      "tomes": 1,
+      "subgenre": "Societé",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Nouveau manifeste des économistes atterrés - Collectif",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "Les naufragés du libre-échange - ATTAC",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "Artists in Times of War - Howard Zinn",
+      "tomes": 1,
+      "subgenre": "Societé",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Terrorism and war- Howard Zinn",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "Media Control - Noam Chomsky",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "Le travail - Dominique Méda",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "Les nouveaux chiens de garde - Serge Halimi",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "The Prosperous Few and the Restless Many - Noam Chomsky",
+      "tomes": 1,
+      "subgenre": "Societé",
+  }, {
+      "titre": "The Next Revolution: Popular Assemblies... - Murray Bookchin",
+      "tomes": 1,
+      "subgenre": "Anarchisme",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "On Anarchism - Noam Chomsky",
+      "tomes": 1,
+      "subgenre": "Anarchisme",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Lettre à D. - André Gorz",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Voyage au bout de la nuit - Louis-Ferdinand Célin",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Pêcheurs d'Islande - Pierre Lotti",
+      "tomes": 1,
+      "subgenre": "Classique"
   }]
