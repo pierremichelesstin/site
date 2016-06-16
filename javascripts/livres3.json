@@ -464,4 +464,124 @@
       "titre": "The Prosperous Few and the Restless Many - Noam Chomsky",
       "tomes": 1,
       "subgenre": "Societé"
+  }, {
+      "titre": "The Next Revolution: Popular Assemblies... - Murray Bookchin",
+      "tomes": 1,
+      "subgenre": "Anarchisme",
+      "subgenre2": "Ecologie"
+  }, {
+      "titre": "On Anarchism - Noam Chomsky",
+      "tomes": 1,
+      "subgenre": "Anarchisme",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Lettre à D. - André Gorz",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Voyage au bout de la nuit - Louis-Ferdinand Célin",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Pêcheurs d'Islande - Pierre Lotti",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": " Le Roman d'un spahi - Pierre Lotti",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Pour qui sonne le glas - Ernest Hemingway",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le grand voyage - Jorge Semprun",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le Zéro et l'Infini - Arthur Koestler",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Germinal - Emile Zola",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Lolita - Vladimir Nabokov",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Women - Charles Bukowski",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Les particules élémentaires — Michel Houellebecq",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Le joueur d’échecs - Stefan Zweig ",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Les choses - Georges Pérec ",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "W ou le souvenir d'enfance - Georges Pérec ",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "L'espoir - André Malraux ",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le procès - Franz Kafka ",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "OLNI"
+  }, {
+      "titre": "La nuit des temps - René  Barjavel ",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Science-fiction"
+  }, {
+      "titre": "Le parti des coîncidences - Mohamed Boudjedra",
+      "tomes": 1,
+      "subgenre": "OLNI"
+  }, {
+      "titre": "Yama Loka Terminus - Léo Henry",
+      "tomes": 1,
+      "subgenre": "OLNI"
+  }, {
+      "titre": "Berazachussetts - Leandro Avalos Blacha",
+      "tomes": 1,
+      "subgenre": "OLNI"
+  }, {
+      "titre": "Terminus radieux - Antoine Volodine",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Classique"
+  }, {
+      "titre": "Les soldats de la mer - Yves et Ada Remy",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Fantasy"
+  }, {
+      "titre": "Intrabasses - Jeff Noon",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Science-fiction"
+  }, {
+      "titre": "Epépé - Ferenc Karinthy",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Societé"
+  }, {
+      "titre": " How to Read Foucault - Johanna Oksala",
+      "tomes": 1,
+      "subgenre": "OLNI"
   }]
