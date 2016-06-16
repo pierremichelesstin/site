@@ -10,4 +10,26 @@
       "titre": "La horde du contrevent - Alain Damasio",
       "tomes": 1,
       "subgenre": "Science-fiction"
+  },, {
+      "titre": "Le déchronologue - Stéphane Beauverger",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Uchronie"
+  }, {
+      "titre": "La ménagerie de papier - Ken Liu",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les dépossédés - Ursula K Le Guin",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Anarchisme"
+  }, {
+      "titre": "Le temps incertain -  Michel Jeury",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "Les singes du temps -  Michel Jeury",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
   }]
