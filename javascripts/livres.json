@@ -38,7 +38,7 @@
       "subgenre": "Science-fiction",
       "subgenre2": "Ecologie"
   }, {
-      "titre": "Des milliards de tapis de cheveux - Andreas Eschbach ",
+      "titre": "Des milliards de tapis de cheveux - Andreas Eschbach",
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
@@ -104,11 +104,11 @@
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
   }, {
-      "titre": "Forteresse - Georges Panchard ",
+      "titre": "Forteresse - Georges Panchard",
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
-      "titre": "L'opéra de Shaya - Sylvie Lainé ",
+      "titre": "L'opéra de Shaya - Sylvie Lainé",
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
@@ -255,15 +255,15 @@
       "subgenre": "Fantasy",
       "subgenre2": "Dark fantasy"
   }, {
-      "titre": "Le seigneur des anneaux - JRR Torlkien",
+      "titre": "Le seigneur des anneaux - JRR Tolkien",
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Bilbo le hobbit- JRR Torlkien",
+      "titre": "Bilbo le hobbit- JRR Tolkien",
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Le silmarion - JRR Torlkien",
+      "titre": "Le silmarion - JRR Tolkien",
       "tomes": 1,
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
@@ -280,56 +280,56 @@
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Le chevalier-mage - Gene Wolf ",
+      "titre": "Le chevalier-mage - Gene Wolf",
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Le sang des Ambrose - James Enge ",
+      "titre": "Le sang des Ambrose - James Enge",
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Porcelaine - Estelle Faye ",
+      "titre": "Porcelaine - Estelle Faye",
       "tomes": 1,
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Le lion de Macédoine - David Gemmell  ",
+      "titre": "Le lion de Macédoine - David Gemmel",
       "tomes": 2,
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
   }, {
-      "titre": "L'assassin royal - Robin Hobb  ",
+      "titre": "L'assassin royal - Robin Hobb",
       "tomes": 6,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Les aventuriers de la mer - Robin Hobb  ",
+      "titre": "Les aventuriers de la mer - Robin Hobb",
       "tomes": 3,
       "subgenre": "Fantasy"
   }, {
-      "titre": "La couronne des 7 royaumes - David B. Coe  ",
+      "titre": "La couronne des 7 royaumes - David B. Coe",
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Le secret de Ji -  Pierre Grimbert  ",
+      "titre": "Le secret de Ji -  Pierre Grimbert",
       "tomes": 4,
       "subgenre": "Fantasy"
   }, {
-      "titre": "Le clan des Otori - Lian Hearn  ",
+      "titre": "Le clan des Otori - Lian Hearn",
       "tomes": 4,
       "subgenre": "Fantasy",
       "subgenre2": "Histoire"
   }, {
-      "titre": "Le cycle de Phénix - Bernard Simonay  ",
+      "titre": "Le cycle de Phénix - Bernard Simonay",
       "tomes": 3,
       "subgenre": "Fantasy",
       "subgenre2": "Ecologie"
   }, {
-      "titre": "Royaume de vent et de colères - Jean-Laurent Del Socoro ",
+      "titre": "Royaume de vent et de colères - Jean-Laurent Del Socoro",
       "tomes": 1,
       "subgenre": "Fantasy",
       "subgenre2": "Uchronie"
   }, {
-      "titre": "Winterheim - Fabrice Colin ",
+      "titre": "Winterheim - Fabrice Colin",
       "tomes": 1,
       "subgenre": "Fantasy"
   }, {
@@ -428,7 +428,7 @@
       "subgenre": "Societé",
       "subgenre2": "Ecologie"
   }, {
-      "titre": "L'opinion, ça se travaille...  - SH, DV, HM",
+      "titre": "L'opinion, ça se travaille, Les médias et les « guerres justes » - SH, DV, HM",
       "tomes": 1,
       "subgenre": "Societé"
   }, {
@@ -470,7 +470,7 @@
       "tomes": 1,
       "subgenre": "Societé"
   }, {
-      "titre": "The Next Revolution: Popular Assemblies... - Murray Bookchin",
+      "titre": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy - Murray Bookchin",
       "tomes": 1,
       "subgenre": "Anarchisme",
       "subgenre2": "Ecologie"
@@ -523,19 +523,15 @@
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "Les particules élémentaires — Michel Houellebecq",
+      "titre": "Les particules élémentaires - Michel Houellebecq",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "Le joueur d’échecs - Stefan Zweig ",
+      "titre": "Le joueur d’échecs - Stefan Zweig",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "Les choses - Georges Pérec ",
-      "tomes": 1,
-      "subgenre": "Classique"
-  }, {
-      "titre": "W ou le souvenir d'enfance - Georges Pérec",
+      "titre": "Les choses - Georges Pérec",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
@@ -547,12 +543,12 @@
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "Le procès - Franz Kafka ",
+      "titre": "Le procès - Franz Kafka",
       "tomes": 1,
       "subgenre": "Classique",
       "subgenre2": "OLNI"
   }, {
-      "titre": "La nuit des temps - René  Barjavel ",
+      "titre": "La nuit des temps - René  Barjavel",
       "tomes": 1,
       "subgenre": "Classique",
       "subgenre2": "Science-fiction"
