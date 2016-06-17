@@ -463,7 +463,7 @@ function collide(alpha) {
 }
 
 
-var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme d'une grappe avec la librairie DS3.js";
+var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme d'une grappe de bulles";
 var titre_principal = svg.selectAll("XXX21")
   .data([1])
   .enter()
