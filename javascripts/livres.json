@@ -121,6 +121,11 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   }, {
+      "titre": "Comment jouer à l'homme invisible en trois leçons - Philippe Curval",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "OLNI"
+  }, {
       "titre": "Le cycle de la culture - Iam M. Banks",
       "tomes": 4,
       "subgenre": "Space-opéra",
@@ -530,14 +535,17 @@
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "W ou le souvenir d'enfance - Georges Pérec ",
+      "titre": "W ou le souvenir d'enfance - Georges Pérec",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
-      "titre": "L'espoir - André Malraux ",
+      "titre": "W ou le souvenir d'enfance - Georges Pérec",
       "tomes": 1,
-      "subgenre": "Classique",
-      "subgenre2": "Histoire"
+      "subgenre": "Classique"
+  }, {
+      "titre": "La Plaisanterie - Milan Kundera",
+      "tomes": 1,
+      "subgenre": "Classique"
   }, {
       "titre": "Le procès - Franz Kafka ",
       "tomes": 1,
