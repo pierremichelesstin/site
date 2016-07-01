@@ -101,12 +101,11 @@ d3.json("javascripts/livres.json", function(data) {
 
 
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
+
 var nodes_data = RES_genre_mngmt.data_subgenre;
 var nodes_data_name = RES_genre_mngmt.data_name_subgenre;
-
 var scale_livre = 1;
 var scale_livre_c = 10;
-
 for (i = 0; jsonLivres.length > i; i += 1) {
   nodes_data.push({
     name: jsonLivres[i].titre,
@@ -126,10 +125,7 @@ var width = 1000,
   padding = 4, // separation between same-color circles
   clusterPadding = 6; // separation between different-color circles
 
-
 nodes = nodes_data;
-clusters = RES_genre_mngmt.data_subgenre;
-
 var force = d3.layout.force()
   .nodes(nodes)
   .size([width, height])
@@ -145,7 +141,7 @@ var svg = d3.select("graphe2").append("svg")
   .style("border", "1px solid black");
 
 var rectangle = svg.selectAll("rect")
-  .data(clusters)
+  .data(RES_genre_mngmt.data_subgenre)
   .enter().append("rect")
   .filter(function(d) {
     return d.type == "genre"
@@ -175,7 +171,7 @@ var rectangle = svg.selectAll("rect")
   });
 
 var rectangle_label = svg.selectAll("text")
-  .data(clusters)
+  .data(RES_genre_mngmt.data_subgenre)
   .enter().append("text")
   .filter(function(d) {
     return d.type == "genre"
@@ -254,6 +250,7 @@ var label = svg.selectAll("text2")
   .attr("dx", -100)
   .attr("dy", -100);
 
+clusters = RES_genre_mngmt.data_subgenre;
 
 function tick(e) {
   circle
