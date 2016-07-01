@@ -1,4 +1,8 @@
 // Création automatique des subgenres
+// 3 variables de sorties
+// 1) RES.data_subgenre avec toutes les infos d'un subgenre
+// 2) RES.data_name_subgenre les noms des subgenre
+// 3) RES.data_counter_subgenre le nombre de livre par subgenre
 function genre_mngmt(Livres) {
     var taille_bibliotheque = 0;
     data_name_subgenre = []; // Noms des genres
