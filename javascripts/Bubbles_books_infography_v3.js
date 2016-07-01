@@ -92,8 +92,6 @@ for (i = 0; Livres.length > i; i += 1) {
 
 var scale_genre = 0;
 var scale_genre_c = 20;
-var scale_livre = 1;
-var scale_livre_c = 10;
 var nodes_data_name = ["Fantasy","Dark fantasy","Policier","Science-fiction","Space-op\xE9ra","Uchronie","Histoire", "Ecologie", "Anarchisme", "Societ\xE9", "Classique", "OLNI"];
 
 var clusters_data_temp = [{
@@ -195,7 +193,8 @@ d3.json("javascripts/livres.json", function(data) {
 
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
 var nodes_data = clusters_data;
-
+var scale_livre = 1;
+var scale_livre_c = 10;
 for (i = 0; jsonLivres.length > i; i += 1) {
   //var nodes_data_offset = Object.keys(nodes_data).length;
   //var links_data_offset = Object.keys(links_data).length;
