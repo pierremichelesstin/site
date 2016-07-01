@@ -181,8 +181,6 @@ var clusters_data = [{
   type: "genre",
   cluster: 11
 }];
-  
-  
   return clusters_data;
 }
 
@@ -190,7 +188,7 @@ var jsonLivresb;
 //truc qui toune
 d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
-    var clusters_data = genre_mngmt(jsonLivres);
+    genre_mngmt(jsonLivres);
     myAsyncCounter.increment();});
 
  
