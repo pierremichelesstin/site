@@ -37,15 +37,21 @@ for (i = 0; Livres.length > i; i += 1) {
   taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
   subgenre_i=Livres[i].subgenre;
   subgenre2_i=Livres[i].subgenre2;
+  tomes_i=Livres[i].tomes;
 
-  var indice_subgenre_i = data_names_subgenre.indexOf(subgenre_i);
-  
+    var indice_subgenre_i = data_names_subgenre.indexOf(subgenre_i);
+    var indice_subgenre2_i = data_names_subgenre.indexOf(subgenre2_i);
     if(indice_subgenre_i==-1){
         data_names_subgenre.push(subgenre_i);
-        data_names_subgenre_counter.push(1);
+        data_names_subgenre_counter.push(tomes_i);
+    }
+    else if (indice_subgenre2_i==-1){
+        data_names_subgenre.push(subgenre2_i);
+        data_names_subgenre_counter.push(tomes_i);
     }
     else {
         data_names_subgenre_counter[indice_subgenre_i]=data_names_subgenre_counter[indice_subgenre_i]+1;
+        data_names_subgenre_counter[indice_subgenre2_i]=data_names_subgenre_counter[indice_subgenre2_i]+1;
     }
 
 
