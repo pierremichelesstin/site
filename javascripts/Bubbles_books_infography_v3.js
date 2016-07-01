@@ -92,7 +92,7 @@ for (i = 0; Livres.length > i; i += 1) {
 
 var scale_genre = 0;
 var scale_genre_c = 20;
-var nodes_data_name = ["Fantasy","Dark fantasy","Policier","Science-fiction","Space-op\xE9ra","Uchronie","Histoire", "Ecologie", "Anarchisme", "Societ\xE9", "Classique", "OLNI"];
+var nodes_data_name_temp = ["Fantasy","Dark fantasy","Policier","Science-fiction","Space-op\xE9ra","Uchronie","Histoire", "Ecologie", "Anarchisme", "Societ\xE9", "Classique", "OLNI"];
 
 var clusters_data_temp = [{
   name: "Fantasy",
@@ -179,20 +179,23 @@ var clusters_data_temp = [{
   type: "genre",
   cluster: 11
 }];
-  return clusters_data_temp;
+RES.clusters_data=clusters_data_temp;
+RES.nodes_data_name=nodes_data_name_temp;
+  return RES;
 }
 
 var jsonLivresb;
 //truc qui toune
 d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
-    clusters_data = genre_mngmt(jsonLivres);
+    RES_genre_mngmt = genre_mngmt(jsonLivres);
     myAsyncCounter.increment();});
 
  
 
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
-var nodes_data = clusters_data;
+var nodes_data = RES_genre_mngmt.clusters_data;
+var nodes_data_name = RES_genre_mngmt.nodes_data_name;
 var scale_livre = 1;
 var scale_livre_c = 10;
 for (i = 0; jsonLivres.length > i; i += 1) {
