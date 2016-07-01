@@ -12,8 +12,6 @@ asyncCounter.prototype.increment = function() {
 }
 
 function genre_mngmt(Livres) {
-    
-var jsonLivres_length = Object.keys(Livres).length;
 
 var taille_bibliotheque = 0;
 data_names_subgenre=[];// Noms des genres
