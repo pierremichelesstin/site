@@ -15,6 +15,7 @@ asyncCounter.prototype.increment = function() {
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
 
 function genre_mngmt(Livres) {
+    
 var jsonLivres_length = Object.keys(Livres).length;
 
 // ==============SIZE COMPUTATION=================		
@@ -182,7 +183,7 @@ var clusters_data_temp = [{
 var RES = {};
 RES.clusters_data=clusters_data_temp;
 RES.nodes_data_name=nodes_data_name_temp;
-  return RES;
+return RES;
 }
 
 var jsonLivresb;
