@@ -36,7 +36,7 @@ data_names_subgenre_counter=[];
 for (i = 0; Livres.length > i; i += 1) {
   taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
   subgenre_i=Livres[i].subgenre;
-  var test_sub_i_name = data_names_subgenre.getElementById(subgenre_i);
+  var test_sub_i_name = data_names_subgenre.indexOf(subgenre_i);
     if(test_sub_i_name==null){
         data_names_subgenre.push(subgenre_i);
     }
