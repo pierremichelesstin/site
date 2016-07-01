@@ -179,6 +179,7 @@ var clusters_data_temp = [{
   type: "genre",
   cluster: 11
 }];
+var RES = {};
 RES.clusters_data=clusters_data_temp;
 RES.nodes_data_name=nodes_data_name_temp;
   return RES;
