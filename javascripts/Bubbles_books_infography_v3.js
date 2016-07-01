@@ -56,7 +56,7 @@ for (i = 0; data_names_subgenre.length > i; i += 1) {
     else if (data_names_subgenre[i]=="Dark fantasy")
                         {color_temp="rgb(150, 050, 150)";}
     else if (data_names_subgenre[i]=="Policier")
-                        {color_temp="rgb(100, 100, 100)";
+                        {color_temp="rgb(100, 100, 100)";}
     else if (data_names_subgenre[i]=="Science-fiction")
                         {color_temp="rgb(000, 080, 150)";}
     else if (data_names_subgenre[i]=="Space-opéra")
