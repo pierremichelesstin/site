@@ -224,17 +224,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     // ______________________________
     //        Motuer physique    
     // ______________________________
-    function tick(e) {
-        circle
-            .each(cluster(15 * e.alpha * e.alpha))
-            .each(collide(.5))
-            .attr("cx", function(d) {
-                return d.x;
-            })
-            .attr("cy", function(d) {
-                return d.y;
-            });
-    }
 
     // Move d to be adjacent to the cluster node.
     function cluster(alpha) {
