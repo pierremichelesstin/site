@@ -45,13 +45,15 @@ for (i = 0; Livres.length > i; i += 1) {
         data_names_subgenre.push(subgenre_i);
         data_names_subgenre_counter.push(tomes_i);
     }
-    else if (indice_subgenre2_i==-1){
+    else if (indice_subgenre2_i==-1&&subgenre2_i!=undefined){
         data_names_subgenre.push(subgenre2_i);
         data_names_subgenre_counter.push(tomes_i);
     }
     else {
         data_names_subgenre_counter[indice_subgenre_i]=data_names_subgenre_counter[indice_subgenre_i]+tomes_i;
-        data_names_subgenre_counter[indice_subgenre2_i]=data_names_subgenre_counter[indice_subgenre2_i]+tomes_i;
+        if (subgenre2_i!=undefined){
+            data_names_subgenre_counter[indice_subgenre2_i]=data_names_subgenre_counter[indice_subgenre2_i]+tomes_i;
+        }
     }
 
 
