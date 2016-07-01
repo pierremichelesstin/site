@@ -30,14 +30,15 @@ var subgenre10_size = 0;
 var subgenre11_size = 0;
 var subgenre12_size = 0;
 
-nodes_data_name_temp=[];
+data_names_subgenre=[];
+data_names_subgenre_counter=[];
 
 for (i = 0; Livres.length > i; i += 1) {
   taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
   subgenre_i=Livres[i].subgenre;
-  var test_subi = nodes_data_name_temp.getElementById(subgenre_i);
-    if(test_subi==null){
-        nodes_data_name_temp.push(subgenre_i);
+  var test_sub_i_name = nodes_data_name_temp.getElementById(subgenre_i);
+    if(test_sub_i_name==null){
+        data_names_subgenre.push(subgenre_i);
     }
 
 
@@ -187,7 +188,7 @@ var clusters_data_temp = [{
 }];
 var RES = {};
 RES.clusters_data=clusters_data_temp;
-RES.nodes_data_name=nodes_data_name_temp;
+RES.nodes_data_name=data_names_subgenre;
 return RES;
 }
 
