@@ -12,10 +12,9 @@ asyncCounter.prototype.increment = function() {
 }
 
 function genre_mngmt(Livres) {
-
 var taille_bibliotheque = 0;
 data_names_subgenre=[];// Noms des genres
-data_names_subgenre_counter=[];// Nombre de livre par genre
+data_names_subgenre_counter=[];// Nombre de livres par genre
 for (i = 0; Livres.length > i; i += 1) {
     taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;// Nombre de livres dans la bibliothèques
   
@@ -47,92 +46,18 @@ for (i = 0; Livres.length > i; i += 1) {
 
 var scale_genre = 0;
 var scale_genre_c = 20;
+var clusters_data_temp=[];
+for (i = 0; data_names_subgenre.length > i; i += 1) {
+    tempXXX={   name: data_names_subgenre[i],
+                tomes: data_names_subgenre_counter[i],
+                radius: data_names_subgenre_counter[i] * scale_genre + scale_genre_c,
+                color: "rgb(i*20, 100, 200)",
+                type: "genre",
+                cluster: i};
+    clusters_data_temp.push(tempXXX);
+}
 
-var clusters_data_temp = [{
-  name: data_names_subgenre[0],
-  tomes: data_names_subgenre_counter[0],
-  radius: data_names_subgenre_counter[0] * scale_genre + scale_genre_c,
-  color: "rgb(200, 100, 200)",
-  type: "genre",
-  cluster: 0
-},{
-  name: data_names_subgenre[1],
-  tomes: data_names_subgenre_counter[1],
-  radius: data_names_subgenre_counter[1] * scale_genre + scale_genre_c,
-  color: "rgb(150, 50, 150)",
-  type: "genre",
-  cluster: 1
-}, {
-  name: data_names_subgenre[2],
-  tomes: data_names_subgenre_counter[2],
-  radius: data_names_subgenre_counter[2] * scale_genre + scale_genre_c,
-  color: "rgb(100, 100, 100)",
-  type: "genre",
-  cluster: 2
-},{
-  name: data_names_subgenre[3],
-  tomes: data_names_subgenre_counter[3],
-  radius: data_names_subgenre_counter[3] * scale_genre + scale_genre_c,
-  color: "rgb(000, 080, 150)",
-  type: "genre",
-  cluster: 3
-}, {
-  name: data_names_subgenre[4],
-  tomes: data_names_subgenre_counter[4],
-  radius: data_names_subgenre_counter[4] * scale_genre + scale_genre_c,
-  color: "rgb(000, 180, 240)",
-  type: "genre",
-  cluster: 4
-}, {
-  name: data_names_subgenre[5],
-  tomes: data_names_subgenre_counter[5],
-  radius: data_names_subgenre_counter[5] * scale_genre + scale_genre_c,
-  color: "rgb(080, 200, 170)",
-  type: "genre",
-  cluster: 5
-}, {
-  name: data_names_subgenre[6],
-  tomes: data_names_subgenre_counter[6],
-  radius: data_names_subgenre_counter[6] * scale_genre + scale_genre_c,
-  color: "rgb(050, 120, 100)",
-  type: "genre",
-  cluster: 6
-}, {
-  name: data_names_subgenre[7],
-  tomes: data_names_subgenre_counter[7],
-  radius: data_names_subgenre_counter[7] * scale_genre + scale_genre_c,
-  color: "rgb(000, 190, 000)",
-  type: "genre",
-  cluster: 7
-}, {
-  name: data_names_subgenre[8],
-  tomes: data_names_subgenre_counter[8],
-  radius: data_names_subgenre_counter[8] * scale_genre + scale_genre_c,
-  color: "rgb(000, 000, 000)",
-  type: "genre",
-  cluster: 8
-}, {
-  name: data_names_subgenre[9],
-  tomes: data_names_subgenre_counter[9],
-  radius: data_names_subgenre_counter[9] * scale_genre + scale_genre_c,
-  color: "rgb(220, 050, 000)",
-  type: "genre",
-  cluster: 9
-}, {
-  name: data_names_subgenre[10],
-  tomes: data_names_subgenre_counter[10],
-  radius: data_names_subgenre_counter[10] * scale_genre + scale_genre_c,
-  color: "rgb(220, 110, 000)",
-  type: "genre",
-  cluster: 10
-},{
-  name: data_names_subgenre[11],
-  tomes: data_names_subgenre_counter[11],
-  radius: data_names_subgenre_counter[11] * scale_genre + scale_genre_c,
-  color: "rgb(230, 180, 000)",
-  type: "genre",
-  cluster: 11
-}];
+
 var RES = {};
 RES.clusters_data=clusters_data_temp;
 RES.nodes_data_name=data_names_subgenre;
