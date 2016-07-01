@@ -15,189 +15,122 @@ function genre_mngmt(Livres) {
     
 var jsonLivres_length = Object.keys(Livres).length;
 
-// ==============SIZE COMPUTATION=================		
 var taille_bibliotheque = 0;
-var subgenre1_size = 0;
-var subgenre2_size = 0;
-var subgenre3_size = 0;
-var subgenre4_size = 0;
-var subgenre5_size = 0;
-var subgenre6_size = 0;
-var subgenre7_size = 0;
-var subgenre8_size = 0;
-var subgenre9_size = 0;
-var subgenre10_size = 0;
-var subgenre11_size = 0;
-var subgenre12_size = 0;
-
-data_names_subgenre=[];
-data_names_subgenre_counter=[];
-
+data_names_subgenre=[];// Noms des genres
+data_names_subgenre_counter=[];// Nombre de livre par genre
 for (i = 0; Livres.length > i; i += 1) {
-  taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
+    taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;// Nombre de livres dans la bibliothèques
   
-  subgenre_i=Livres[i].subgenre;
-  subgenre2_i=Livres[i].subgenre2;
-  tomes_i=Livres[i].tomes;
-
-    var indice_subgenre_i = data_names_subgenre.indexOf(subgenre_i);
+    subgenre_i=Livres[i].subgenre;
+    subgenre2_i=Livres[i].subgenre2;
+    tomes_i=Livres[i].tomes;
+    // PREMIER GENRE
+    var indice_subgenre_i = data_names_subgenre.indexOf(subgenre_i);// recherche du genre
     if(indice_subgenre_i==-1){
-        data_names_subgenre.push(subgenre_i);
-        data_names_subgenre_counter.push(tomes_i);
+        data_names_subgenre.push(subgenre_i);// Il n'existe pas, on l'ajoute
+        data_names_subgenre_counter.push(tomes_i);// On compte les livres
     }
-    else {
-        data_names_subgenre_counter[indice_subgenre_i]=data_names_subgenre_counter[indice_subgenre_i]+tomes_i;
+    else {// Il existe
+        data_names_subgenre_counter[indice_subgenre_i]=data_names_subgenre_counter[indice_subgenre_i]+tomes_i;// On compte les livres
     }
-    
-    if(subgenre2_i!=undefined){
+    // SECOND GENRE
+    if(subgenre2_i!=undefined){// Il ya un second genre
+        // recherche du second genre
         var indice_subgenre2_i = data_names_subgenre.indexOf(subgenre2_i);
         if(indice_subgenre2_i==-1){
-            data_names_subgenre.push(subgenre2_i);
-            data_names_subgenre_counter.push(tomes_i);
+            data_names_subgenre.push(subgenre2_i);// Il n'existe pas, on l'ajoute
+            data_names_subgenre_counter.push(tomes_i);// On compte les livres
         }
-        else {
+        else {// Il existe
             data_names_subgenre_counter[indice_subgenre2_i]=data_names_subgenre_counter[indice_subgenre2_i]+tomes_i;
         }
     }
-    
-  if (Livres[i].subgenre == "Science-fiction") {
-    subgenre1_size = subgenre1_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Space-op\xE9ra") {
-    subgenre2_size = subgenre2_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Uchronie") {
-    subgenre3_size = subgenre3_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Policier") {
-    subgenre4_size = subgenre4_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Classique") {
-    subgenre5_size = subgenre5_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Dark fantasy") {
-    subgenre6_size = subgenre6_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Fantasy") {
-    subgenre7_size = subgenre7_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Histoire") {
-    subgenre8_size = subgenre8_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Ecologie") {
-    subgenre9_size = subgenre9_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Societ\xE9") {
-    subgenre10_size = subgenre10_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "Anarchisme") {
-    subgenre11_size = subgenre11_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre == "OLNI") {
-    subgenre12_size = subgenre12_size + Livres[i].tomes;
-  }
-
-  if (Livres[i].subgenre2 == "Science-fiction") {
-    subgenre1_size = subgenre1_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Space-op\xE9ra") {
-    subgenre2_size = subgenre2_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Uchronie") {
-    subgenre3_size = subgenre3_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Policier") {
-    subgenre4_size = subgenre4_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Classique") {
-    subgenre5_size = subgenre5_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Dark fantasy") {
-    subgenre6_size = subgenre6_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Fantasy") {
-    subgenre7_size = subgenre7_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Histoire") {
-    subgenre8_size = subgenre8_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Ecologie") {
-    subgenre9_size = subgenre9_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Societ\xE9") {
-    subgenre10_size = subgenre10_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "Anarchisme") {
-    subgenre11_size = subgenre11_size + Livres[i].tomes;
-  } else if (Livres[i].subgenre2 == "OLNI") {
-    subgenre12_size = subgenre12_size + Livres[i].tomes;
-  }
 };
-
 
 var scale_genre = 0;
 var scale_genre_c = 20;
 
 var clusters_data_temp = [{
-  name: "Fantasy",
-  tomes: subgenre7_size,
-  radius: subgenre7_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[0],
+  tomes: data_names_subgenre_counter[0],
+  radius: data_names_subgenre_counter[0] * scale_genre + scale_genre_c,
   color: "rgb(200, 100, 200)",
   type: "genre",
   cluster: 0
 },{
-  name: "Dark fantasy",
-  tomes: subgenre6_size,
-  radius: subgenre6_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[1],
+  tomes: data_names_subgenre_counter[1],
+  radius: data_names_subgenre_counter[1] * scale_genre + scale_genre_c,
   color: "rgb(150, 50, 150)",
   type: "genre",
   cluster: 1
 }, {
-  name: "Policier",
-  tomes: subgenre4_size,
-  radius: subgenre4_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[2],
+  tomes: data_names_subgenre_counter[2],
+  radius: data_names_subgenre_counter[2] * scale_genre + scale_genre_c,
   color: "rgb(100, 100, 100)",
   type: "genre",
   cluster: 2
 },{
-  name: "Science-fiction",
-  tomes: subgenre1_size,
-  radius: subgenre1_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[3],
+  tomes: data_names_subgenre_counter[3],
+  radius: data_names_subgenre_counter[3] * scale_genre + scale_genre_c,
   color: "rgb(000, 080, 150)",
   type: "genre",
   cluster: 3
 }, {
-  name: "Space-op\xE9ra",
-  tomes: subgenre2_size,
-  radius: subgenre2_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[4],
+  tomes: data_names_subgenre_counter[4],
+  radius: data_names_subgenre_counter[4] * scale_genre + scale_genre_c,
   color: "rgb(000, 180, 240)",
   type: "genre",
   cluster: 4
 }, {
-  name: "Uchronie",
-  tomes: subgenre3_size,
-  radius: subgenre3_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[5],
+  tomes: data_names_subgenre_counter[5],
+  radius: data_names_subgenre_counter[5] * scale_genre + scale_genre_c,
   color: "rgb(080, 200, 170)",
   type: "genre",
   cluster: 5
 }, {
-  name: "Histoire",
-  tomes: subgenre8_size,
-  radius: subgenre8_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[6],
+  tomes: data_names_subgenre_counter[6],
+  radius: data_names_subgenre_counter[6] * scale_genre + scale_genre_c,
   color: "rgb(050, 120, 100)",
   type: "genre",
   cluster: 6
 }, {
-  name: "Ecologie",
-  tomes: subgenre9_size,
-  radius: subgenre9_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[7],
+  tomes: data_names_subgenre_counter[7],
+  radius: data_names_subgenre_counter[7] * scale_genre + scale_genre_c,
   color: "rgb(000, 190, 000)",
   type: "genre",
   cluster: 7
 }, {
-  name: "Anarchisme",
-  tomes: subgenre11_size,
-  radius: subgenre11_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[8],
+  tomes: data_names_subgenre_counter[8],
+  radius: data_names_subgenre_counter[8] * scale_genre + scale_genre_c,
   color: "rgb(000, 000, 000)",
   type: "genre",
   cluster: 8
 }, {
-  name: "Societ\xE9",
-  tomes: subgenre10_size,
-  radius: subgenre10_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[9],
+  tomes: data_names_subgenre_counter[9],
+  radius: data_names_subgenre_counter[9] * scale_genre + scale_genre_c,
   color: "rgb(220, 050, 000)",
   type: "genre",
   cluster: 9
 }, {
-  name: "Classique",
-  tomes: subgenre5_size,
-  radius: subgenre5_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[10],
+  tomes: data_names_subgenre_counter[10],
+  radius: data_names_subgenre_counter[10] * scale_genre + scale_genre_c,
   color: "rgb(220, 110, 000)",
   type: "genre",
   cluster: 10
 },{
-  name: "OLNI",
-  tomes: subgenre1_size,
-  radius: subgenre12_size * scale_genre + scale_genre_c,
+  name: data_names_subgenre[11],
+  tomes: data_names_subgenre_counter[11],
+  radius: data_names_subgenre_counter[11] * scale_genre + scale_genre_c,
   color: "rgb(230, 180, 000)",
   type: "genre",
   cluster: 11
