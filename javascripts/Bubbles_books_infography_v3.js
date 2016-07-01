@@ -133,7 +133,7 @@ var circle = svg.selectAll("circle")
     if (d.type == "genre") {
       return d.color;
     } else if (d.subgenre2 != null) {
-      return nodes_data[nodes_data_name.indexOf(d.subgenre2)].color;
+      return nodes[nodes_data_name.indexOf(d.subgenre2)].color;
     }
   })
   .call(force.drag)
