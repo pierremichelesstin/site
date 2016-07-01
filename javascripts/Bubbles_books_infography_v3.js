@@ -14,15 +14,8 @@ asyncCounter.prototype.increment = function() {
 
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
 
-var jsonLivresb;
-//truc qui toune
-d3.json("javascripts/livres.json", function(data) {
-    jsonLivres = data;
-    myAsyncCounter.increment();});
-
-
-function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
-var jsonLivres_length = Object.keys(jsonLivres).length;
+function genre_mngmt(Livres) {
+var jsonLivres_length = Object.keys(Livres).length;
 
 // ==============SIZE COMPUTATION=================		
 var taille_bibliotheque = 0;
@@ -40,59 +33,59 @@ var subgenre11_size = 0;
 var subgenre12_size = 0;
 
 
-for (i = 0; jsonLivres.length > i; i += 1) {
-  taille_bibliotheque = taille_bibliotheque + jsonLivres[i].tomes;
+for (i = 0; Livres.length > i; i += 1) {
+  taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
 
-  if (jsonLivres[i].subgenre == "Science-fiction") {
-    subgenre1_size = subgenre1_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Space-op\xE9ra") {
-    subgenre2_size = subgenre2_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Uchronie") {
-    subgenre3_size = subgenre3_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Policier") {
-    subgenre4_size = subgenre4_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Classique") {
-    subgenre5_size = subgenre5_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Dark fantasy") {
-    subgenre6_size = subgenre6_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Fantasy") {
-    subgenre7_size = subgenre7_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Histoire") {
-    subgenre8_size = subgenre8_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Ecologie") {
-    subgenre9_size = subgenre9_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Societ\xE9") {
-    subgenre10_size = subgenre10_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "Anarchisme") {
-    subgenre11_size = subgenre11_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre == "OLNI") {
-    subgenre12_size = subgenre12_size + jsonLivres[i].tomes;
+  if (Livres[i].subgenre == "Science-fiction") {
+    subgenre1_size = subgenre1_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Space-op\xE9ra") {
+    subgenre2_size = subgenre2_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Uchronie") {
+    subgenre3_size = subgenre3_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Policier") {
+    subgenre4_size = subgenre4_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Classique") {
+    subgenre5_size = subgenre5_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Dark fantasy") {
+    subgenre6_size = subgenre6_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Fantasy") {
+    subgenre7_size = subgenre7_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Histoire") {
+    subgenre8_size = subgenre8_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Ecologie") {
+    subgenre9_size = subgenre9_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Societ\xE9") {
+    subgenre10_size = subgenre10_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "Anarchisme") {
+    subgenre11_size = subgenre11_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre == "OLNI") {
+    subgenre12_size = subgenre12_size + Livres[i].tomes;
   }
 
-  if (jsonLivres[i].subgenre2 == "Science-fiction") {
-    subgenre1_size = subgenre1_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Space-op\xE9ra") {
-    subgenre2_size = subgenre2_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Uchronie") {
-    subgenre3_size = subgenre3_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Policier") {
-    subgenre4_size = subgenre4_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Classique") {
-    subgenre5_size = subgenre5_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Dark fantasy") {
-    subgenre6_size = subgenre6_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Fantasy") {
-    subgenre7_size = subgenre7_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Histoire") {
-    subgenre8_size = subgenre8_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Ecologie") {
-    subgenre9_size = subgenre9_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Societ\xE9") {
-    subgenre10_size = subgenre10_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "Anarchisme") {
-    subgenre11_size = subgenre11_size + jsonLivres[i].tomes;
-  } else if (jsonLivres[i].subgenre2 == "OLNI") {
-    subgenre12_size = subgenre12_size + jsonLivres[i].tomes;
+  if (Livres[i].subgenre2 == "Science-fiction") {
+    subgenre1_size = subgenre1_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Space-op\xE9ra") {
+    subgenre2_size = subgenre2_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Uchronie") {
+    subgenre3_size = subgenre3_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Policier") {
+    subgenre4_size = subgenre4_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Classique") {
+    subgenre5_size = subgenre5_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Dark fantasy") {
+    subgenre6_size = subgenre6_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Fantasy") {
+    subgenre7_size = subgenre7_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Histoire") {
+    subgenre8_size = subgenre8_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Ecologie") {
+    subgenre9_size = subgenre9_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Societ\xE9") {
+    subgenre10_size = subgenre10_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "Anarchisme") {
+    subgenre11_size = subgenre11_size + Livres[i].tomes;
+  } else if (Livres[i].subgenre2 == "OLNI") {
+    subgenre12_size = subgenre12_size + Livres[i].tomes;
   }
 };
 
@@ -188,7 +181,19 @@ var clusters_data = [{
   type: "genre",
   cluster: 11
 }];
+    
+}
 
+var jsonLivresb;
+//truc qui toune
+d3.json("javascripts/livres.json", function(data) {
+    jsonLivres = data;
+    genre_mngmt(jsonLivres);
+    myAsyncCounter.increment();});
+
+ 
+
+function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
 var nodes_data = clusters_data;
 
 for (i = 0; jsonLivres.length > i; i += 1) {
