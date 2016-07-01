@@ -96,7 +96,7 @@ var scale_livre = 1;
 var scale_livre_c = 10;
 var nodes_data_name = ["Fantasy","Dark fantasy","Policier","Science-fiction","Space-op\xE9ra","Uchronie","Histoire", "Ecologie", "Anarchisme", "Societ\xE9", "Classique", "OLNI"];
 
-var clusters_data = [{
+var clusters_data_temp = [{
   name: "Fantasy",
   tomes: subgenre7_size,
   radius: subgenre7_size * scale_genre + scale_genre_c,
@@ -181,14 +181,14 @@ var clusters_data = [{
   type: "genre",
   cluster: 11
 }];
-  return clusters_data;
+  return clusters_data_temp;
 }
 
 var jsonLivresb;
 //truc qui toune
 d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
-    genre_mngmt(jsonLivres);
+    clusters_data = genre_mngmt(jsonLivres);
     myAsyncCounter.increment();});
 
  
