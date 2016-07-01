@@ -1,4 +1,4 @@
-function asyncCounter(numCalls, callback) {
+function asyncCounter(numCalls, callback) {//Initialisation pour loader les fichiers
     this.callback = callback;
     this.numCalls = numCalls;
     this.calls = 0;
@@ -7,29 +7,31 @@ function asyncCounter(numCalls, callback) {
 asyncCounter.prototype.increment = function() {
     this.calls++;
     if (this.calls >= this.numCalls) {
-        this.callback(); //cette methode est appellee quand tous les fichiers sont charges
+        this.callback(); //Cette methode est appellée quand tous les fichiers sont charg2s
     }
 }
 
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
+
 d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
     RES_genre_mngmt = genre_mngmt(jsonLivres); // 3 variables de sorties
     // 1) RES.data_subgenre avec toutes les infos d'un subgenre
     // 2) RES.data_name_subgenre les noms des subgenre
     // 3) RES.data_counter_subgenre le nombre de livre par subgenre
-    myAsyncCounter.increment();
+    myAsyncCounter.increment();// on incremente car le fichier est chargé
 });
 
 
-function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
+function draw() { //Fonction appellee quand le compteur de telechargements atteind la limite dans myAsyncCounter
 
+    // Récuperation des variables de la fonction genre_mngmt
     var taille_bibliotheque = RES_genre_mngmt.taille_bibliotheque;
     var nodes = RES_genre_mngmt.data_subgenre;
     var nodes_name = RES_genre_mngmt.data_name_subgenre;
+    clusters = RES_genre_mngmt.data_subgenre;
 
     // Création des ronds
-
     var scale_livre = 1;
     var scale_livre_c = 10;
     for (i = 0; jsonLivres.length > i; i += 1) {
@@ -175,7 +177,6 @@ function draw() { //fonction appellee quand le compteur de telechargements attei
         .attr("dx", -100)
         .attr("dy", -100);
 
-    clusters = RES_genre_mngmt.data_subgenre;
 
 
     var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme d'une grappe de bulles";
@@ -223,7 +224,6 @@ function draw() { //fonction appellee quand le compteur de telechargements attei
     // ______________________________
     //        Motuer physique    
     // ______________________________
-
     function tick(e) {
         circle
             .each(cluster(15 * e.alpha * e.alpha))
@@ -276,7 +276,6 @@ function draw() { //fonction appellee quand le compteur de telechargements attei
             });
     }
 
-
     function cluster_2(alpha) {
         return function(d) { // d est un noeud ou pas
             var cluster = clusters[d.cluster], // on prends le cluster correspondant au noeud
@@ -315,7 +314,6 @@ function draw() { //fonction appellee quand le compteur de telechargements attei
             }
         };
     }
-
 
     // Resolves collisions between d and all other circles.
     function collide(alpha) {
