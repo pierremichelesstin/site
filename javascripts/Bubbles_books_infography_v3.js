@@ -36,7 +36,8 @@ data_names_subgenre_counter=[];
 for (i = 0; Livres.length > i; i += 1) {
   taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
   subgenre_i=Livres[i].subgenre;
-    if(typeof data_names_subgenre.find(subgenre_i) == 'undefined' ){
+  var test_sub_i = data_names_subgenre.indexOf(subgenre_i);
+    if(test_sub_i<1){
         data_names_subgenre.push(subgenre_i);
     }
 
