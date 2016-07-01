@@ -37,7 +37,7 @@ for (i = 0; Livres.length > i; i += 1) {
   taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
   subgenre_i=Livres[i].subgenre;
   var test_sub_i = data_names_subgenre.indexOf(subgenre_i);
-    if(test_sub_i<1){
+    if(test_sub_i==-1){
         data_names_subgenre.push(subgenre_i);
     }
 
