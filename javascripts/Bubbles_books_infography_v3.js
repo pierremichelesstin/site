@@ -23,18 +23,20 @@ d3.json("javascripts/livres.json", function(data) {
 
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
 
-// Création des ronds
-var nodes_data = RES_genre_mngmt.data_subgenre;
+var taille_bibliotheque = RES_genre_mngmt.taille_bibliotheque;
+var nodes = RES_genre_mngmt.data_subgenre;
 var nodes_data_name = RES_genre_mngmt.data_name_subgenre;
+
+// Création des ronds
 
 var scale_livre = 1;
 var scale_livre_c = 10;
 for (i = 0; jsonLivres.length > i; i += 1) {
-  nodes_data.push({
+  nodes.push({
     name: jsonLivres[i].titre,
     tomes: jsonLivres[i].tomes,
     radius: jsonLivres[i].tomes * scale_livre + scale_livre_c,
-    color: nodes_data[nodes_data_name.indexOf(jsonLivres[i].subgenre)].color,
+    color: nodes[nodes_data_name.indexOf(jsonLivres[i].subgenre)].color,
     type: "livre",
     cluster: nodes_data_name.indexOf(jsonLivres[i].subgenre),
     subgenre: jsonLivres[i].subgenre,
@@ -48,7 +50,6 @@ var width = 1000,
   padding = 4, // separation between same-color circles
   clusterPadding = 6; // separation between different-color circles
 
-nodes = nodes_data;
 var force = d3.layout.force()
   .nodes(nodes)
   .size([width, height])
