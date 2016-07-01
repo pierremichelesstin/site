@@ -49,13 +49,15 @@ var scale_genre = 0;
 var scale_genre_c = 20;
 var clusters_data_temp=[];
 for (i = 0; data_names_subgenre.length > i; i += 1) {
-    var color_temp='#'+(Math.random()*0xFFFFFF<<0).toString(16);
+    var color_temp=[];
+    if (data_names_subgenre[i]="Fantasy"){color_temp="rgb(200, 100, 200)";}
+    else {color_temp="rgb(000, 100, 200)";}
     temp={   name: data_names_subgenre[i],
-                tomes: data_names_subgenre_counter[i],
-                radius: data_names_subgenre_counter[i] * scale_genre + scale_genre_c,
-                color: color_temp,
-                type: "genre",
-                cluster: i};
+            tomes: data_names_subgenre_counter[i],
+            radius: data_names_subgenre_counter[i] * scale_genre + scale_genre_c,
+            color: color_temp,
+            type: "genre",
+            cluster: i};
     clusters_data_temp.push(temp);
 }
 
