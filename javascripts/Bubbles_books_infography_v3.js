@@ -222,7 +222,7 @@ var width = 1000,
 
 
 nodes = nodes_data;
-clusters = clusters_data;
+clusters = RES_genre_mngmt.clusters_data;
 
 var force = d3.layout.force()
   .nodes(nodes)
