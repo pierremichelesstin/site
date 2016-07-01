@@ -15,6 +15,7 @@ function genre_mngmt(Livres) {
 var taille_bibliotheque = 0;
 data_names_subgenre=[];// Noms des genres
 data_names_subgenre_counter=[];// Nombre de livres par genre
+
 for (i = 0; Livres.length > i; i += 1) {
     taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;// Nombre de livres dans la bibliothèques
   
@@ -48,13 +49,14 @@ var scale_genre = 0;
 var scale_genre_c = 20;
 var clusters_data_temp=[];
 for (i = 0; data_names_subgenre.length > i; i += 1) {
-    tempXXX={   name: data_names_subgenre[i],
+    var color_temp='#'+(Math.random()*0xFFFFFF<<0).toString(16);
+    temp={   name: data_names_subgenre[i],
                 tomes: data_names_subgenre_counter[i],
                 radius: data_names_subgenre_counter[i] * scale_genre + scale_genre_c,
-                color: "rgb(i*20, 100, 200)",
+                color: color_temp,
                 type: "genre",
                 cluster: i};
-    clusters_data_temp.push(tempXXX);
+    clusters_data_temp.push(temp);
 }
 
 
