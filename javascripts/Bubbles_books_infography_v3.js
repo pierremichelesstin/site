@@ -41,7 +41,7 @@ for (i = 0; Livres.length > i; i += 1) {
             data_counter_subgenre.push(tomes_i);// On compte les livres
         }
         else {// Il existe
-            data_names_subgenre_counter[indice_subgenre2_i]=data_names_subgenre_counter[indice_subgenre2_i]+tomes_i;
+            data_counter_subgenre[indice_subgenre2_i]=data_counter_subgenre[indice_subgenre2_i]+tomes_i;
         }
     }
 };
