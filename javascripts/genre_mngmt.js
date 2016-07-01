@@ -63,7 +63,7 @@ function genre_mngmt(Livres) {
         } else if (data_name_subgenre[i] == "Classique") {
             color_temp = "rgb(220, 110, 000)";
         } else if (data_name_subgenre[i] == "OLNI") {
-            color_temp = "rgb(230, 180, 230)";
+            color_temp = "rgb(230, 180, 000)";
         }
 
         temp = {
