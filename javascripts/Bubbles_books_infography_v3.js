@@ -15,7 +15,7 @@ asyncCounter.prototype.increment = function() {
 function genre_mngmt(Livres) {
 var taille_bibliotheque = 0;
 data_names_subgenre=[];// Noms des genres
-data_names_subgenre_counter=[];// Nombre de livres par genre
+data_counter_subgenre=[];// Nombre de livres par genre
 
 for (i = 0; Livres.length > i; i += 1) {
     taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;// Nombre de livres dans la bibliothèques
@@ -27,10 +27,10 @@ for (i = 0; Livres.length > i; i += 1) {
     var indice_subgenre_i = data_names_subgenre.indexOf(subgenre_i);// recherche du genre
     if(indice_subgenre_i==-1){
         data_names_subgenre.push(subgenre_i);// Il n'existe pas, on l'ajoute
-        data_names_subgenre_counter.push(tomes_i);// On compte les livres
+        data_counter_subgenre.push(tomes_i);// On compte les livres
     }
     else {// Il existe
-        data_names_subgenre_counter[indice_subgenre_i]=data_names_subgenre_counter[indice_subgenre_i]+tomes_i;// On compte les livres
+        data_counter_subgenre[indice_subgenre_i]=data_counter_subgenre[indice_subgenre_i]+tomes_i;// On compte les livres
     }
     // SECOND GENRE
     if(subgenre2_i!=undefined){// Il ya un second genre
@@ -38,7 +38,7 @@ for (i = 0; Livres.length > i; i += 1) {
         var indice_subgenre2_i = data_names_subgenre.indexOf(subgenre2_i);
         if(indice_subgenre2_i==-1){
             data_names_subgenre.push(subgenre2_i);// Il n'existe pas, on l'ajoute
-            data_names_subgenre_counter.push(tomes_i);// On compte les livres
+            data_counter_subgenre.push(tomes_i);// On compte les livres
         }
         else {// Il existe
             data_names_subgenre_counter[indice_subgenre2_i]=data_names_subgenre_counter[indice_subgenre2_i]+tomes_i;
@@ -78,8 +78,8 @@ for (i = 0; data_names_subgenre.length > i; i += 1) {
                     
     temp={   
             name: data_names_subgenre[i],
-            tomes: data_names_subgenre_counter[i],
-            radius: data_names_subgenre_counter[i] * scale_genre + scale_genre_c,
+            tomes: data_counter_subgenre[i],
+            radius: data_counter_subgenre[i] * scale_genre + scale_genre_c,
             color: color_temp,
             type: "genre",
             cluster: i};
@@ -90,12 +90,8 @@ for (i = 0; data_names_subgenre.length > i; i += 1) {
 var RES = {};
 RES.clusters_data=clusters_data_temp;
 RES.nodes_data_name=data_names_subgenre;
-RES.data_names_subgenre_counter=data_names_subgenre_counter;
-return RES;
-
-console.log(data_names_subgenre);
-
-}
+RES.data_counter_subgenre=data_counter_subgenre;
+return RES;}
 
 
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
