@@ -220,3 +220,4 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-family", "Tahoma")
         .attr("font-size", 14)
         .style("fill", "white");
+}
