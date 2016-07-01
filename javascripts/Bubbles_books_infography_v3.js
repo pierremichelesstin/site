@@ -30,9 +30,18 @@ var subgenre10_size = 0;
 var subgenre11_size = 0;
 var subgenre12_size = 0;
 
+nodes_data_name_temp=[];
 
 for (i = 0; Livres.length > i; i += 1) {
   taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;
+  subgenre_i=Livres[i].subgenre;
+  var test_subi = nodes_data_name_temp.getElementById(subgenre_i);
+    if(test_subi==null){
+        nodes_data_name_temp.push(subgenre_i);
+    }
+
+
+
 
   if (Livres[i].subgenre == "Science-fiction") {
     subgenre1_size = subgenre1_size + Livres[i].tomes;
@@ -90,7 +99,6 @@ for (i = 0; Livres.length > i; i += 1) {
 
 var scale_genre = 0;
 var scale_genre_c = 20;
-var nodes_data_name_temp = ["Fantasy","Dark fantasy","Policier","Science-fiction","Space-op\xE9ra","Uchronie","Histoire", "Ecologie", "Anarchisme", "Societ\xE9", "Classique", "OLNI"];
 
 var clusters_data_temp = [{
   name: "Fantasy",
