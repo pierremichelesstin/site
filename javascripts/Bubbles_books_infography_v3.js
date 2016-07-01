@@ -13,104 +13,101 @@ asyncCounter.prototype.increment = function() {
 
 // Création automatique des subgenres
 function genre_mngmt(Livres) {
-var taille_bibliotheque = 0;
-data_name_subgenre=[];// Noms des genres
-data_counter_subgenre=[];// Nombre de livres par genre
+    var taille_bibliotheque = 0;
+    data_name_subgenre = []; // Noms des genres
+    data_counter_subgenre = []; // Nombre de livres par genre
 
-for (i = 0; Livres.length > i; i += 1) {
-    taille_bibliotheque = taille_bibliotheque + Livres[i].tomes;// Nombre de livres dans la bibliothèques
-  
-    subgenre_i=Livres[i].subgenre;
-    subgenre2_i=Livres[i].subgenre2;
-    tomes_i=Livres[i].tomes;
-    // PREMIER GENRE
-    var indice_subgenre_i = data_name_subgenre.indexOf(subgenre_i);// recherche du genre
-    if(indice_subgenre_i==-1){
-        data_name_subgenre.push(subgenre_i);// Il n'existe pas, on l'ajoute
-        data_counter_subgenre.push(tomes_i);// On compte les livres
-    }
-    else {// Il existe
-        data_counter_subgenre[indice_subgenre_i]=data_counter_subgenre[indice_subgenre_i]+tomes_i;// On compte les livres
-    }
-    // SECOND GENRE
-    if(subgenre2_i!=undefined){// Il ya un second genre
-        // recherche du second genre
-        var indice_subgenre2_i = data_name_subgenre.indexOf(subgenre2_i);
-        if(indice_subgenre2_i==-1){
-            data_name_subgenre.push(subgenre2_i);// Il n'existe pas, on l'ajoute
-            data_counter_subgenre.push(tomes_i);// On compte les livres
-        }
-        else {// Il existe
-            data_counter_subgenre[indice_subgenre2_i]=data_counter_subgenre[indice_subgenre2_i]+tomes_i;
-        }
-    }
-};
+    for (i = 0; Livres.length > i; i += 1) {
+        taille_bibliotheque = taille_bibliotheque + Livres[i].tomes; // Nombre de livres dans la bibliothèques
 
-var scale_genre = 0;
-var scale_genre_c = 20;
-var data_subgenre=[];
-for (i = 0; data_name_subgenre.length > i; i += 1) {
-    var color_temp=[];
-         if (data_name_subgenre[i]=="Fantasy")
-                        {color_temp="rgb(200, 100, 200)";}
-    else if (data_name_subgenre[i]=="Dark fantasy")
-                        {color_temp="rgb(150, 050, 150)";}
-    else if (data_name_subgenre[i]=="Policier")
-                        {color_temp="rgb(100, 100, 100)";}
-    else if (data_name_subgenre[i]=="Science-fiction")
-                        {color_temp="rgb(000, 080, 150)";}
-    else if (data_name_subgenre[i]=="Space-opéra")
-                        {color_temp="rgb(000, 180, 240)";}
-    else if (data_name_subgenre[i]=="Uchronie")
-                        {color_temp="rgb(080, 200, 070)";}
-    else if (data_name_subgenre[i]=="Histoire")
-                        {color_temp="rgb(050, 120, 100)";}
-    else if (data_name_subgenre[i]=="Ecologie")
-                        {color_temp="rgb(000, 190, 000)";}
-    else if (data_name_subgenre[i]=="Anarchisme")
-                        {color_temp="rgb(000, 000, 000)";}
-    else if (data_name_subgenre[i]=="Societé")
-                        {color_temp="rgb(220, 050, 000)";}
-    else if (data_name_subgenre[i]=="Classique")
-                        {color_temp="rgb(220, 110, 000)";}    
-    else if (data_name_subgenre[i]=="OLNI")
-                        {color_temp="rgb(230, 180, 000)";}  
-                    
-    temp={   
+        subgenre_i = Livres[i].subgenre;
+        subgenre2_i = Livres[i].subgenre2;
+        tomes_i = Livres[i].tomes;
+        // PREMIER GENRE
+        var indice_subgenre_i = data_name_subgenre.indexOf(subgenre_i); // recherche du genre
+        if (indice_subgenre_i == -1) {
+            data_name_subgenre.push(subgenre_i); // Il n'existe pas, on l'ajoute
+            data_counter_subgenre.push(tomes_i); // On compte les livres
+        } else { // Il existe
+            data_counter_subgenre[indice_subgenre_i] = data_counter_subgenre[indice_subgenre_i] + tomes_i; // On compte les livres
+        }
+        // SECOND GENRE
+        if (subgenre2_i != undefined) { // Il ya un second genre
+            // recherche du second genre
+            var indice_subgenre2_i = data_name_subgenre.indexOf(subgenre2_i);
+            if (indice_subgenre2_i == -1) {
+                data_name_subgenre.push(subgenre2_i); // Il n'existe pas, on l'ajoute
+                data_counter_subgenre.push(tomes_i); // On compte les livres
+            } else { // Il existe
+                data_counter_subgenre[indice_subgenre2_i] = data_counter_subgenre[indice_subgenre2_i] + tomes_i;
+            }
+        }
+    };
+
+    var scale_genre = 0;
+    var scale_genre_c = 20;
+    var data_subgenre = [];
+    for (i = 0; data_name_subgenre.length > i; i += 1) {
+        var color_temp = [];
+        if (data_name_subgenre[i] == "Fantasy") {
+            color_temp = "rgb(200, 100, 200)";
+        } else if (data_name_subgenre[i] == "Dark fantasy") {
+            color_temp = "rgb(150, 050, 150)";
+        } else if (data_name_subgenre[i] == "Policier") {
+            color_temp = "rgb(100, 100, 100)";
+        } else if (data_name_subgenre[i] == "Science-fiction") {
+            color_temp = "rgb(000, 080, 150)";
+        } else if (data_name_subgenre[i] == "Space-opéra") {
+            color_temp = "rgb(000, 180, 240)";
+        } else if (data_name_subgenre[i] == "Uchronie") {
+            color_temp = "rgb(080, 200, 070)";
+        } else if (data_name_subgenre[i] == "Histoire") {
+            color_temp = "rgb(050, 120, 100)";
+        } else if (data_name_subgenre[i] == "Ecologie") {
+            color_temp = "rgb(000, 190, 000)";
+        } else if (data_name_subgenre[i] == "Anarchisme") {
+            color_temp = "rgb(000, 000, 000)";
+        } else if (data_name_subgenre[i] == "Societé") {
+            color_temp = "rgb(220, 050, 000)";
+        } else if (data_name_subgenre[i] == "Classique") {
+            color_temp = "rgb(220, 110, 000)";
+        } else if (data_name_subgenre[i] == "OLNI") {
+            color_temp = "rgb(230, 180, 000)";
+        }
+
+        temp = {
             name: data_name_subgenre[i],
             tomes: data_counter_subgenre[i],
             radius: data_counter_subgenre[i] * scale_genre + scale_genre_c,
             color: color_temp,
             type: "genre",
-            cluster: i};
-    data_subgenre.push(temp);
+            cluster: i
+        };
+        data_subgenre.push(temp);
+    }
+    var RES = {};
+    RES.data_subgenre = data_subgenre;
+    RES.data_name_subgenre = data_name_subgenre;
+    RES.data_counter_subgenre = data_counter_subgenre;
+    return RES;
 }
 
 
-var RES = {};
-RES.clusters_data=data_subgenre;
-RES.nodes_data_name=data_name_subgenre;
-RES.data_counter_subgenre=data_counter_subgenre;
-return RES;}
-
-
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
-
-var jsonLivresb;
-//truc qui toune
 d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
     RES_genre_mngmt = genre_mngmt(jsonLivres);
     myAsyncCounter.increment();});
 
+
 function draw() { //fonction appellee quand le compteur de telechargements atteind la limite definie ligne 14 //efface le truc qui toune
-var nodes_data = RES_genre_mngmt.clusters_data;
-var nodes_data_name = RES_genre_mngmt.nodes_data_name;
+var nodes_data = RES_genre_mngmt.data_subgenre;
+var nodes_data_name = RES_genre_mngmt.data_name_subgenre;
+
 var scale_livre = 1;
 var scale_livre_c = 10;
+
 for (i = 0; jsonLivres.length > i; i += 1) {
-  //var nodes_data_offset = Object.keys(nodes_data).length;
-  //var links_data_offset = Object.keys(links_data).length;
   nodes_data.push({
     name: jsonLivres[i].titre,
     tomes: jsonLivres[i].tomes,
@@ -131,7 +128,7 @@ var width = 1000,
 
 
 nodes = nodes_data;
-clusters = RES_genre_mngmt.clusters_data;
+clusters = RES_genre_mngmt.data_subgenre;
 
 var force = d3.layout.force()
   .nodes(nodes)
