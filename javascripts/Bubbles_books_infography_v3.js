@@ -11,13 +11,13 @@ asyncCounter.prototype.increment = function() {
     }
 }
 
-
-
-
 var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2... 3...
 d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
-    RES_genre_mngmt = genre_mngmt(jsonLivres);
+    RES_genre_mngmt = genre_mngmt(jsonLivres);// 3 variables de sorties
+// 1) RES.data_subgenre avec toutes les infos d'un subgenre
+// 2) RES.data_name_subgenre les noms des subgenre
+// 3) RES.data_counter_subgenre le nombre de livre par subgenre
     myAsyncCounter.increment();});
 
 
