@@ -55,7 +55,7 @@ for (i = 0; data_names_subgenre.length > i; i += 1) {
     temp={   name: data_names_subgenre[i],
             tomes: data_names_subgenre_counter[i],
             radius: data_names_subgenre_counter[i] * scale_genre + scale_genre_c,
-            color: color_temp,
+            color: "rgb(000, 100, 200)",
             type: "genre",
             cluster: i};
     clusters_data_temp.push(temp);
