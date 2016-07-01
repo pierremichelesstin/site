@@ -376,6 +376,10 @@
       "subgenre": "Histoire",
       "subgenre2": "Societé"
   }, {
+      "titre": "La révolution Allemande (1918 - 1923) - Chris Harman",
+      "tomes": 1,
+      "subgenre": "Histoire"
+  }, {
       "titre": "Histoire de Chicago - Pap Ndiaye",
       "tomes": 1,
       "subgenre": "Histoire"
@@ -454,6 +458,10 @@
       "tomes": 1,
       "subgenre": "Societé"
   }, {
+      "titre": "Le Désert de la critique, Déconstruction et politique - Renaud Garcia",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
       "titre": "Le travail - Dominique Méda",
       "tomes": 1,
       "subgenre": "Societé"
@@ -528,6 +536,10 @@
       "subgenre": "Classique"
   }, {
       "titre": "Les choses - Georges Pérec",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "La vie mode d'emploi - Georges Pérec",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
