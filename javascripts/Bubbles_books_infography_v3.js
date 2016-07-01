@@ -50,7 +50,7 @@ var scale_genre_c = 20;
 var clusters_data_temp=[];
 for (i = 0; data_names_subgenre.length > i; i += 1) {
     var color_temp=[];
-    if (data_names_subgenre[i]="Fantasy"){color_temp="rgb(200, 100, 200)";}
+    if (data_names_subgenre[i]=="Fantasy"){color_temp="rgb(200, 100, 200)";}
     else {color_temp="rgb(000, 100, 200)";}
     temp_X={   
             name: data_names_subgenre[i],
