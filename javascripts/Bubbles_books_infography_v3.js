@@ -195,6 +195,7 @@ var clusters_data_temp = [{
 var RES = {};
 RES.clusters_data=clusters_data_temp;
 RES.nodes_data_name=data_names_subgenre;
+RES.data_names_subgenre_counter=data_names_subgenre_counter;
 return RES;
 
 console.log(data_names_subgenre);
