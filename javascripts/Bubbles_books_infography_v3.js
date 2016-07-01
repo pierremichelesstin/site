@@ -11,6 +11,7 @@ asyncCounter.prototype.increment = function() {
     }
 }
 
+// Création automatique des subgenres
 function genre_mngmt(Livres) {
 var taille_bibliotheque = 0;
 data_names_subgenre=[];// Noms des genres
@@ -50,16 +51,39 @@ var scale_genre_c = 20;
 var clusters_data_temp=[];
 for (i = 0; data_names_subgenre.length > i; i += 1) {
     var color_temp=[];
-    if (data_names_subgenre[i]=="Fantasy"){color_temp="rgb(200, 100, 200)";}
-    else {color_temp="rgb(000, 100, 200)";}
-    temp_X={   
+         if (data_names_subgenre[i]=="Fantasy")
+                        {color_temp="rgb(200, 100, 200)";}
+    else if (data_names_subgenre[i]=="Dark fantasy")
+                        {color_temp="rgb(150, 050, 150)";}
+    else if (data_names_subgenre[i]=="Policier")
+                        {color_temp="rgb(100, 100, 100)";
+    else if (data_names_subgenre[i]=="Science-fiction")
+                        {color_temp="rgb(000, 080, 150)";}
+    else if (data_names_subgenre[i]=="Space-opéra")
+                        {color_temp="rgb(000, 180, 240)";}
+    else if (data_names_subgenre[i]=="Uchronie")
+                        {color_temp="rgb(080, 200, 070)";}
+    else if (data_names_subgenre[i]=="Histoire")
+                        {color_temp="rgb(050, 120, 100)";}
+    else if (data_names_subgenre[i]=="Ecologie")
+                        {color_temp="rgb(000, 190, 000)";}
+    else if (data_names_subgenre[i]=="Anarchisme")
+                        {color_temp="rgb(000, 000, 000)";}
+    else if (data_names_subgenre[i]=="Societé")
+                        {color_temp="rgb(220, 050, 000)";}
+    else if (data_names_subgenre[i]=="Classique")
+                        {color_temp="rgb(220, 110, 000)";}    
+    else if (data_names_subgenre[i]=="OLNI")
+                        {color_temp="rgb(230, 180, 000)";}  
+                    
+    temp={   
             name: data_names_subgenre[i],
             tomes: data_names_subgenre_counter[i],
             radius: data_names_subgenre_counter[i] * scale_genre + scale_genre_c,
             color: color_temp,
             type: "genre",
             cluster: i};
-    clusters_data_temp.push(temp_X);
+    clusters_data_temp.push(temp);
 }
 
 
