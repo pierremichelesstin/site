@@ -59,7 +59,7 @@ function genre_mngmt(Livres) {
             color_temp = "rgb(000, 190, 000)";
         } else if (data_name_subgenre[i] == "Anarchisme") {
             color_temp = "rgb(000, 000, 000)";
-        } else if (data_name_subgenre[i] == "Societé") {
+        } else if (data_name_subgenre[i] == "Société") {
             color_temp = "rgb(220, 050, 000)";
         } else if (data_name_subgenre[i] == "Classique") {
             color_temp = "rgb(220, 110, 000)";
