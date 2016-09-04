@@ -397,6 +397,11 @@
       "tomes": 1,
       "subgenre": "Histoire"
   }, {
+      "titre": "Notes pour servir à l'histoire de Paris - Jules Andrieu",
+      "tomes": 1,
+      "subgenre": "Histoire",
+      "subgenre2": "Anarchisme"
+  }, {
       "titre": "Histoire de Chicago - Pap Ndiaye",
       "tomes": 1,
       "subgenre": "Histoire"
@@ -488,6 +493,14 @@
       "subgenre": "Societé"
   }, {
       "titre": "Les nouveaux chiens de garde - Serge Halimi",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "Discours sur le colonialisme - Aimé Césaire",
+      "tomes": 1,
+      "subgenre": "Societé"
+  }, {
+      "titre": "Le commerce c'est la guerre - Yash Tandon",
       "tomes": 1,
       "subgenre": "Societé"
   }, {
