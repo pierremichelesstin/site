@@ -186,8 +186,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("dx", -100)
         .attr("dy", -100);
 
-
-
     var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme d'une grappe de bulles";
     var titre_principal = svg.selectAll("XXX21")
         .data([1])
