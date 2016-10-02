@@ -35,9 +35,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     var scale_livre = 1;
     var scale_livre_c = 10;
     var currentIndex = jsonLivres.length;
-    while (0 !== currentIndex) {
-        i = Math.floor(Math.random() * currentIndex);
-        currentIndex -= 1;
+     for (i = 0; jsonLivres.length > i; i += 1)  {
         nodes.push({
             name: jsonLivres[i].titre,
             tomes: jsonLivres[i].tomes,
