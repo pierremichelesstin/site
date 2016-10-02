@@ -15,6 +15,14 @@ var myAsyncCounter = new asyncCounter(1, draw); //1 pour un fichier a charger, 2
 
 d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
+    var currentIndex = jsonLivres.length;
+    while (0 !== currentIndex) {
+    var randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+    var temporaryValue = jsonLivres[currentIndex];
+    jsonLivres[currentIndex] = jsonLivres[randomIndex];
+    jsonLivres[randomIndex] = temporaryValue;
+  }
     RES_genre_mngmt = genre_mngmt(jsonLivres); // 3 variables de sorties
     // 1) RES.data_subgenre avec toutes les infos d'un subgenre
     // 2) RES.data_name_subgenre les noms des subgenre
