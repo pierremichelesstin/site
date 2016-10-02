@@ -596,6 +596,12 @@
       "tomes": 1,
       "subgenre": "Classique"
   }, {
+      "titre": "L'infra-ordinaire - Georges Pérec",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Classique",
+      "descriptif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque suscipit diam quis sapien sodales, id finibus nunc imperdiet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sed dapibus est. Nulla facilisi. Sed in lectus rutrum, dapibus velit id, vulputate dui. Mauris ut orci sodales, mollis diam quis, malesuada nulla. Aliquam viverra fringilla nibh, vitae pretium ipsum."
+  }, {
       "titre": "La vie mode d'emploi - Georges Pérec",
       "tomes": 1,
       "subgenre": "Classique"
