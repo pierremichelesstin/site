@@ -412,12 +412,13 @@
   }, {
       "titre": "Notes pour servir à l'histoire de Paris - Jules Andrieu",
       "tomes": 1,
-      "subgenre": "Histoire",
+      c
       "subgenre2": "Anarchisme"
   }, {
       "titre": "Ma guerre d'espagne à moi - Mika Etchebéhère",
       "tomes": 1,
-      "subgenre": "Anarchisme"
+      "subgenre": "Anarchisme",
+      "subgenre2": "Histoire"
   }, {
       "titre": "Histoire de Chicago - Pap Ndiaye",
       "tomes": 1,
