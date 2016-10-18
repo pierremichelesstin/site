@@ -143,6 +143,10 @@
       "subgenre2": "Science-fiction",
       "subgenre": "OLNI"
   }, {
+      "titre": "L'homme à rebours - Philippe Curval",
+      "tomes": 1,
+      "subgenre2": "Science-fiction"
+  }, {
       "titre": "Le cycle de la culture - Iam M. Banks",
       "tomes": 4,
       "subgenre": "Space-opéra",
@@ -424,6 +428,10 @@
       "tomes": 1,
       "subgenre": "Anarchisme",
       "subgenre2": "Histoire"
+  },{
+      "titre": "Pour le communisme libertaire - Daniel Guérin",
+      "tomes": 1,
+      "subgenre": "Anarchisme"
   }, {
       "titre": "Histoire de Chicago - Pap Ndiaye",
       "tomes": 1,
