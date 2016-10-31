@@ -2,7 +2,10 @@
       "tomes": 6,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
-  }, {
+  },{  "titre": "Histoire du futur proche - Roland C Wagner",
+      "tomes": 5,
+      "subgenre": "Science-fiction"
+  },{
       "titre": "La horde du contrevent - Alain Damasio",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -417,6 +420,10 @@
   }, {
       "titre": "La révolution Allemande (1918 - 1923) - Chris Harman",
       "tomes": 1,
+      "subgenre": "Histoire"
+  }, {
+      "titre": "Les rois maudits - Maurice Druon,
+      "tomes": 2,
       "subgenre": "Histoire"
   }, {
       "titre": "Notes pour servir à l'histoire de Paris - Jules Andrieu",
