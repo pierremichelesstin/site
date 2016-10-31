@@ -52,7 +52,7 @@ function genre_mngmt(Livres) {
         } else if (data_name_subgenre[i] == "Space-opéra") {
             color_temp = "rgb(000, 200, 255)";
         } else if (data_name_subgenre[i] == "Uchronie") {
-            color_temp = "rgb(000, 060, 090)";
+            color_temp = "rgb(000, 170, 170)";
         } else if (data_name_subgenre[i] == "Histoire") {
             color_temp = "rgb(030, 100, 030)";
         } else if (data_name_subgenre[i] == "Ecologie") {
