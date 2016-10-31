@@ -52,9 +52,9 @@ function genre_mngmt(Livres) {
         } else if (data_name_subgenre[i] == "Space-opéra") {
             color_temp = "rgb(000, 200, 255)";
         } else if (data_name_subgenre[i] == "Uchronie") {
-            color_temp = "rgb(030, 050, 120)";
+            color_temp = "rgb(000, 060, 090)";
         } else if (data_name_subgenre[i] == "Histoire") {
-            color_temp = "rgb(030, 120, 050)";
+            color_temp = "rgb(030, 100, 030)";
         } else if (data_name_subgenre[i] == "Ecologie") {
             color_temp = "rgb(000, 190, 000)";
         } else if (data_name_subgenre[i] == "Anarchisme") {
