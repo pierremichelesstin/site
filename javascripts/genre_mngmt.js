@@ -52,9 +52,9 @@ function genre_mngmt(Livres) {
         } else if (data_name_subgenre[i] == "Space-opéra") {
             color_temp = "rgb(000, 200, 255)";
         } else if (data_name_subgenre[i] == "Uchronie") {
-            color_temp = "rgb(080, 120, 150)";
+            color_temp = "rgb(050, 100, 170)";
         } else if (data_name_subgenre[i] == "Histoire") {
-            color_temp = "rgb(050, 120, 100)";
+            color_temp = "rgb(050, 170, 100)";
         } else if (data_name_subgenre[i] == "Ecologie") {
             color_temp = "rgb(000, 190, 000)";
         } else if (data_name_subgenre[i] == "Anarchisme") {
@@ -62,7 +62,7 @@ function genre_mngmt(Livres) {
         } else if (data_name_subgenre[i] == "Société") {
             color_temp = "rgb(220, 050, 000)";
         } else if (data_name_subgenre[i] == "Classique") {
-            color_temp = "rgb(200, 150, 150)";
+            color_temp = "rgb(255, 170, 170)";
         } else if (data_name_subgenre[i] == "OLNI") {
             color_temp = "rgb(230, 180, 000)";
         }
