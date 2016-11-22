@@ -9,6 +9,10 @@
       "titre": "La horde du contrevent - Alain Damasio",
       "tomes": 1,
       "subgenre": "Science-fiction"
+  },{
+      "titre": "Les enfants de Darwin - Greg Bear",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
   }, {
       "titre": "Le déchronologue - Stéphane Beauverger",
       "tomes": 1,
@@ -87,7 +91,11 @@
       "titre": "Rasta solitude - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
-  }, {
+  },  {
+      "titre": "Habite-t-on réellement quelque part? - Philippe Curval",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  },{
       "titre": "Regarde, fiston, s'il n'y a pas un extra-terrestre derrière la bouteille de vin - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -234,6 +242,11 @@
       "titre": "Le maître du haut chateau - Phillip K Dick",
       "tomes": 1,
       "subgenre": "Uchronie"
+  }, {
+      "titre": "Le commando des immortels - Christophe Lambert",
+      "tomes": 1,
+      "subgenre": "Uchronie",
+      "subgenre2": "Fantasy"
   }, {
       "titre": "Aucun homme n'est une île - Christophe Lambert",
       "tomes": 1,
