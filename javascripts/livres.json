@@ -77,7 +77,7 @@
       "titre": "Ronge - Yves Frémion",
       "tomes": 1,
       "subgenre": "Science-fiction",
-      "subgenre": "Société"
+      "subgenre2": "Société"
   }, {
       "titre": "Ubik - Philip K Dick",
       "tomes": 1,
@@ -582,6 +582,10 @@
       "subgenre": "Classique"
   }, {
       "titre": "Voyage au bout de la nuit - Louis-Ferdinand Célin",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Dans la dèche à Paris et à Londres - George Orwell",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
