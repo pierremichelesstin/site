@@ -58,7 +58,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     }
 
     var width = 1000,
-        height = 750,
+        height = 850,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
 
