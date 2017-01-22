@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Site by pierremichelesstin</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+     <script src="https://d3js.org/d3.v3.min.js"></script>	
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Pierre Michel</h1>  
+        <h2><a href="index.html">Page Personnelle</a></h2>
+       <p>Ingénieur en Automatique, docteur en Energétique, lecteur de science-fiction et de philosophie politque,
+          infographiste amateur, je travaille à mes heures perdues à créer une bibliothèque vituelle pour mettre en valeur les
+          Objets Litérraires Non identifiés (OLNI) afin de montrer les synérgies entre imaginaire et société.</p>
+        <p><a href="mailto:pierre.michel.esstin@gmail.com">Contact</a></p>
+        
+        <ul>
+          <li><a href="https://github.com/pierremichelesstin/site/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/pierremichelesstin/site/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/pierremichelesstin/site">View On <strong>GitHub</strong></a></li>
+        </ul>
+      
+        <h2>Code</h2>
+        <h3><a href="Projet_DS3.html">Projets DS3.js</a></h3>
+
+        <h2>Bibliothèque virtuelle </h2>
+        <h3><a href="Bubbles.html">Première version</a></h3>
+
+      </header>
+      <section>
+      <h3><a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true">
+      <span aria-hidden="true" class="octicon octicon-link"></span></a>Troisième réflexion sur la synergie entre société et litérrature de genre</h3>
+      
+      <p>
+      <graphe2></graphe2>
+      <script type="text/javascript" src="javascripts/genre_mngmt.js"></script>
+      <script type="text/javascript" src="javascripts/Bubbles_books_infography_v3.js"></script>
+      </p>
+      </section>
+        <footer>
+        <p>This project is maintained by <a href="https://github.com/pierremichelesstin">pierremichelesstin</a></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
