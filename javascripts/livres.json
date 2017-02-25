@@ -143,6 +143,10 @@
       "titre": "L'opéra de Shaya - Sylvie Lainé",
       "tomes": 1,
       "subgenre": "Science-fiction"
+  },{
+      "titre": "L'anamnèse de Lady Stark - L.L. Kloetzer",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
   }, {
       "titre": "Les Olympiades truquées - Joëlle Wintrebert",
       "tomes": 1,
@@ -477,6 +481,11 @@
       "subgenre": "Anarchisme",
       "subgenre2": "Histoire"
   },{
+      "titre": "Tuez un salaud ! - Colonel Durrutti",
+      "tomes": 1,
+      "subgenre": "Policier",
+      "subgenre2": "Anarchisme"
+  },{
       "titre": "Pour le communisme libertaire - Daniel Guérin",
       "tomes": 1,
       "subgenre": "Anarchisme"
@@ -753,6 +762,10 @@
       "tomes": 1,
       "subgenre": "OLNI",
       "subgenre2": "Ecologie"
+  }, {
+      "titre": "Surveiller et punir - Michel Foucault",
+      "tomes": 1,
+      "subgenre": "Société"
   },{
       "titre": " How to Read Foucault - Johanna Oksala",
       "tomes": 1,
