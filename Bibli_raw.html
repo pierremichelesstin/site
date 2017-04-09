@@ -14,11 +14,65 @@
      <script src="https://d3js.org/d3.v3.min.js"></script>	
   </head>
   <body>
+    <div class="wrapper">
+      <header>
+        <h1>Pierre Michel</h1>  
+        <h2><a href="index.html">Page Personnelle</a></h2>
+        <p>Ingénieur en Automatique, docteur en Energétique, lecteur de science-fiction et de philosophie politque,
+          infographiste amateur, je travaille à mes heures perdues à créer une bibliothèque vituelle pour mettre en valeur les
+          Objets Litérraires Non identifiés (OLNI) afin de montrer les synérgies entre imaginaire et société.</p>
+        <p><a href="mailto:pierre.michel.esstin@gmail.com">Contact</a></p>
+        <ul>
+          <li><a href="https://github.com/pierremichelesstin/site/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/pierremichelesstin/site/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/pierremichelesstin/site">View On <strong>GitHub</strong></a></li>
+        </ul>
+      
+        <h2>Code</h2>
+        <h3><a href="Projet_DS3.html">Projets DS3.js</a></h3>
+
+        <h2>Bibliothèque virtuelle </h2>
+        <h3><a href="Bubbles.html">Première version</a></h3>
+
+      </header>
+      <section>
+        <h3>
+          
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Bibliothèque virtuelle sous forme d'une grappe de bulles</h3>
 
 <p>
+<graphe2></graphe2>
 <script type="text/javascript" src="javascripts/genre_mngmt.js"></script>
 <script type="text/javascript" src="javascripts/Bubbles_books_infography_v3.js"></script>
 </p>
+<p>
+Cette infographie sous forme de « grappe de bulles » permet de parcourir les livres de ma bibliothèque, triés par genre.
+Livres et les genres sous représentés sous forme de bulles, pleine pour un livre et blanche pour un genre. 
+La taille des bulles livre est, dans le cas d'un cycle avec plusieurs livres, proportionnelle au nombre de tomes du cycle. 
+Les bulles livres sont attirées par leur bulle genre principale, elle-même attirée vers le centre. 
+Le genre secondaire d’un livre est représenté par une bordure de couleur. 
+</p>
+<p> 
+L'infographie est « dynamique » car les bulles « flottent » mais surtout parcequ'il est possible d'interagir avec les bulles. 
+Vous pouvez « tirer » une bulle en cliquant dessus et en maintenant enfoncé le bouton de votre souris.
+Tirer sur une bulle de genre et l'ensemble des livres de ce genre seront déplacés.
+Mais vous pouvez surtout cliquer sur les rectangles à droite. L’ensemble des livres correspondant vont être mis en valeur:
+leur titre et auteur vont apparaître, les bulles correspondantes sont conservées et les autre bulles mises a l’écart. 
+Ensuite en pointant une bulle, les informations du livre correspondant seront mises en valeur en agrandissant la taille
+des informations du livre.
+</p>
+<p>
+Cette infographie est certes d’un côté purement égoïste et personnelle car elle ne rend compte que
+des livres que j’ai lu mais a d’un autre côté pour but de pousser à la curiosité et d’amener à la lecture
+d’ouvrages des littératures de genre (science-fiction, fantasy, policier) dont la portée spéculative et intellectuelle est
+importante pour notre société.
+</p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/pierremichelesstin">pierremichelesstin</a></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
     
   </body>
 </html>
