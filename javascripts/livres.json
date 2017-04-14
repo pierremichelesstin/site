@@ -187,6 +187,10 @@
       "titre": "Hyperion - Dan Simmons",
       "tomes": 1,
       "subgenre": "Space-opéra"
+  },{
+      "titre": "Etoiles mourrante - Ayerdhal et Jean-Claude Dunyach",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
   }, {
       "titre": "Les planètes meurent aussi - Barrington John Bayley",
       "tomes": 1,
@@ -295,6 +299,14 @@
       "tomes": 1,
       "subgenre": "Policier"
   }, {
+      "titre": "La vie est dégeulasse - Léo Mallet ",
+      "tomes": 1,
+      "subgenre": "Policier"
+  }, {
+      "titre": "Le grand sommeil - Raymond Chandler",
+      "tomes": 1,
+      "subgenre": "Policier"
+  },  {
       "titre": "Les racines du mal - Maurice G Dantec",
       "tomes": 1,
       "subgenre": "Policier",
@@ -631,6 +643,11 @@
       "subgenre": "Classique"
   }, {
       "titre": "Pour qui sonne le glas - Ernest Hemingway",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Le camarade - Cesare Pavese",
       "tomes": 1,
       "subgenre": "Classique",
       "subgenre2": "Histoire"
