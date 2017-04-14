@@ -64,7 +64,8 @@
   },{
       "titre": "Trilogie de l'âge d'or - John C Wright",
       "tomes": 3,
-      "subgenre": "Science-fiction"
+      "subgenre2": "Science-fiction",
+      "subgenre": "OLNI"
   }, {
       "titre": "Les gardiens d'Aleph-deux - Colin Marchika",
       "tomes": 1,
