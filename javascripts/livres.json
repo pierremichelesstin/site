@@ -178,7 +178,12 @@
       "tomes": 4,
       "subgenre": "Space-opéra",
       "subgenre2": "Anarchisme"
-  }, {
+  },{
+      "titre": "La révolution Russe - Voline",
+      "tomes": 1,
+      "subgenre2": "Histoire",
+      "subgenre": "Anarchisme"
+  },  {
       "titre": "Eon - Greg Bear",
       "tomes": 1,
       "subgenre": "Space-opéra",
@@ -232,6 +237,11 @@
       "titre": "Les Seigneurs de l’Instrumentalité - Cordwainer Smith",
       "tomes": 2,
       "subgenre2": "Space-opéra",
+      "subgenre": "OLNI"
+  },  {
+      "titre": " Chroniques du pays des mères - Élisabeth Vonarburg",
+      "tomes": 1,
+      "subgenre2": "Science-fiction",
       "subgenre": "OLNI"
   }, {
       "titre": "L'hérésie d'Horus ",
@@ -786,6 +796,10 @@
       "subgenre2": "Ecologie"
   }, {
       "titre": "Surveiller et punir - Michel Foucault",
+      "tomes": 1,
+      "subgenre": "Société"
+  }, {
+      "titre": "Guerre de mouvement et guerre de position - Antonio Gramsci",
       "tomes": 1,
       "subgenre": "Société"
   },{
