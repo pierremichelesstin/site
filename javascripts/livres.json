@@ -137,6 +137,10 @@
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
   }, {
+      "titre": "Millenium - Stieg Larsson",
+      "tomes": 3,
+      "subgenre": "Policier"
+  }, {
       "titre": "Forteresse - Georges Panchard",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -337,6 +341,16 @@
       "subgenre2": "Policier",
       "subgenre": "OLNI"
   }, {
+      "titre": "La position du tireur couché - Jean-Patrick Manchette",
+      "tomes": 1,
+      "subgenre2": "Policier",
+      "subgenre": "Société"
+  }, {
+      "titre": "Fatale- Jean-Patrick Manchette",
+      "tomes": 1,
+      "subgenre2": "Policier",
+      "subgenre": "Société"
+  },  {
       "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
       "tomes": 15,
       "subgenre": "Fantasy"
@@ -572,7 +586,11 @@
       "titre": "Manifeste convivialiste. Déclaration d'interdépendance",
       "tomes": 1,
       "subgenre": "Société"
-  }, {
+  },  {
+      "titre": "Que fait l’armée française en Afrique ? - Raphaël Granvaud",
+      "tomes": 1,
+      "subgenre": "Société"
+  },  {
       "titre": "La convivialité - Ivan Illitch",
       "tomes": 1,
       "subgenre": "Société",
@@ -799,6 +817,14 @@
       "subgenre": "OLNI",
       "subgenre2": "Science-fiction"
   }, {
+      "titre": "Scènes de la vie d'un faune - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI"
+  }, {
+      "titre": "Miroirs noirs - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI"
+  },   {
       "titre": "Epépé - Ferenc Karinthy",
       "tomes": 1,
       "subgenre": "OLNI",
