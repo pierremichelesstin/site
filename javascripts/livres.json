@@ -812,6 +812,10 @@
       "subgenre": "OLNI",
       "subgenre2": "Fantasy"
   }, {
+      "titre": "Le prophète et le vizir - Yves et Ada Remy",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  }, {
       "titre": "Intrabasses - Jeff Noon",
       "tomes": 1,
       "subgenre": "OLNI",
@@ -824,7 +828,16 @@
       "titre": "Miroirs noirs - Arno schimdt",
       "tomes": 1,
       "subgenre": "OLNI"
-  },   {
+  }, {
+      "titre": "Cosmas ou la Montagne du Nord - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Brand's haide - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI"
+  }, {
       "titre": "Epépé - Ferenc Karinthy",
       "tomes": 1,
       "subgenre": "OLNI",
