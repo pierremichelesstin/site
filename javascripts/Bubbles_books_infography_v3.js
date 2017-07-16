@@ -274,7 +274,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
 
     function tick_2(e) {
         circle
-            .each(cluster_2(30 * e.alpha * e.alpha))
+            .each(cluster_2(25 * e.alpha * e.alpha))
             .each(collide(.2))
             .attr("cx", function(d) {
                 return d.x;
