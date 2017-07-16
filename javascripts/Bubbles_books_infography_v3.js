@@ -57,7 +57,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         });
     }
 
-    var width = 650,
+    var width = 800,
         height = 1050,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
