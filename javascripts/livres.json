@@ -518,7 +518,7 @@
       "subgenre": "Histoire"
   },{
       "titre": "Histoire Romaine - Mommsen",
-      "tomes": 1,
+      "tomes": 3,
       "subgenre": "Histoire"
   }, {
       "titre": "Notes pour servir à l'histoire de Paris - Jules Andrieu",
@@ -823,11 +823,27 @@
   }, {
       "titre": "Scènes de la vie d'un faune - Arno schimdt",
       "tomes": 1,
-      "subgenre": "OLNI"
+      "subgenre": "OLNI",
+      "subgenre2": "Science-fiction"
   }, {
       "titre": "Miroirs noirs - Arno schimdt",
       "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Science-fiction"
+  }, {
+      "titre": "La république des savants - Arno schimdt",
+      "tomes": 1,
       "subgenre": "OLNI"
+  }, {
+      "titre": "Leviathan - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Histoire"
+  },  {
+      "titre": "Le coeur de pierre - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Classique"
   }, {
       "titre": "Cosmas ou la Montagne du Nord - Arno schimdt",
       "tomes": 1,
@@ -836,7 +852,8 @@
   }, {
       "titre": "Brand's haide - Arno schimdt",
       "tomes": 1,
-      "subgenre": "OLNI"
+      "subgenre": "OLNI",
+      "subgenre2": "Science-fiction"
   }, {
       "titre": "Epépé - Ferenc Karinthy",
       "tomes": 1,
