@@ -100,7 +100,11 @@
       "titre": "Habite-t-on réellement quelque part? - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
-  },{
+  },  {
+      "titre": "Cette chère humanité - Philippe Curval",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
       "titre": "Regarde, fiston, s'il n'y a pas un extra-terrestre derrière la bouteille de vin - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -193,7 +197,11 @@
       "tomes": 1,
       "subgenre": "Space-opéra",
       "subgenre2": "Uchronie"
-  }, {
+  },  {
+      "titre": "L'année du soleil calme - William Tucker",
+      "tomes": 1,
+      "subgenre": "Space-opéra"
+  },  {
       "titre": "Hyperion - Dan Simmons",
       "tomes": 1,
       "subgenre": "Space-opéra"
@@ -530,12 +538,12 @@
       "tomes": 1,
       "subgenre": "Anarchisme",
       "subgenre2": "Histoire"
-  },{
-      "titre": "Tuez un salaud ! - Colonel Durrutti",
-      "tomes": 1,
+  }, {
+      "titre": "Le soviet - Colonel Durrutti",
+      "tomes": 3,
       "subgenre": "Policier",
       "subgenre2": "Anarchisme"
-  },{
+  }, {
       "titre": "Pour le communisme libertaire - Daniel Guérin",
       "tomes": 1,
       "subgenre": "Anarchisme"
@@ -870,6 +878,11 @@
       "subgenre": "Société"
   }, {
       "titre": "Guerre de mouvement et guerre de position - Antonio Gramsci",
+      "tomes": 1,
+      "subgenre": "Société",
+      "subgenre2": "Anarchisme"
+  }, {
+      "titre": "L'homme superflu - Patrick Vassort",
       "tomes": 1,
       "subgenre": "Société"
   },{
