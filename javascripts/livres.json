@@ -31,7 +31,11 @@
       "tomes": 3,
       "subgenre": "Science-fiction",
       "subgenre2": "Société"
-  }, {
+  },  {
+      "titre": "Terremer- Ursula K Le Guin",
+      "tomes": 3,
+      "subgenre": "Fantasy"
+  },{
       "titre": "Le temps incertain -  Michel Jeury",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -108,7 +112,11 @@
       "titre": "Regarde, fiston, s'il n'y a pas un extra-terrestre derrière la bouteille de vin - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
-  }, {
+  },  {
+      "titre": "L'enchâssement - Ian watson",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  },{
       "titre": "Chanson pour Lya - GRR Martin",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -339,6 +347,10 @@
       "tomes": 1,
       "subgenre": "Policier"
   },  {
+      "titre": "La dame du lac - Raymond Chandler",
+      "tomes": 1,
+      "subgenre": "Policier"
+  }, {
       "titre": "Les racines du mal - Maurice G Dantec",
       "tomes": 1,
       "subgenre": "Policier",
@@ -359,6 +371,11 @@
       "subgenre": "Policier",
       "subgenre2": "Société"
   },  {
+      "titre": "Anthracite - Valerio Evangelisti",
+      "tomes": 1,
+      "subgenre": "Policier",
+      "subgenre2": "Histoire"
+  }, {
       "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
       "tomes": 15,
       "subgenre": "Fantasy"
@@ -735,6 +752,10 @@
       "subgenre": "Classique"
   }, {
       "titre": "Women - Charles Bukowski",
+      "tomes": 1,
+      "subgenre": "Classique"
+  }, {
+      "titre": "Kaputt - Curzio Malaparte",
       "tomes": 1,
       "subgenre": "Classique"
   }, {
