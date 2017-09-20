@@ -13,6 +13,15 @@
       "titre": "L'échelle de Darwin - Greg Bear",
       "tomes": 2,
       "subgenre": "Science-fiction"
+  },{
+      "titre": "Rivage des intouchables - Francis Berthelot",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  }, {
+      "titre": "L'Homme démoli - Alfred Bester",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Classique"
   }, {
       "titre": "Le déchronologue - Stéphane Beauverger",
       "tomes": 1,
@@ -186,7 +195,12 @@
       "tomes": 1,
       "subgenre2": "Science-fiction",
       "subgenre": "OLNI"
-  }, {
+  },{
+      "titre": "Radix - A.A. Attanasio",
+      "tomes": 1,
+      "subgenre2": "Science-fiction",
+      "subgenre": "OLNI"
+  },  {
       "titre": "L'homme à rebours - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -899,6 +913,10 @@
       "subgenre2": "Ecologie"
   }, {
       "titre": "Surveiller et punir - Michel Foucault",
+      "tomes": 1,
+      "subgenre": "Société"
+  }, {
+      "titre": "L'homme unidimmensionnel - Herbert Marcusse",
       "tomes": 1,
       "subgenre": "Société"
   }, {
