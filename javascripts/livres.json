@@ -102,6 +102,19 @@
       "subgenre2": "Science-fiction",
       "subgenre": "OLNI"
   }, {
+      "titre": "Complications - Nina Allan",
+      "tomes": 1,
+      "subgenre2": "Science-fiction",
+      "subgenre": "OLNI"
+  },{
+      "titre": "Spin - Nina Allan",
+      "tomes": 1,
+      "subgenre1": "Science-fiction"
+  }, {
+      "titre": "Stardust - Nina Allan",
+      "tomes": 1,
+      "subgenre1": "Science-fiction"
+  },  {
       "titre": "Le dieu venu du centaure - Philip K Dick",
       "tomes": 1,
       "subgenre": "Science-fiction"
