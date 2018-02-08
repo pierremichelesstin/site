@@ -47,6 +47,8 @@ function genre_mngmt(Livres) {
             color_temp = "rgb(180, 25, 180)";
         } else if (data_name_subgenre[i] == "Policier") {
             color_temp = "rgb(100, 100, 100)";
+        } else if (data_name_subgenre[i] == "SF - nouvelles") {
+            color_temp = "rgb(000, 080, 150)";
         } else if (data_name_subgenre[i] == "Science-fiction") {
             color_temp = "rgb(000, 080, 150)";
         } else if (data_name_subgenre[i] == "Space-opéra") {
