@@ -109,11 +109,11 @@
   },{
       "titre": "Spin - Nina Allan",
       "tomes": 1,
-      "subgenre1": "Science-fiction"
+      "subgenre": "Science-fiction"
   }, {
       "titre": "Stardust - Nina Allan",
       "tomes": 1,
-      "subgenre1": "Science-fiction"
+      "subgenre": "Science-fiction"
   },  {
       "titre": "Le dieu venu du centaure - Philip K Dick",
       "tomes": 1,
