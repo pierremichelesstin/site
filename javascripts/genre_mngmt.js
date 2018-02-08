@@ -42,9 +42,9 @@ function genre_mngmt(Livres) {
     for (i = 0; data_name_subgenre.length > i; i += 1) {
         var color_temp = [];
         if (data_name_subgenre[i] == "Fantasy") {
-            color_temp = "rgb(200, 150, 200)";
+            color_temp = "rgb(250, 50, 250)";
         } else if (data_name_subgenre[i] == "Dark fantasy") {
-            color_temp = "rgb(100, 50, 100)";
+            color_temp = "rgb(200, 25, 200)";
         } else if (data_name_subgenre[i] == "Policier") {
             color_temp = "rgb(100, 100, 100)";
         } else if (data_name_subgenre[i] == "Science-fiction") {
@@ -66,7 +66,7 @@ function genre_mngmt(Livres) {
         } else if (data_name_subgenre[i] == "OLNI") {
             color_temp = "rgb(230, 180, 000)";
         } else if (data_name_subgenre[i] == "Hard science-fiction") {
-            color_temp = "rgb(50, 50, 100)";
+            color_temp = "rgb(080, 080, 150)";
         }
         
         
