@@ -231,7 +231,20 @@
       "tomes": 1,
       "subgenre2": "Histoire",
       "subgenre": "Anarchisme"
-  },  {
+  },{
+      "titre": "Calais face à la frontière",
+      "tomes": 1,
+      "subgenre2": "Société",
+      "subgenre": "Anarchisme"
+  }, {
+      "titre": "Pour une antrhopologie - David Graeber",
+      "tomes": 1,
+      "subgenre": "Anarchisme"
+  },{
+      "titre": "Fragmenter le monde - Josep Rafanell I Orra",
+      "tomes": 1,
+      "subgenre": "Anarchisme"
+  }, {
       "titre": "Eon - Greg Bear",
       "tomes": 1,
       "subgenre": "Space-opéra",
