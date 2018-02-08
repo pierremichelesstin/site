@@ -34,7 +34,8 @@
   }, {
       "titre": "La ménagerie de papier - Ken Liu",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "Hard science-fiction",
+      "subgenre2": "SF - nouvelles"
   }, {
       "titre": "Le cycle de l'Ekumen - Ursula K Le Guin",
       "tomes": 4,
@@ -73,7 +74,7 @@
   }, {
       "titre": "La tour de Babylone - Ted Chaing",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   },{
       "titre": "Unica - Elise Fontenaille",
       "tomes": 1,
@@ -118,7 +119,7 @@
   }, {
       "titre": "Rêves de sable, châteaux de sang - Yves Frémion",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   },  {
       "titre": "Ubik - Philip K Dick",
       "tomes": 1,
