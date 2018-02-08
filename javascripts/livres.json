@@ -59,7 +59,8 @@
   },  {
       "titre": "Danses aériennes - Nancy Kress",
       "tomes": 1,
-      "subgenre": "Hard science-fiction"
+      "subgenre": "Hard science-fiction",
+      "subgenre2": "SF - nouvelles"
   }, {
       "titre": "Aqua (TM) - Jean-Marc Ligny",
       "tomes": 1,
@@ -86,7 +87,7 @@
   },{
       "titre": "Un pont sur la brume - Kij Johnson",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   },{
       "titre": "Le Rayon zen- Barrington John Bayley",
       "tomes": 1,
@@ -99,12 +100,12 @@
   }, {
       "titre": "Cru - Luvan",
       "tomes": 1,
-      "subgenre2": "Science-fiction",
+      "subgenre2": "SF - nouvelles",
       "subgenre": "OLNI"
   }, {
       "titre": "Les gardiens d'Aleph-deux - Colin Marchika",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   }, {
       "titre": "Le silence de l'espace - Tommaso Pincio",
       "tomes": 1,
@@ -126,16 +127,16 @@
   }, {
       "titre": "Complications - Nina Allan",
       "tomes": 1,
-      "subgenre2": "Science-fiction",
+      "subgenre2": "SF - nouvelles",
       "subgenre": "OLNI"
   },{
       "titre": "Spin - Nina Allan",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   }, {
       "titre": "Stardust - Nina Allan",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   },  {
       "titre": "Le dieu venu du centaure - Philip K Dick",
       "tomes": 1,
@@ -143,11 +144,11 @@
   }, {
       "titre": "Rasta solitude - Philippe Curval",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   },  {
       "titre": "Habite-t-on réellement quelque part? - Philippe Curval",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   },  {
       "titre": "Cette chère humanité - Philippe Curval",
       "tomes": 1,
@@ -155,7 +156,7 @@
   }, {
       "titre": "Poumon vert - Ian R. MacLeod ",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   }, {
       "titre": "Le dormeur du val - Philippe Curval",
       "tomes": 1,
@@ -185,12 +186,13 @@
   }, {
       "titre": "Axiomatique / Radieux / Océanique  - Greg Egan",
       "tomes": 3,
-      "subgenre": "Hard science-fiction"
+      "subgenre": "Hard science-fiction",
+      "subgenre2": "SF - nouvelles"
   }, {
       "titre": "La fille automate - Paolo Bacigalupi",
       "tomes": 1,
       "subgenre": "Hard science-fiction",
-      "subgenre2": "Ecologie"
+      "subgenre2": "SF - nouvelles"
   }, {
       "titre": "La fille flûte et autres fragments de futurs brisés - Paolo Bacigalupi",
       "tomes": 1,
@@ -212,7 +214,7 @@
   }, {
       "titre": "L'opéra de Shaya - Sylvie Lainé",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   },{
       "titre": "L'anamnèse de Lady Stark - L.L. Kloetzer",
       "tomes": 1,
@@ -237,7 +239,7 @@
   }, {
       "titre": "Comment jouer à l'homme invisible en trois leçons - Philippe Curval",
       "tomes": 1,
-      "subgenre2": "Science-fiction",
+      "subgenre2": "SF - nouvelles",
       "subgenre": "OLNI"
   },{
       "titre": "Radix - A.A. Attanasio",
@@ -375,7 +377,7 @@
   }, {
       "titre": "L'homme qui mit fin à l'histoire - Ken Liu",
       "tomes": 1,
-      "subgenre": "Science-fiction"
+      "subgenre": "SF - nouvelles"
   }, {
       "titre": "Le maître du haut chateau - Phillip K Dick",
       "tomes": 1,
