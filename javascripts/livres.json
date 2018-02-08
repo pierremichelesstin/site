@@ -604,6 +604,11 @@
       "subgenre": "Anarchisme",
       "subgenre2": "Histoire"
   }, {
+      "titre": "La Désobéissance civile - Henry David Thoreau",
+      "tomes": 1,
+      "subgenre2": "Anarchisme",
+      "subgenre": "Histoire"
+  }, {
       "titre": "Le soviet - Colonel Durrutti",
       "tomes": 3,
       "subgenre": "Policier",
@@ -887,6 +892,10 @@
       "tomes": 1,
       "subgenre": "OLNI"
   }, {
+      "titre": "Lutz bassmann - Black village",
+      "tomes": 1,
+      "subgenre": "OLNI"
+  }, {
       "titre": "Terminus radieux - Antoine Volodine",
       "tomes": 1,
       "subgenre": "OLNI",
@@ -911,6 +920,11 @@
       "subgenre2": "Science-fiction"
   }, {
       "titre": "Scènes de la vie d'un faune - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Science-fiction"
+  }, {
+      "titre": "On a marché sur la lande - Arno schimdt",
       "tomes": 1,
       "subgenre": "OLNI",
       "subgenre2": "Science-fiction"
