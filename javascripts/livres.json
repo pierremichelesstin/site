@@ -117,6 +117,10 @@
       "titre": "Cette chère humanité - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
+  },  {
+      "titre": "Le dormeur du val - Philippe Curval",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
   }, {
       "titre": "Regarde, fiston, s'il n'y a pas un extra-terrestre derrière la bouteille de vin - Philippe Curval",
       "tomes": 1,
@@ -251,6 +255,10 @@
   },{
       "titre": "Poupée aux yeux morts - Roland C Wagner",
       "tomes": 1,
+      "subgenre": "Space-opéra"
+  },{
+      "titre": "L'aube de la nuit - Peter F. Hamilton",
+      "tomes": 4,
       "subgenre": "Space-opéra"
   }, {
       "titre": "L'espace de la révélation - Reynolds, Alastair",
@@ -866,7 +874,11 @@
       "titre": "Le prophète et le vizir - Yves et Ada Remy",
       "tomes": 1,
       "subgenre": "Fantasy"
-  }, {
+  },{
+      "titre": "La maison du cygne - Yves et Ada Remy",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  },  {
       "titre": "Intrabasses - Jeff Noon",
       "tomes": 1,
       "subgenre": "OLNI",
