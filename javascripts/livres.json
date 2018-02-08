@@ -37,7 +37,7 @@
       "subgenre": "Science-fiction"
   }, {
       "titre": "Le cycle de l'Ekumen - Ursula K Le Guin",
-      "tomes": 3,
+      "tomes": 4,
       "subgenre": "Science-fiction",
       "subgenre2": "Société"
   },  {
@@ -70,6 +70,15 @@
       "tomes": 1,
       "subgenre": "Science-fiction",
       "subgenre2": "Policier"
+  },{
+      "titre": "Dragon - Thomas Day",
+      "tomes": 1,
+      "subgenre": "Science-fiction",
+      "subgenre2": "Policier"
+  },{
+      "titre": "Un pont sur la brume - Kij Johnson",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
   },{
       "titre": "Le Rayon zen- Barrington John Bayley",
       "tomes": 1,
@@ -927,7 +936,7 @@
       "titre": "On a marché sur la lande - Arno schimdt",
       "tomes": 1,
       "subgenre": "OLNI",
-      "subgenre2": "Science-fiction"
+      "subgenre2": "Classique"
   }, {
       "titre": "Miroirs noirs - Arno schimdt",
       "tomes": 1,
