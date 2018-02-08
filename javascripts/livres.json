@@ -52,6 +52,14 @@
       "titre": "Les singes du temps -  Michel Jeury",
       "tomes": 1,
       "subgenre": "Science-fiction"
+  },{
+      "titre": "May le monde -  Michel Jeury",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  },  {
+      "titre": "Danses aériennes - Nancy Kress",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
   }, {
       "titre": "Aqua (TM) - Jean-Marc Ligny",
       "tomes": 1,
@@ -87,6 +95,11 @@
       "titre": "Trilogie de l'âge d'or - John C Wright",
       "tomes": 3,
       "subgenre2": "Space-opéra",
+      "subgenre": "OLNI"
+  }, {
+      "titre": "Cru - Luvan",
+      "tomes": 1,
+      "subgenre2": "Science-fiction",
       "subgenre": "OLNI"
   }, {
       "titre": "Les gardiens d'Aleph-deux - Colin Marchika",
