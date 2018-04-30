@@ -104,6 +104,10 @@
       "subgenre2": "SF - nouvelles",
       "subgenre": "OLNI"
   }, {
+      "titre": "Les chambres inquiètes - Lisa Tuttle",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
+  }, {
       "titre": "Les gardiens d'Aleph-deux - Colin Marchika",
       "tomes": 1,
       "subgenre": "SF - nouvelles"
@@ -116,7 +120,16 @@
       "tomes": 1,
       "subgenre": "Science-fiction",
       "subgenre2": "Société"
-  }, {
+  },{
+      "titre": "Années de rêves et de plomb: des grèves à la lutte armée en Italie (1968-1980) - Alessandro Stella",
+      "tomes": 1,
+      "subgenre": "Anarchisme",
+      "subgenre2": "Histoire"
+  },{
+      "titre": "Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
+      "tomes": 1,
+      "subgenre": "Société"
+  },  {
       "titre": "Rêves de sable, châteaux de sang - Yves Frémion",
       "tomes": 1,
       "subgenre": "SF - nouvelles"
