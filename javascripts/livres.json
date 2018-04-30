@@ -233,7 +233,11 @@
       "titre": "Le bureau des atrocités - Charles Stross",
       "tomes": 1,
       "subgenre": "Science-fiction"
-  }, {
+  },{
+      "titre": "Octobre 1917. Une lecture très critique de l’historiographie dominante - Lucien Sève",
+      "tomes": 1,
+      "subgenre": "Histoire"
+  },  {
       "titre": "Spin - Robert Charles Wilson",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -380,6 +384,14 @@
       "tomes": 1,
       "subgenre": "SF - nouvelles"
   }, {
+      "titre": "Quanticka - Laurence Suhner",
+      "tomes": 2,
+      "subgenre": "Space-opéra"
+  },  {
+      "titre": "Au-delà du gouffre - Peter Watts",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
+  },{
       "titre": "Le maître du haut chateau - Phillip K Dick",
       "tomes": 1,
       "subgenre": "Uchronie"
