@@ -383,6 +383,10 @@
       "titre": "L'homme qui mit fin à l'histoire - Ken Liu",
       "tomes": 1,
       "subgenre": "SF - nouvelles"
+  },{
+      "titre": "On est bien seul dans l'univers - Philippe Curval",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
   }, {
       "titre": "Quanticka - Laurence Suhner",
       "tomes": 2,
@@ -390,7 +394,8 @@
   },  {
       "titre": "Au-delà du gouffre - Peter Watts",
       "tomes": 1,
-      "subgenre": "SF - nouvelles"
+      "subgenre2": "SF - nouvelles",
+      "subgenre": "Hard science-fiction"
   },{
       "titre": "Le maître du haut chateau - Phillip K Dick",
       "tomes": 1,
