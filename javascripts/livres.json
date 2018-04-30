@@ -387,6 +387,10 @@
       "titre": "On est bien seul dans l'univers - Philippe Curval",
       "tomes": 1,
       "subgenre": "SF - nouvelles"
+  },{
+      "titre": "Issa Eohim - Laurent Kloetzer",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
   }, {
       "titre": "Quanticka - Laurence Suhner",
       "tomes": 2,
@@ -673,7 +677,12 @@
       "tomes": 1,
       "subgenre": "Histoire",
       "subgenre2": "Anarchisme"
-  }, {
+  },{
+      "titre": "Le gang de la clé à molette - Edward Abbey",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Anarchisme"
+  },  {
       "titre": "Une auberge espagnole - Luis Bonet",
       "tomes": 1,
       "subgenre": "Histoire"
@@ -757,8 +766,14 @@
   }, {
       "titre": "Le Désert de la critique, Déconstruction et politique - Renaud Garcia",
       "tomes": 1,
-      "subgenre": "Société"
-  }, {
+      "subgenre": "Société",
+      "subgenre2": "Anarchisme"
+  },{
+      "titre": "Le sens des limites, contre l'abstraction capitaliste - Renaud Garcia",
+      "tomes": 1,
+      "subgenre": "Société",
+      "subgenre2": "Anarchisme"
+  },  {
       "titre": "Le travail - Dominique Méda",
       "tomes": 1,
       "subgenre": "Société"
@@ -952,7 +967,12 @@
       "tomes": 1,
       "subgenre": "OLNI",
       "subgenre2": "Fantasy"
-  }, {
+  },{
+      "titre": "Susto - Luvan",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Science-fiction"
+  },  {
       "titre": "Le prophète et le vizir - Yves et Ada Remy",
       "tomes": 1,
       "subgenre": "Fantasy"
