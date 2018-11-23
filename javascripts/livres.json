@@ -99,6 +99,10 @@
       "subgenre2": "Space-opéra",
       "subgenre": "OLNI"
   }, {
+      "titre": "F.A.U.S.T. - Serge Lehman",
+      "tomes": 3,
+      "subgenre2": "Space-opéra"
+  }, {
       "titre": "Cru - Luvan",
       "tomes": 1,
       "subgenre2": "SF - nouvelles",
@@ -287,6 +291,11 @@
       "titre": "Pour une antrhopologie - David Graeber",
       "tomes": 1,
       "subgenre": "Anarchisme"
+  }, {
+      "titre": "La Makhnovchtchina - Archinov",
+      "tomes": 1,
+      "subgenre": "Anarchisme",
+      "subgenre2": "Histoire"
   },{
       "titre": "Fragmenter le monde - Josep Rafanell I Orra",
       "tomes": 1,
@@ -781,6 +790,10 @@
       "tomes": 1,
       "subgenre": "Société",
       "subgenre2": "Anarchisme"
+  }, {
+      "titre": "Quand la gauche essayait - Serge Halimi",
+      "tomes": 1,
+      "subgenre": "Histoire"
   },{
       "titre": "Le sens des limites, contre l'abstraction capitaliste - Renaud Garcia",
       "tomes": 1,
