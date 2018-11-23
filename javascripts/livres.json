@@ -10,6 +10,10 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   },{
+      "titre": "Babylon babies - Maurice G. Dantec",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  },{
       "titre": "L'échelle de Darwin - Greg Bear",
       "tomes": 2,
       "subgenre": "Hard science-fiction"
@@ -129,6 +133,20 @@
       "tomes": 1,
       "subgenre": "Anarchisme",
       "subgenre2": "Histoire"
+  },{
+      "titre": "Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
+      "tomes": 1,
+      "subgenre": "Société",
+      "subgenre2": "Anarchisme"
+  },{
+      "titre": "Histoire des agricultures du monde - Marcel Mazoyer",
+      "tomes": 1,
+      "subgenre1": "Histoire"
+  },{
+      "titre": "Le néant et le politique - Harold Bernat ",
+      "tomes": 1,
+      "subgenre": "Anarchisme",
+      "subgenre2": "Société"
   },{
       "titre": "Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
       "tomes": 1,
