@@ -101,7 +101,7 @@
   }, {
       "titre": "F.A.U.S.T. - Serge Lehman",
       "tomes": 3,
-      "subgenre2": "Space-opéra"
+      "subgenre": "Space-opéra"
   }, {
       "titre": "Cru - Luvan",
       "tomes": 1,
@@ -175,7 +175,23 @@
       "titre": "Poumon vert - Ian R. MacLeod ",
       "tomes": 1,
       "subgenre": "SF - nouvelles"
+  },  {
+      "titre": "24 vues du mont Fuji par Hokuzai - Roger Zelzany",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
+  },  {
+      "titre": "Cookie monster - Vernor Vinge",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
+  },   {
+      "titre": "Le fini des mers - Gardner Dozois",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
   }, {
+      "titre": "L'Effet Churten - Ursula K. le Guin",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
+  },{
       "titre": "Le dormeur du val - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -496,7 +512,15 @@
       "tomes": 1,
       "subgenre": "Policier",
       "subgenre2": "Histoire"
-  }, {
+  },  {
+      "titre": "Inspectrice Simona Tavianello - Serge Quadruppani",
+      "tomes": 3,
+      "subgenre": "Policier"
+  },  {
+      "titre": "Y - Serge Quadruppani",
+      "tomes": 1,
+      "subgenre": "Policier"
+  },  {
       "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
       "tomes": 15,
       "subgenre": "Fantasy"
@@ -937,6 +961,10 @@
       "subgenre": "OLNI",
       "subgenre2": "Classique",
       "descriptif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque suscipit diam quis sapien sodales, id finibus nunc imperdiet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sed dapibus est. Nulla facilisi. Sed in lectus rutrum, dapibus velit id, vulputate dui. Mauris ut orci sodales, mollis diam quis, malesuada nulla. Aliquam viverra fringilla nibh, vitae pretium ipsum."
+  }, {
+      "titre": "Six photos noircies - Jonathan Wable",
+      "tomes": 1,
+      "subgenre": "OLNI"
   }, {
       "titre": "La vie mode d'emploi - Georges Pérec",
       "tomes": 1,
