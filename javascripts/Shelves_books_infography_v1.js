@@ -39,8 +39,8 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     var subgenres_name = RES_genre_mngmt.data_name_subgenre;
     //clusters = RES_genre_mngmt.data_subgenre;
 
-    var width = 800,
-        height = 800,
+    var width = 600,
+        height = 600,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
     
@@ -51,7 +51,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .style("border", "1px solid black");
 
     //titre
-    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de BBB";
+    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de CCC";
     var titre_principal = svg.selectAll("XXX21")
         .data([1])
         .enter()
@@ -90,7 +90,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("y", function(d, i) {
             var ligne;
             ligne = i % 50;
-            return ligne * (10 + 2) ;
+            return 600 - (ligne * (10 + 2)) ;
         })
         .attr("width", 50)
         .attr("height", 10)
