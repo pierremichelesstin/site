@@ -63,7 +63,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 16)
         .attr("fill", "black");
     
-     var labels = svg.selectAll("XXX22")
+     var temp = svg.selectAll("XXX22")
         .data(jsonLivres)
         .enter()
         .append("text")
@@ -73,8 +73,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
             return d.name;
         })
         .attr("font-family", "Tahoma")
-        .attr("font-size", 14)
-        .style("fill", function(d) {
-            return d.color;
-        });
+        .attr("font-size", 16)
+        .attr("fill", "black");
 }
