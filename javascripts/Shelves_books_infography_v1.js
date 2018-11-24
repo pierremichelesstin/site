@@ -78,7 +78,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 16)
         .attr("fill", "black");
          
-        var livres;  
         for (i = 0; jsonLivres.length > i; i += 1)  {
         livres.push({
             name: jsonLivres[i].titre,
@@ -106,7 +105,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         })
         .attr("width", 50)
         .attr("height", 10)
-        .attr("fill",  function(d, i) {
-            return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
+        .attr("fill",  function(d) {
+            return d.color;
         });
 }
