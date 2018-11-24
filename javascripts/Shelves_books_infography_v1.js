@@ -35,34 +35,49 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
 
     // Récuperation des variables de la fonction genre_mngmt
     var taille_bibliotheque = RES_genre_mngmt.taille_bibliotheque;
-    var nodes = RES_genre_mngmt.data_subgenre;
-    var nodes_name = RES_genre_mngmt.data_name_subgenre;
-    clusters = RES_genre_mngmt.data_subgenre;
+    //var nodes = RES_genre_mngmt.data_subgenre;
+    //var nodes_name = RES_genre_mngmt.data_name_subgenre;
+    //clusters = RES_genre_mngmt.data_subgenre;
 
     var width = 800,
         height = 800,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
-
+    
+    // contour 
     var svg = d3.select("graphe2").append("svg")
         .attr("width", width)
         .attr("height", height)
         .style("border", "1px solid black");
 
-    var rectangle = svg.selectAll("rect")
-        .data(RES_genre_mngmt.data_subgenre)
-        .enter().append("rect")
-        .filter(function(d) {
-            return d.type == "genre"
-        })
-        .attr("x", width - 130)
-        .attr("y", function(d, i) {
-            return 50 + i * 45
-        })
-        .attr("width", 125)
-        .attr("height", 25)
-        .style("fill", function(d) {
-            return d.color
-        })
+    //titre
+    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme d'une grappe de bulles";
+    var titre_principal = svg.selectAll("XXX21")
+        .data([1])
+        .enter()
+        .append("text")
+        .attr("x", 5)
+        .attr("y", 14)
+        .text(text_p)
+        .attr("font-family", "Tahoma")
+        .attr("font-size", 16)
+        .attr("fill", "black");
 
+     // Création des ronds
+    var scale_livre = 1.5;
+    var scale_livre_c = 10;
+    var currentIndex = jsonLivres.length;
+     for (i = 0; jsonLivres.length > i; i += 1)  {
+        nodes.push({
+            name: jsonLivres[i].titre,
+            tomes: jsonLivres[i].tomes,
+            radius: jsonLivres[i].tomes * scale_livre + scale_livre_c,
+            color: nodes[nodes_name.indexOf(jsonLivres[i].subgenre)].color,
+            type: "livre",
+            cluster: nodes_name.indexOf(jsonLivres[i].subgenre),
+            subgenre: jsonLivres[i].subgenre,
+            cluster2: nodes_name.indexOf(jsonLivres[i].subgenre2),
+            subgenre2: jsonLivres[i].subgenre2,
+        });
+    }
 }
