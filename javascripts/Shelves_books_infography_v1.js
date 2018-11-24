@@ -62,14 +62,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
 
-    var force = d3.layout.force()
-        .nodes(nodes)
-        .size([width, height])
-        .gravity(0)
-        .charge(0)
-        .alpha(2)
-        .on("tick", tick)
-        .start();
 
     var svg = d3.select("graphe2").append("svg")
         .attr("width", width)
@@ -91,20 +83,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .style("fill", function(d) {
             return d.color
         })
-        .on("click", function(d, i) {
-            selec_genre = i;
-            label.attr("dx", -100)
-                .attr("dy", -100);
-            label.filter(function(d) {
-                    return (d.cluster == selec_genre | d.cluster2 == selec_genre);
-                })
-                .attr("dx", 5)
-                .attr("dy", function(d, i) {
-                    return 42 + i * 16;
-                });
-            force.on("tick", tick_2)
-                .start();
-        });
+
 
     var rectangle_label = svg.selectAll("text")
         .data(RES_genre_mngmt.data_subgenre)
@@ -125,44 +104,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
             return d.color;
         });
 
-    var circle = svg.selectAll("circle")
-        .data(nodes)
-        .enter().append("circle")
-        .attr("r", function(d) {
-            return d.radius;
-        })
-        .attr("fill", function(d) {
-            if (d.type == "genre") {
-                return "white";
-            } else {
-                return d.color;
-            }
-        })
-        .attr("stroke-width", function(d) {
-            return 6;
-        })
-        .attr("stroke", function(d) {
-            if (d.type == "genre") {
-                return d.color;
-            } else if (d.subgenre2 != null) {
-                return nodes[nodes_name.indexOf(d.subgenre2)].color;
-            }
-        })
-        .call(force.drag)
-        .on("mouseover", function(d) {
-            name_temp = d.name;
-            label.filter(function(d) {
-                    return (d.name == name_temp & d.type == "livre")
-                })
-                .attr("font-size", 18)
-        })
-        .on("mouseout", function(d) {
-            name_temp = d.name;
-            label.filter(function(d) {
-                    return (d.name == name_temp & d.type == "livre")
-                })
-                .attr("font-size", 14)
-        });;
 
     var label = svg.selectAll("text2")
         .data(nodes)
@@ -226,10 +167,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         })
         .attr("font-family", "Tahoma")
         .attr("font-size", 14)
-        .style("fill", "white");
-        
-
-
-    }
-        
+        .style("fill", "white");        
+    }        
 }
