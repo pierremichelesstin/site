@@ -35,8 +35,8 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
 
     // Récuperation des variables de la fonction genre_mngmt
     var taille_bibliotheque = RES_genre_mngmt.taille_bibliotheque;
-    //var nodes = RES_genre_mngmt.data_subgenre;
-    //var nodes_name = RES_genre_mngmt.data_name_subgenre;
+    var subgenres = RES_genre_mngmt.data_subgenre;
+    var subgenres_name = RES_genre_mngmt.data_name_subgenre;
     //clusters = RES_genre_mngmt.data_subgenre;
 
     var width = 800,
@@ -66,13 +66,17 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
      var temp = svg.selectAll("XXX22")
         .data(jsonLivres)
         .enter()
-        .append("text")
+        .append("rect")
         .attr("x", 35)
-        .attr("y", 35)
+        .attr("y", function(d, i) {
+            return 50 + i * 10
+        })
         .text(function(d) {
             return d.titre;
         })
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
-        .attr("fill", "black");
+        .attr("fill",  function(d, i) {
+            return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
+        });
 }
