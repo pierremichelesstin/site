@@ -41,7 +41,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
 
     // Création des ronds
     var scale_livre = 1;
-    var scale_livre_c = 10;
+    var scale_livre_c = 20;
     var currentIndex = jsonLivres.length;
      for (i = 0; jsonLivres.length > i; i += 1)  {
         nodes.push({
@@ -234,7 +234,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
 
     function tick(e) {
         circle
-            .each(cluster(15 * e.alpha * e.alpha))
+            .each(cluster(20 * e.alpha * e.alpha))
             .each(collide(.2))
             .attr("cx", function(d) {
                 return d.x;
