@@ -66,7 +66,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
      var temp = svg.selectAll("XXX22")
         .data(jsonLivres)
         .enter()
-        .append("rect")
+        .append("text")
         .attr("x", 35)
         .attr("y", function(d, i) {
             return 50 + i * 10
