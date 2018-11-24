@@ -76,25 +76,23 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         })
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
-        .attr("fill",  function(d, i) {
-            return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
-        });
-       
+        .attr("fill", "black");
+
          var rectangles_livres = svg.selectAll("XXX22")
         .data(jsonLivres)
         .enter()
         .append("rect")
         .attr("x", function(d, i) {
             var colonne;
-            colonne = ((i/10) - ((i/10) % 1)) + 1 ;
-            return colonne * 10 ;
+            colonne = ((i/50) - ((i/50) % 1)) + 1 ;
+            return colonne * 50 ;
         })
         .attr("y", function(d, i) {
             var ligne;
-            ligne = i % 10;
-            return ligne * 10;
+            ligne = i % 50;
+            return ligne * 50;
         })
-        .attr("width", 10)
+        .attr("width", 50)
         .attr("height", 10)
         .attr("fill",  function(d, i) {
             return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
