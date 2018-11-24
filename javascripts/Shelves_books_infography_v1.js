@@ -63,19 +63,9 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 16)
         .attr("fill", "black");
     
-        var livres = {};
-        for (i = 0; jsonLivres.length > i; i += 1)  {
-        livres.push({
-            titre: jsonLivres[i].titre,
-            tomes: jsonLivres[i].tomes,
-            color: subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color,
-            subgenre: jsonLivres[i].subgenre,
-            subgenre2: jsonLivres[i].subgenre2,
-        });
-     }   
-    
+
      var titres_livres = svg.selectAll("XXX22")
-        .data(livres)
+        .data(jsonLivres)
         .enter()
         .append("text")
         .attr("x", 35)
@@ -92,7 +82,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
        
     
          var rectangles_livres = svg.selectAll("XXX22")
-        .data(livres)
+        .data(jsonLivres)
         .enter()
         .append("rect")
         .attr("x", function(d, i) {              
