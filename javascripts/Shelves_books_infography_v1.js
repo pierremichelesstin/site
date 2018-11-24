@@ -107,7 +107,6 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         })
         .attr("width", 50)
         .attr("height", 10)
-        .attr("fill",  function(d) {
-            return d.color;
-        });
+        .attr("fill", "black");
+
 }
