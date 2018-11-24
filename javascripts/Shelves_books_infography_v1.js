@@ -92,7 +92,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("y", function(d, i) {
             var ligne;
             ligne = i % 10;
-            return reste * 10;
+            return ligne * 10;
         })
         .attr("width", 10)
         .attr("height", 10)
