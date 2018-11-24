@@ -87,18 +87,18 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .append("rect")
         .attr("x", function(d, i) {              
             var colonne;
-            colonne = ((i/30) - ((i/30) % 1)) + 1 ;
+            colonne = ((i/40) - ((i/40) % 1)) + 1 ;
             return colonne * (150 + 10) - 150;
             // - 50 pour calé côté x
         })
         .attr("y", function(d, i) {
             var ligne;
             ligne = i % 40;
-            return 700 - (ligne * (30 + 1)) ;
+            return 700 - (ligne * (15 + 1)) ;
             // 600 pour partir du bas
         })
         .attr("width", 150)
-        .attr("height", 30)
+        .attr("height", 15)
         .attr("fill",  function(d, i) {
             return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
         });
