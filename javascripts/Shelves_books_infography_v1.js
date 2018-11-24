@@ -62,28 +62,13 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
         .attr("fill", "black");
-
-     // Création des ronds
-    var scale_livre = 1.5;
-    var scale_livre_c = 10;
-    var currentIndex = jsonLivres.length;
-     for (i = 0; jsonLivres.length > i; i += 1)  {
-        nodes.push({
-            name: jsonLivres[i].titre,
-            tomes: jsonLivres[i].tomes,
-            radius: jsonLivres[i].tomes * scale_livre + scale_livre_c,
-            color: nodes[nodes_name.indexOf(jsonLivres[i].subgenre)].color,
-            type: "livre",
-            cluster: nodes_name.indexOf(jsonLivres[i].subgenre),
-            subgenre: jsonLivres[i].subgenre,
-            cluster2: nodes_name.indexOf(jsonLivres[i].subgenre2),
-            subgenre2: jsonLivres[i].subgenre2,
-        });
-    }
     
-     var label = svg.selectAll("text2")
-        .data(nodes)
-        .enter().append("text")
+     var labels = svg.selectAll("XXX22")
+        .data(jsonLivres)
+        .enter()
+        .append("text")
+        .attr("x", 35)
+        .attr("y", 35)
         .text(function(d) {
             return d.name;
         })
@@ -91,7 +76,5 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 14)
         .style("fill", function(d) {
             return d.color;
-        })
-        .attr("dx", 100)
-        .attr("dy", 100);
+        });
 }
