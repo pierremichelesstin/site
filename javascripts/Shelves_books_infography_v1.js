@@ -51,7 +51,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .style("border", "1px solid black");
 
     //titre
-    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de YYY";
+    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de ZZZ";
     var titre_principal = svg.selectAll("XXX21")
         .data([1])
         .enter()
@@ -87,13 +87,13 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .append("rect")
         .attr("x", function(d, i) {              
             var colonne;
-            colonne = ((i/100) - ((i/100) % 1)) + 1 ;
-            return colonne * (100 + 10) - 100;
+            colonne = ((i/40) - ((i/40) % 1)) + 1 ;
+            return colonne * (150 + 10) - 150;
             // - 50 pour calé côté x
         })
         .attr("y", function(d, i) {
             var ligne;
-            ligne = i % 100;
+            ligne = i % 40;
             return 700 - (ligne * (10 + 1)) ;
             // 600 pour partir du bas
         })
