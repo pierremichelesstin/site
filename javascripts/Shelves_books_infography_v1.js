@@ -51,7 +51,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .style("border", "1px solid black");
 
     //titre
-    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de DDD";
+    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de EEE";
     var titre_principal = svg.selectAll("XXX21")
         .data([1])
         .enter()
@@ -63,22 +63,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 16)
         .attr("fill", "black");
     
-     var titres_livres = svg.selectAll("XXX22")
-        .data(jsonLivres)
-        .enter()
-        .append("text")
-        .attr("x", 35)
-        .attr("y", function(d, i) {
-            return 50 + i * 10
-        })
-        .text(function(d) {
-            return d.titre;
-        })
-        .attr("font-family", "Tahoma")
-        .attr("font-size", 16)
-        .attr("fill", "black");
-         
-        var livres;
+     var livres;
         for (i = 0; jsonLivres.length > i; i += 1)  {
         livres.push({
             name: jsonLivres[i].titre,
@@ -88,6 +73,23 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
             subgenre2: jsonLivres[i].subgenre2,
         });
      }   
+    
+     var titres_livres = svg.selectAll("XXX22")
+        .data(livres)
+        .enter()
+        .append("text")
+        .attr("x", 35)
+        .attr("y", function(d, i) {
+            return 50 + i * 10
+        })
+        .text(function(d) {
+            return d.name;
+        })
+        .attr("font-family", "Tahoma")
+        .attr("font-size", 16)
+        .attr("fill", "black");
+         
+       
     
          var rectangles_livres = svg.selectAll("XXX22")
         .data(livres)
