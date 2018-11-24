@@ -87,7 +87,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .append("rect")
         .attr("x", function(d, i) {              
             var colonne;
-            colonne = ((i/110) - ((i/100) % 1)) + 1 ;
+            colonne = ((i/100) - ((i/100) % 1)) + 1 ;
             return colonne * (100 + 10) - 100;
             // - 50 pour calé côté x
         })
