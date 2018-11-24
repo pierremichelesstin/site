@@ -39,8 +39,8 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     var subgenres_name = RES_genre_mngmt.data_name_subgenre;
     //clusters = RES_genre_mngmt.data_subgenre;
 
-    var width = 600,
-        height = 600,
+    var width = 1500,
+        height = 700,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
     
@@ -87,18 +87,19 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .append("rect")
         .attr("x", function(d, i) {              
             var colonne;
-            colonne = ((i/50) - ((i/50) % 1)) + 1 ;
-            return colonne * (50 + 10) - 50;
+            colonne = ((i/110) - ((i/100) % 1)) + 1 ;
+            return colonne * (100 + 10) - 100;
             // - 50 pour calé côté x
         })
         .attr("y", function(d, i) {
             var ligne;
-            ligne = i % 50;
-            return 600 - (ligne * (10 + 1)) ;
+            ligne = i % 100;
+            return 700 - (ligne * (10 + 1)) ;
             // 600 pour partir du bas
         })
-        .attr("width", 50)
+        .attr("width", 100)
         .attr("height", 10)
-        .attr("fill", "black");
-
+        .attr("fill",  function(d, i) {
+            return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
+        });
 }
