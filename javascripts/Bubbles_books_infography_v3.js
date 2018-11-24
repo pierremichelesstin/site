@@ -40,8 +40,8 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     clusters = RES_genre_mngmt.data_subgenre;
 
     // Création des ronds
-    var scale_livre = 1;
-    var scale_livre_c = 20;
+    var scale_livre = 2;
+    var scale_livre_c = 10;
     var currentIndex = jsonLivres.length;
      for (i = 0; jsonLivres.length > i; i += 1)  {
         nodes.push({
