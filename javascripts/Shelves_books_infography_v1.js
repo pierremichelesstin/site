@@ -63,7 +63,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 16)
         .attr("fill", "black");
     
-     var temp = svg.selectAll("XXX22")
+     var titres_livres = svg.selectAll("XXX22")
         .data(jsonLivres)
         .enter()
         .append("text")
@@ -76,6 +76,22 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         })
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
+        .attr("fill",  function(d, i) {
+            return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
+        });
+       
+         var rectangles_livres = svg.selectAll("XXX22")
+        .data(jsonLivres)
+        .enter()
+        .append("rect")
+        .attr("x", function(d, i) {
+            return i * 10
+        })
+        .attr("y", function(d, i) {
+            return i * 10
+        })
+        .attr("width", 10)
+        .attr("height", 10)
         .attr("fill",  function(d, i) {
             return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
         });
