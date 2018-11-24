@@ -51,7 +51,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .style("border", "1px solid black");
 
     //titre
-    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de EEE";
+    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme de XXX";
     var titre_principal = svg.selectAll("XXX21")
         .data([1])
         .enter()
@@ -63,9 +63,10 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 16)
         .attr("fill", "black");
     
+        var Livres=[];
         for (i = 0; jsonLivres.length > i; i += 1)  {
         livres.push({
-            name: jsonLivres[i].titre,
+            titre: jsonLivres[i].titre,
             tomes: jsonLivres[i].tomes,
             color: subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color,
             subgenre: jsonLivres[i].subgenre,
@@ -82,7 +83,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
             return 50 + i * 10
         })
         .text(function(d) {
-            return d.name;
+            return d.titre;
         })
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
