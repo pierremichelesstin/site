@@ -87,7 +87,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
             subgenre: jsonLivres[i].subgenre,
             subgenre2: jsonLivres[i].subgenre2,
         });
-            
+     }   
          var rectangles_livres = svg.selectAll("XXX22")
         .data(livres)
         .enter()
