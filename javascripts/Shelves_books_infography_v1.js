@@ -70,7 +70,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("x", 35)
         .attr("y", 35)
         .text(function(d) {
-            return d.name;
+            return d.titre;
         })
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
