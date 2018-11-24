@@ -10,6 +10,10 @@
       "tomes": 1,
       "subgenre": "Science-fiction"
   },{
+      "titre": "Booming - Mika Biermann",
+      "tomes": 1,
+      "subgenre": "Science-fiction"
+  },{
       "titre": "Babylon babies - Maurice G. Dantec",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -185,7 +189,11 @@
       "titre": "Habite-t-on réellement quelque part? - Philippe Curval",
       "tomes": 1,
       "subgenre": "SF - nouvelles"
-  },  {
+  }, {
+      "titre": "Les Attracteurs de Rose Street - Lucius Sherpard",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles"
+  },   {
       "titre": "Cette chère humanité - Philippe Curval",
       "tomes": 1,
       "subgenre": "Science-fiction"
@@ -198,6 +206,11 @@
       "tomes": 1,
       "subgenre": "SF - nouvelles"
   },  {
+      "titre": "Kirinyaga - Mike Resnick",
+      "tomes": 1,
+      "subgenre": "SF - nouvelles",
+      "subgenre2": "Uchronie"
+  },   {
       "titre": "Cookie monster - Vernor Vinge",
       "tomes": 1,
       "subgenre": "SF - nouvelles"
@@ -538,6 +551,10 @@
       "titre": "Y - Serge Quadruppani",
       "tomes": 1,
       "subgenre": "Policier"
+  },   {
+      "titre": "Pepe Carvalho - Manuel Vazquez Montalban",
+      "tomes": 1,
+      "subgenre": "Policier"
   },  {
       "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
       "tomes": 15,
@@ -584,7 +601,11 @@
       "titre": "Le sentiment du fer - Jean-Phillipe Jaworski",
       "tomes": 1,
       "subgenre": "Fantasy"
-  }, {
+  },{
+      "titre": "La Forêt des Mythimages - Robert Holdstock",
+      "tomes": 1,
+      "subgenre": "Fantasy"
+  },{
       "titre": "Les chroniques des Féals - Mathieu Gaborit",
       "tomes": 1,
       "subgenre": "Fantasy"
@@ -692,7 +713,12 @@
       "tomes": 1,
       "subgenre": "Histoire",
       "subgenre2": "Société"
-  }, {
+  },{
+      "titre": "Une histoire populaire de la France - Gérard Noiriel",
+      "tomes": 1,
+      "subgenre": "Histoire",
+      "subgenre2": "Société"
+  },  {
       "titre": "La révolution Allemande (1918 - 1923) - Chris Harman",
       "tomes": 1,
       "subgenre": "Histoire"
@@ -780,12 +806,25 @@
       "tomes": 1,
       "subgenre": "Ecologie",
       "subgenre2": "Société"
+  },  {
+      "titre": "Sur les nerfs - Larry Fondation",
+      "tomes": 1,
+      "subgenre": "Classique",
+      "subgenre2": "Société"
   }, {
       "titre": "Manifeste convivialiste. Déclaration d'interdépendance",
       "tomes": 1,
       "subgenre": "Société"
   },  {
       "titre": "Que fait l’armée française en Afrique ? - Raphaël Granvaud",
+      "tomes": 1,
+      "subgenre": "Société"
+  },  {
+      "titre": "Un pompier pyromane - Raphaël Granvaud et David Mauger",
+      "tomes": 1,
+      "subgenre": "Société"
+  },    {
+      "titre": "Comores-Mayotte : une histoire néocoloniale - Pierre Caminade",
       "tomes": 1,
       "subgenre": "Société"
   },  {
@@ -880,6 +919,10 @@
       "tomes": 1,
       "subgenre": "Classique"
   }, {
+      "titre": "Du bruit - Joy Sorman",
+      "tomes": 1,
+      "subgenre": "Classique"
+  },{
       "titre": "Voyage au bout de la nuit - Louis-Ferdinand Célin",
       "tomes": 1,
       "subgenre": "Classique"
@@ -947,7 +990,7 @@
       "subgenre": "Classique"
   }, {
       "titre": "Les misérables - Victor Hugo",
-      "tomes": 1,
+      "tomes": 2,
       "subgenre": "Classique"
   },  {
       "titre": "La carte et le territoiret - Michel Houellebecq",
@@ -1088,6 +1131,11 @@
       "subgenre2": "Classique"
   }, {
       "titre": "Cosmas ou la Montagne du Nord - Arno schimdt",
+      "tomes": 1,
+      "subgenre": "OLNI",
+      "subgenre2": "Histoire"
+  }, {
+      "titre": "Sans patrie ni frontière - Jan Valtin",
       "tomes": 1,
       "subgenre": "OLNI",
       "subgenre2": "Histoire"
