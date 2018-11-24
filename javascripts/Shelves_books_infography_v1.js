@@ -80,4 +80,18 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
             subgenre2: jsonLivres[i].subgenre2,
         });
     }
+    
+     var label = svg.selectAll("text2")
+        .data(nodes)
+        .enter().append("text")
+        .text(function(d) {
+            return d.name;
+        })
+        .attr("font-family", "Tahoma")
+        .attr("font-size", 14)
+        .style("fill", function(d) {
+            return d.color;
+        })
+        .attr("dx", 100)
+        .attr("dy", 100);
 }
