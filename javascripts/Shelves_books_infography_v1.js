@@ -85,10 +85,17 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .enter()
         .append("rect")
         .attr("x", function(d, i) {
-            return i * 10
+            var compteur;
+            compteur=compteur+1;
+            var reste;
+            reste = compteur % 20;
+            return reste * 10
         })
         .attr("y", function(d, i) {
-            return i * 10
+            var compteur;
+            var reste;
+            reste = compteur % 20;
+            return reste * 10
         })
         .attr("width", 10)
         .attr("height", 10)
