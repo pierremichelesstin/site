@@ -63,7 +63,9 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-size", 16)
         .attr("fill", "black");
     
-        var Livres=[];
+    var livres = {
+        accounting: []
+    };
         for (i = 0; jsonLivres.length > i; i += 1)  {
         livres.push({
             titre: jsonLivres[i].titre,
