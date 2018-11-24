@@ -1,4 +1,4 @@
-function asyncCounter(numCalls, callback) {//Initialisation pour loader les fichiers
+function asyncCounter(numCalls, callback) { //Initialisation pour loader les fichiers
     this.callback = callback;
     this.numCalls = numCalls;
     this.calls = 0;
@@ -17,17 +17,17 @@ d3.json("javascripts/livres.json", function(data) {
     jsonLivres = data;
     var currentIndex = jsonLivres.length;
     while (0 !== currentIndex) {
-    var randomIndex = Math.floor(Math.random() * currentIndex);
-    currentIndex -= 1;
-    var temporaryValue = jsonLivres[currentIndex];
-    jsonLivres[currentIndex] = jsonLivres[randomIndex];
-    jsonLivres[randomIndex] = temporaryValue;
-  }
+        var randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+        var temporaryValue = jsonLivres[currentIndex];
+        jsonLivres[currentIndex] = jsonLivres[randomIndex];
+        jsonLivres[randomIndex] = temporaryValue;
+    }
     RES_genre_mngmt = genre_mngmt(jsonLivres); // 3 variables de sorties
     // 1) RES.data_subgenre avec toutes les infos d'un subgenre
     // 2) RES.data_name_subgenre les noms des subgenre
     // 3) RES.data_counter_subgenre le nombre de livre par subgenre
-    myAsyncCounter.increment();// on incremente car le fichier est chargé
+    myAsyncCounter.increment(); // on incremente car le fichier est chargé
 });
 
 
@@ -39,29 +39,10 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     var nodes_name = RES_genre_mngmt.data_name_subgenre;
     clusters = RES_genre_mngmt.data_subgenre;
 
-    // Création des ronds
-    var scale_livre = 1.5;
-    var scale_livre_c = 10;
-    var currentIndex = jsonLivres.length;
-     for (i = 0; jsonLivres.length > i; i += 1)  {
-        nodes.push({
-            name: jsonLivres[i].titre,
-            tomes: jsonLivres[i].tomes,
-            radius: jsonLivres[i].tomes * scale_livre + scale_livre_c,
-            color: nodes[nodes_name.indexOf(jsonLivres[i].subgenre)].color,
-            type: "livre",
-            cluster: nodes_name.indexOf(jsonLivres[i].subgenre),
-            subgenre: jsonLivres[i].subgenre,
-            cluster2: nodes_name.indexOf(jsonLivres[i].subgenre2),
-            subgenre2: jsonLivres[i].subgenre2,
-        });
-    }
-
     var width = 800,
         height = 800,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
-
 
     var svg = d3.select("graphe2").append("svg")
         .attr("width", width)
@@ -84,89 +65,4 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
             return d.color
         })
 
-
-    var rectangle_label = svg.selectAll("text")
-        .data(RES_genre_mngmt.data_subgenre)
-        .enter().append("text")
-        .filter(function(d) {
-            return d.type == "genre"
-        })
-        .text(function(d) {
-            return d.name;
-        })
-        .attr("x", width - 125)
-        .attr("y", function(d, i) {
-            return 46 + i * 45;
-        })
-        .attr("font-family", "Tahoma")
-        .attr("font-size", 12)
-        .style("fill", function(d) {
-            return d.color;
-        });
-
-
-    var label = svg.selectAll("text2")
-        .data(nodes)
-        .enter().append("text")
-        .text(function(d) {
-            if (d.type == "genre") {
-                label_temp = "Dans la biblioth\xE8que il y a " + d.tomes + " livres dont le genre est: " + d.name;
-            } else {
-                label_temp = d.name;
-                if (d.tomes > 1) {
-                    label_temp = label_temp + " (" + d.tomes + " tomes)";
-                }
-            }
-            return label_temp;
-        })
-        .attr("font-family", "Tahoma")
-        .attr("font-size", 14)
-        .style("fill", function(d) {
-            return d.color;
-        })
-        .attr("dx", -100)
-        .attr("dy", -100);
-
-    var text_p = "Biblioth\xE8que de " + taille_bibliotheque + " livres repr\xE9sent\xE9e virtuellement sous forme d'une grappe de bulles";
-    var titre_principal = svg.selectAll("XXX21")
-        .data([1])
-        .enter()
-        .append("text")
-        .attr("x", 5)
-        .attr("y", 14)
-        .text(text_p)
-        .attr("font-family", "Tahoma")
-        .attr("font-size", 16)
-        .attr("fill", "black");
-
-
-    var rectangle_reset = svg.selectAll("rect3")
-        .data([1])
-        .enter().append("rect")
-        .attr("x", 5)
-        .attr("y", function() {
-            return height - 35
-        })
-        .attr("width", 100)
-        .attr("height", 30)
-        .style("fill", "black")
-        .on("click", function() {
-            label.attr("dx", -100)
-                .attr("dy", -100);
-            force.on("tick", tick)
-                .start();
-        });
-
-    var rectangle_reset_label = svg.selectAll("text3")
-        .data([1])
-        .enter().append("text")
-        .text("Reset")
-        .attr("x", 10)
-        .attr("y", function() {
-            return height - 16
-        })
-        .attr("font-family", "Tahoma")
-        .attr("font-size", 14)
-        .style("fill", "white");        
-    }        
 }
