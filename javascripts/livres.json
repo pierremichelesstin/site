@@ -36,6 +36,21 @@
       "subgenre":"Science-fiction"
    },
    {  
+      "titre":"Millenium - John Varley",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
+      "titre":"Le canal Ophite - John Varley",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
+      "titre":"le Système Valentine - John Varley",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
       "titre":"L'Homme démoli - Alfred Bester",
       "tomes":1,
       "subgenre":"Science-fiction",
@@ -173,6 +188,22 @@
       "subgenre2":"Histoire"
    },
    {  
+      "titre":"L'ordre du jour - Eric Vuillard",
+      "tomes":1,
+      "subgenre":"Classique",
+      "subgenre2":"Histoire"
+   },
+   {  
+      "titre":"La tristesse de la terre - Eric Vuillard",
+      "tomes":1,
+      "subgenre":"Classique",
+      "subgenre2":"Histoire"
+   },
+   {  
+      "titre":"L'obsolescence de l'homme - Günther Anders",
+      "tomes":1,
+      "subgenre":"Société"
+   },{  
       "titre":"Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
       "tomes":1,
       "subgenre":"Société",
@@ -615,6 +646,12 @@
    {  
       "titre":"Le roman d'un crime - Maj Sjöwall et Per Wahlöö",
       "tomes":10,
+      "subgenre":"Policier",
+      "subgenre2":"Société"
+   },
+   {  
+      "titre":"Pepe Carvalho - Manuel Vázquez Montalbán.",
+      "tomes":4,
       "subgenre":"Policier",
       "subgenre2":"Société"
    },
@@ -1367,6 +1404,12 @@
    },
    {  
       "titre":"Intrabasses - Jeff Noon",
+      "tomes":1,
+      "subgenre":"OLNI",
+      "subgenre2":"Science-fiction"
+   },
+   {  
+      "titre":"Vurt - Jeff Noon",
       "tomes":1,
       "subgenre":"OLNI",
       "subgenre2":"Science-fiction"
