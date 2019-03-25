@@ -144,6 +144,11 @@
       "subgenre":"SF - nouvelles"
    },
    {  
+      "titre":"Aux douze vents du monde - Ursula K. Le Guin",
+      "tomes":1,
+      "subgenre":"SF - nouvelles"
+   },
+   {  
       "titre":"Le Rayon zen - Barrington John Bayley",
       "tomes":1,
       "subgenre":"Space-opéra"
@@ -205,6 +210,12 @@
    },
    {  
       "titre":"La tristesse de la terre - Eric Vuillard",
+      "tomes":1,
+      "subgenre":"Classique",
+      "subgenre2":"Histoire"
+   },
+   {  
+      "titre":"La guerre des pauvres - Eric Vuillard",
       "tomes":1,
       "subgenre":"Classique",
       "subgenre2":"Histoire"
