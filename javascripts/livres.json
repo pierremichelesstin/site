@@ -154,6 +154,11 @@
       "subgenre":"Space-opéra"
    },
    {  
+      "titre":"Ti-Harnog - Christian Léourier",
+      "tomes":1,
+      "subgenre":"Space-opéra"
+   },
+   {  
       "titre":"Trilogie de l'âge d'or - John C Wright",
       "tomes":3,
       "subgenre2":"Space-opéra",
@@ -437,6 +442,11 @@
       "subgenre":"Science-fiction"
    },
    {  
+      "titre":"Crépuscule d'acier - Charles Stross",
+      "tomes":1,
+      "subgenre":"Space-opéra"
+   },
+   {  
       "titre":"Octobre 1917. Une lecture très critique de l’historiographie dominante - Lucien Sève",
       "tomes":1,
       "subgenre":"Histoire"
@@ -692,6 +702,16 @@
       "tomes":1,
       "subgenre2":"Société",
       "subgenre":"Classique"
+   },
+   {  
+      "titre":"Le troisième reich - Roberto Bolano",
+      "tomes":1,
+      "subgenre":"Classique"
+   },
+   {  
+      "titre":"Paris sans le peuple - Anne CLERVAL",
+      "tomes":1,
+      "subgenre":"Société"
    },
    {  
       "titre":"L'échiquier du mal- Dan Simmons ",
