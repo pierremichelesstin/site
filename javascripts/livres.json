@@ -105,10 +105,20 @@
       "subgenre":"Science-fiction"
    },
    {  
+      "titre":"Les yeux géants -  Michel Jeury",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
       "titre":"Danses aériennes - Nancy Kress",
       "tomes":1,
       "subgenre":"Hard science-fiction",
       "subgenre2":"SF - nouvelles"
+   },
+   {  
+      "titre":"Kirinyaga - Mike Resnick ",
+      "tomes":1,
+      "subgenre":"SF - nouvelles"
    },
    {  
       "titre":"Aqua (TM) - Jean-Marc Ligny",
