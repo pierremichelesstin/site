@@ -1046,25 +1046,25 @@
       "titre":"Métamorphoses du travail - André Gorz",
       "tomes":1,
       "subgenre":"Ecologie",
-      "subgenre2":"Société"
+      "subgenre2":"Philosophie"
    },
    {  
       "titre":"Ecologica - André Gorz",
       "tomes":1,
       "subgenre":"Ecologie",
-      "subgenre2":"Société"
+      "subgenre2":"Philosophie"
    },
    {  
       "titre":"Bâtir la civilisation du temps libéré - André Gorz",
       "tomes":1,
       "subgenre":"Ecologie",
-      "subgenre2":"Société"
+      "subgenre2":"Philosophie"
    },
    {  
       "titre":"Renverser nos manières de penser - Serge Latouche",
       "tomes":1,
       "subgenre":"Ecologie",
-      "subgenre2":"Société"
+      "subgenre2":"Philosophie"
    },
    {  
       "titre":"Manifeste Negawatt - Collectif",
@@ -1081,7 +1081,7 @@
    {  
       "titre":"Manifeste convivialiste. Déclaration d'interdépendance",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Philosophie"
    },
    {  
       "titre":"Que fait l’armée française en Afrique ? - Raphaël Granvaud",
@@ -1101,7 +1101,7 @@
    {  
       "titre":"La convivialité - Ivan Illitch",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Philosophie",
       "subgenre2":"Ecologie"
    },
    {  
@@ -1149,7 +1149,7 @@
    {  
       "titre":"Le Désert de la critique, Déconstruction et politique - Renaud Garcia",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Philosophie",
       "subgenre2":"Anarchisme"
    },
    {  
@@ -1160,7 +1160,7 @@
    {  
       "titre":"Le sens des limites, contre l'abstraction capitaliste - Renaud Garcia",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Philosophie",
       "subgenre2":"Anarchisme"
    },
    {  
@@ -1531,23 +1531,23 @@
    {  
       "titre":"Surveiller et punir - Michel Foucault",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Philosophie"
    },
    {  
       "titre":"L'homme unidimmensionnel - Herbert Marcusse",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Philosophie"
    },
    {  
       "titre":"Guerre de mouvement et guerre de position - Antonio Gramsci",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Philosophie",
       "subgenre2":"Anarchisme"
    },
    {  
       "titre":"L'homme superflu - Patrick Vassort",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Philosophie"
    },
    {  
       "titre":" How to Read Foucault - Johanna Oksala",
