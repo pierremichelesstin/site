@@ -64,7 +64,7 @@ function genre_mngmt(Livres) {
         } else if (data_name_subgenre[i] == "Société") {
             color_temp = "rgb(220, 050, 000)";
         } else if (data_name_subgenre[i] == "Philosophie") {
-            color_temp = "rgb(130, 050, 000)";
+            color_temp = "rgb(160, 000, 000)";
         } else if (data_name_subgenre[i] == "Classique") {
             color_temp = "rgb(255, 170, 170)";
         } else if (data_name_subgenre[i] == "OLNI") {
