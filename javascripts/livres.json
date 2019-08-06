@@ -272,6 +272,12 @@
       "subgenre2":"Société"
    },
    {  
+      "titre":"Du gaullisme au black-bloc - Hervé Kempf",
+      "tomes":1,
+      "subgenre":"Anarchisme",
+      "subgenre2":"Société"
+   },
+   {  
       "titre":"Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
       "tomes":1,
       "subgenre":"Société"
@@ -1167,6 +1173,12 @@
       "subgenre2":"Histoire"
    },
    {  
+      "titre":"Nanterre, du bidonville à la cité - Victor Collet",
+      "tomes":1,
+      "subgenre":"Histoire",
+      "subgenre2":"Société"
+   },
+   {  
       "titre":"Nouveau manifeste des économistes atterrés - Collectif",
       "tomes":1,
       "subgenre":"Société"
@@ -1413,6 +1425,11 @@
    },
    {  
       "titre":"Six photos noircies - Jonathan Wable",
+      "tomes":1,
+      "subgenre":"OLNI"
+   },
+   {  
+      "titre":"ROman dormant - Antoine Brea",
       "tomes":1,
       "subgenre":"OLNI"
    },
