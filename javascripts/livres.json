@@ -179,6 +179,12 @@
       "subgenre":"OLNI"
    },
    {  
+      "titre":"Agora zéro - Éric Arlix et Frédéric Moulin ",
+      "tomes":1,
+      "subgenre2":"SF - nouvelles",
+      "subgenre":"OLNI"
+   },
+   {  
       "titre":"F.A.U.S.T. - Serge Lehman",
       "tomes":3,
       "subgenre":"Space-opéra"
@@ -251,6 +257,11 @@
    },
    {  
       "titre":"Histoire des agricultures du monde - Marcel Mazoyer",
+      "tomes":1,
+      "subgenre":"Histoire"
+   },
+   {  
+      "titre":"Histoire des des révoltes panafricaines - Cyril Lionel Robert James",
       "tomes":1,
       "subgenre":"Histoire"
    },
@@ -760,6 +771,12 @@
    },
    {  
       "titre":"La position du tireur couché - Jean-Patrick Manchette",
+      "tomes":1,
+      "subgenre":"Policier",
+      "subgenre2":"Société"
+   },
+   {  
+      "titre":"Le quatuor du Yorkshire - David Peace",
       "tomes":1,
       "subgenre":"Policier",
       "subgenre2":"Société"
