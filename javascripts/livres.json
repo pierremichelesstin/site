@@ -56,6 +56,11 @@
       "subgenre":"Science-fiction"
    },
    {  
+      "titre":"La trilogie de Gaïa - John Varley",
+      "tomes":2,
+      "subgenre":"Space-opéra"
+   },
+   {  
       "titre":"L'Homme démoli - Alfred Bester",
       "tomes":1,
       "subgenre":"Science-fiction"
@@ -784,11 +789,6 @@
    },
    {  
       "titre":"Y - Serge Quadruppani",
-      "tomes":1,
-      "subgenre":"Policier"
-   },
-   {  
-      "titre":"Pepe Carvalho - Manuel Vazquez Montalban",
       "tomes":1,
       "subgenre":"Policier"
    },
