@@ -40,7 +40,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
     //clusters = RES_genre_mngmt.data_subgenre;
 
     var width = 1000,
-        height = 700,
+        height = 1000,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
 
