@@ -1023,6 +1023,12 @@
       "subgenre2":"Société"
    },
    {  
+      "titre":"Une histoire populaire des sciences - Clifford D. Conner",
+      "tomes":1,
+      "subgenre":"Histoire",
+      "subgenre2":"Société"
+   },
+   {  
       "titre":"La révolution Allemande (1918 - 1923) - Chris Harman",
       "tomes":1,
       "subgenre":"Histoire"
@@ -1561,6 +1567,12 @@
    },
    {  
       "titre":"Leviathan - Arno schimdt",
+      "tomes":1,
+      "subgenre":"OLNI",
+      "subgenre2":"Histoire"
+   },
+   {  
+      "titre":"Brigade rouges: une histoire italienne - Mario Moretti et Rossana Rossanda",
       "tomes":1,
       "subgenre":"OLNI",
       "subgenre2":"Histoire"
