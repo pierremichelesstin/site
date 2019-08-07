@@ -43,7 +43,7 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         height = 700,
         padding = 4, // separation between same-color circles
         clusterPadding = 6; // separation between different-color circles
-    
+
     // contour 
     var svg = d3.select("graphe2").append("svg")
         .attr("width", width)
@@ -62,9 +62,9 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
         .attr("fill", "black");
-    
 
-     var titres_livres = svg.selectAll("XXX22")
+
+    var titres_livres = svg.selectAll("XXX22")
         .data(jsonLivres)
         .enter()
         .append("text")
@@ -78,28 +78,28 @@ function draw() { //Fonction appellee quand le compteur de telechargements attei
         .attr("font-family", "Tahoma")
         .attr("font-size", 16)
         .attr("fill", "black");
-         
-       
-    
-         var rectangles_livres = svg.selectAll("XXX22")
+
+
+
+    var rectangles_livres = svg.selectAll("XXX22")
         .data(jsonLivres)
         .enter()
         .append("rect")
-        .attr("x", function(d, i) {              
+        .attr("x", function(d, i) {
             var colonne;
-            colonne = ((i/40) - ((i/40) % 1)) + 1 ;
-            return colonne * (150 + 10) - 150;
+            colonne = ((i / 60) - ((i / 60) % 1)) + 1;
+            return colonne * (50 + 10) - 50;
             // - 50 pour calé côté x
         })
         .attr("y", function(d, i) {
             var ligne;
-            ligne = i % 40;
-            return 700 - (ligne * (15 + 1)) ;
+            ligne = i % 60;
+            return 700 - (ligne * (15 + 1));
             // 600 pour partir du bas
         })
-        .attr("width", 150)
-        .attr("height", 15)
-        .attr("fill",  function(d, i) {
+        .attr("width", 50)
+        .attr("height", 10)
+        .attr("fill", function(d, i) {
             return subgenres[subgenres_name.indexOf(jsonLivres[i].subgenre)].color;
         });
 }
