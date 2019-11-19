@@ -21,6 +21,11 @@
       "subgenre":"Science-fiction"
    },
    {  
+      "titre":"Terra ignota - Ada Palmer",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
       "titre":"Booming - Mika Biermann",
       "tomes":1,
       "subgenre":"Science-fiction"
@@ -43,7 +48,7 @@
    {  
       "titre":"L'espace d'un an - Becky Chambers",
       "tomes":1,
-      "subgenre":"Science-fiction"
+      "subgenre":"Space-opéra"
    },
    {  
       "titre":"Millenium - John Varley",
@@ -132,7 +137,7 @@
    {  
       "titre":"Aqua (TM) - Jean-Marc Ligny",
       "tomes":1,
-      "subgenre":"Science-fiction",
+      "subgenre":"Hard science-fiction",
       "subgenre2":"Ecologie"
    },
    {  
@@ -862,6 +867,12 @@
       "subgenre2":"Dark fantasy"
    },
    {  
+      "titre":"Le livre des martyrs - Steven Erickson",
+      "tomes":1,
+      "subgenre":"Fantasy",
+      "subgenre2":"Dark fantasy"
+   },
+   {  
       "titre":"Olangar - Clément Bouhélier",
       "tomes":2,
       "subgenre":"Fantasy",
@@ -1125,6 +1136,18 @@
       "tomes":1,
       "subgenre":"Classique",
       "subgenre2":"Anarchisme"
+   },
+   {  
+      "titre":"Nino dans la nuit - Capucine et Simon Johannin",
+      "tomes":1,
+      "subgenre":"Classique",
+      "subgenre2":"Société"
+   },
+   {  
+      "titre":"L'été des charognes - Simon Johannin",
+      "tomes":1,
+      "subgenre":"Classique",
+      "subgenre2":"Société"
    },
    {  
       "titre":"Une auberge espagnole - Luis Bonet",
