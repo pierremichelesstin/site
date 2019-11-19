@@ -41,6 +41,11 @@
       "subgenre":"Science-fiction"
    },
    {  
+      "titre":"L'espace d'un an - Becky Chambers",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
       "titre":"Millenium - John Varley",
       "tomes":1,
       "subgenre":"Science-fiction"
@@ -698,6 +703,11 @@
       "subgenre":"Hard science-fiction"
    },
    {  
+      "titre":"Starfish - Peter Watts",
+      "tomes":1,
+      "subgenre":"Hard science-fiction"
+   },
+   {  
       "titre":"Le maître du haut chateau - Phillip K Dick",
       "tomes":1,
       "subgenre":"Uchronie"
@@ -793,7 +803,7 @@
    },
    {  
       "titre":"Le quatuor du Yorkshire - David Peace",
-      "tomes":1,
+      "tomes":4,
       "subgenre":"Policier",
       "subgenre2":"Société"
    },
@@ -986,6 +996,12 @@
       "subgenre2":"Fantasy"
    },
    {  
+      "titre":"La cinquième saison - N. K. Jemisin",
+      "tomes":1,
+      "subgenre":"Science-fiction",
+      "subgenre2":"Fantasy"
+   },
+   {  
       "titre":"Les intrumentalités de la nuit (3) - Glen Cook",
       "tomes":1,
       "subgenre":"Dark fantasy"
@@ -1022,6 +1038,12 @@
    },
    {  
       "titre":"Une histoire populaire des Etats-Unis - Howard Zinn",
+      "tomes":1,
+      "subgenre":"Histoire",
+      "subgenre2":"Société"
+   },
+   {  
+      "titre":"Une histoire populaire de l'humanité - chris harman",
       "tomes":1,
       "subgenre":"Histoire",
       "subgenre2":"Société"
@@ -1106,6 +1128,11 @@
    },
    {  
       "titre":"Une auberge espagnole - Luis Bonet",
+      "tomes":1,
+      "subgenre":"Histoire"
+   },
+   {  
+      "titre":"Alger, capitale de la révolution - Elaine Mokhtefi",
       "tomes":1,
       "subgenre":"Histoire"
    },
