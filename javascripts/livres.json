@@ -71,6 +71,11 @@
       "subgenre":"Space-opéra"
    },
    {  
+      "titre":"Les gens de la lune - John Varley",
+      "tomes":2,
+      "subgenre":"Space-opéra"
+   },
+   {  
       "titre":"L'Homme démoli - Alfred Bester",
       "tomes":1,
       "subgenre":"Science-fiction"
@@ -88,6 +93,12 @@
    },
    {  
       "titre":"La ménagerie de papier - Ken Liu",
+      "tomes":1,
+      "subgenre":"Hard science-fiction",
+      "subgenre2":"SF - nouvelles"
+   },
+   {  
+      "titre":"Jardin de poussière - Ken Liu",
       "tomes":1,
       "subgenre":"Hard science-fiction",
       "subgenre2":"SF - nouvelles"
@@ -133,6 +144,12 @@
       "titre":"Kirinyaga - Mike Resnick ",
       "tomes":1,
       "subgenre":"SF - nouvelles"
+   },
+   {  
+      "titre":"Exodes - Jean-Marc Ligny",
+      "tomes":1,
+      "subgenre":"Hard science-fiction",
+      "subgenre2":"Ecologie"
    },
    {  
       "titre":"Aqua (TM) - Jean-Marc Ligny",
@@ -482,9 +499,19 @@
       "subgenre2":"Société"
    },
    {  
+      "titre":"Amatka - Karin tidbeck",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
       "titre":"Omale - Laurent Genefort",
       "tomes":1,
       "subgenre":"Science-fiction"
+   },
+   {  
+      "titre":"Ce qui relie - Laurent Genefort",
+      "tomes":1,
+      "subgenre":"Space-opéra"
    },
    {  
       "titre":"Le bureau des atrocités - Charles Stross",
@@ -525,7 +552,7 @@
    },
    {  
       "titre":"Le cycle de la culture - Iam M. Banks",
-      "tomes":4,
+      "tomes":7,
       "subgenre":"Space-opéra",
       "subgenre2":"Anarchisme"
    },
@@ -692,6 +719,11 @@
       "subgenre":"SF - nouvelles"
    },
    {  
+      "titre":"Papa 1er - Jacques Mondoloni",
+      "tomes":1,
+      "subgenre":"SF - nouvelles"
+   },
+   {  
       "titre":"Issa Eohim - Laurent Kloetzer",
       "tomes":1,
       "subgenre":"SF - nouvelles"
@@ -760,6 +792,11 @@
    },
    {  
       "titre":"Le troisième reich - Roberto Bolano",
+      "tomes":1,
+      "subgenre":"Classique"
+   },
+   {  
+      "titre":"Des putains meurtières - Roberto Bolano",
       "tomes":1,
       "subgenre":"Classique"
    },
@@ -1558,6 +1595,12 @@
    },
    {  
       "titre":"Terminus radieux - Antoine Volodine",
+      "tomes":1,
+      "subgenre":"OLNI",
+      "subgenre2":"Classique"
+   },
+   {  
+      "titre":"Des anges mineurs - Antoine Volodine",
       "tomes":1,
       "subgenre":"OLNI",
       "subgenre2":"Classique"
