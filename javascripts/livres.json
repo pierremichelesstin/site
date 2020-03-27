@@ -141,6 +141,11 @@
       "subgenre2":"SF - nouvelles"
    },
    {  
+      "titre":"Trilogie des faucheurs - Nancy Kress",
+      "tomes":3,
+      "subgenre":"Hard science-fiction"
+   },
+   {  
       "titre":"Kirinyaga - Mike Resnick ",
       "tomes":1,
       "subgenre":"SF - nouvelles"
@@ -1265,6 +1270,12 @@
       "subgenre2":"Ecologie"
    },
    {  
+      "titre":"Danser au bord du monde - Ursula K. le Guin",
+      "tomes":1,
+      "subgenre":"Société",
+      "subgenre2":"Science-fiction"
+   },
+   {  
       "titre":"L'opinion, ça se travaille, Les médias et les « guerres justes » - SH, DV, HM",
       "tomes":1,
       "subgenre":"Société"
@@ -1350,7 +1361,22 @@
       "subgenre":"Société"
    },
    {  
+      "titre":"Walter Benjamin 1892-1940 - Hannah Arendt",
+      "tomes":1,
+      "subgenre":"Société"
+   },
+   {  
+      "titre":"L'étranger - Alfred Schütz",
+      "tomes":1,
+      "subgenre":"Société"
+   },
+   {  
       "titre":"Chez soi - Mona Chollet",
+      "tomes":1,
+      "subgenre":"Société"
+   },
+   {  
+      "titre":"Sorcières: La puissance invaincue des femmes - Mona Chollet",
       "tomes":1,
       "subgenre":"Société"
    },
