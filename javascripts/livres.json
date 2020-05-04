@@ -46,8 +46,8 @@
       "subgenre":"Science-fiction"
    },
    {  
-      "titre":"L'espace d'un an - Becky Chambers",
-      "tomes":1,
+      "titre":"Les voyageurs - Becky Chambers",
+      "tomes":2,
       "subgenre":"Space-opéra"
    },
    {  
@@ -562,7 +562,7 @@
    },
    {  
       "titre":"Le cycle de la culture - Iam M. Banks",
-      "tomes":7,
+      "tomes":8,
       "subgenre":"Space-opéra",
       "subgenre2":"Anarchisme"
    },
@@ -784,7 +784,7 @@
    },
    {  
       "titre":"Pepe Carvalho - Manuel Vázquez Montalbán.",
-      "tomes":6,
+      "tomes":7,
       "subgenre":"Policier",
       "subgenre2":"Société"
    },
@@ -1346,6 +1346,12 @@
       "subgenre2":"Anarchisme"
    },
    {  
+      "titre":"Une juste colère: interrompre la destruction du monde - Jérôme Baschet",
+      "tomes":1,
+      "subgenre":"Anarchisme",
+      "subgenre2":"Société"
+   },
+   {  
       "titre":"Le travail - Dominique Méda",
       "tomes":1,
       "subgenre":"Société"
@@ -1407,6 +1413,12 @@
       "tomes":1,
       "subgenre":"Anarchisme",
       "subgenre2":"Classique"
+   },
+   {  
+      "titre":"La Mémoire des vaincus - Michel Ragon",
+      "tomes":1,
+      "subgenre":"Classique",
+      "subgenre2":"Anarchisme"
    },
    {  
       "titre":"Contre Macron - Juan Branco",
