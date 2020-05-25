@@ -298,6 +298,11 @@
       "subgenre":"Histoire"
    },
    {  
+      "titre":"Histoire de la guerre d'Algérie (1954-1962) - Benjamin Stora",
+      "tomes":1,
+      "subgenre":"Histoire"
+   },
+   {  
       "titre":"Le néant et le politique - Harold Bernat ",
       "tomes":1,
       "subgenre":"Anarchisme",
@@ -311,6 +316,11 @@
    },
    {  
       "titre":"Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
+      "tomes":1,
+      "subgenre":"Société"
+   },
+   {  
+      "titre":"Au-delà de Blade Runner : Los Angeles et l'imagination du désastre - Mike Davis",
       "tomes":1,
       "subgenre":"Société"
    },
