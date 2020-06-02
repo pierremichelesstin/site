@@ -107,7 +107,7 @@
       "titre":"Le cycle de l'Ekumen - Ursula K Le Guin",
       "tomes":4,
       "subgenre":"Science-fiction",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Terremer- Ursula K Le Guin",
@@ -251,7 +251,7 @@
       "titre":"Ronge - Yves Frémion",
       "tomes":1,
       "subgenre":"Science-fiction",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Années de rêves et de plomb: des grèves à la lutte armée en Italie (1968-1980) - Alessandro Stella",
@@ -284,7 +284,7 @@
    },{  
       "titre":"Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Société (essai)",
       "subgenre2":"Anarchisme"
    },
    {  
@@ -306,23 +306,23 @@
       "titre":"Le néant et le politique - Harold Bernat ",
       "tomes":1,
       "subgenre":"Anarchisme",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Du gaullisme au black-bloc - Hervé Kempf",
       "tomes":1,
       "subgenre":"Anarchisme",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Au-delà de Blade Runner : Los Angeles et l'imagination du désastre - Mike Davis",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Rêves de sable, châteaux de sang - Yves Frémion",
@@ -511,7 +511,7 @@
       "titre":"Les Olympiades truquées - Joëlle Wintrebert",
       "tomes":1,
       "subgenre":"Hard science-fiction",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Amatka - Karin tidbeck",
@@ -580,7 +580,7 @@
    {  
       "titre":"Calais face à la frontière",
       "tomes":1,
-      "subgenre2":"Société",
+      "subgenre2":"Société (essai)",
       "subgenre":"Anarchisme"
    },
    {  
@@ -629,7 +629,7 @@
       "titre":"La bohême et l'ivraie - Ayerdhal",
       "tomes":1,
       "subgenre":"Space-opéra",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Le chant du cosmos - Roland C Wagner",
@@ -785,30 +785,30 @@
       "titre":"Le roman d'un crime - Maj Sjöwall et Per Wahlöö",
       "tomes":10,
       "subgenre":"Policier",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Pepe Carvalho - Manuel Vázquez Montalbán.",
       "tomes":7,
       "subgenre":"Policier",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Nestor Burma - Léo Malet",
       "tomes":3,
-      "subgenre":"Policier",
+      "subgenre":"Policier (roman)",
       "subgenre2":"Classique"
    },
    {  
       "titre":"Enquêtes de Leaphorn et Chee - Tony Hillerman",
       "tomes":1,
       "subgenre":"Policier",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Cahier du retour au pays natal - Aimé Césaire",
       "tomes":1,
-      "subgenre2":"Société",
+      "subgenre2":"Société (essai)",
       "subgenre":"Classique"
    },
    {  
@@ -824,7 +824,7 @@
    {  
       "titre":"Paris sans le peuple - Anne CLERVAL",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"L'échiquier du mal- Dan Simmons ",
@@ -862,30 +862,30 @@
       "titre":"La position du tireur couché - Jean-Patrick Manchette",
       "tomes":1,
       "subgenre":"Policier",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Le quatuor du Yorkshire - David Peace",
       "tomes":4,
       "subgenre":"Policier",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Meurtres pour mémoire - Didier Daenincks",
       "tomes":1,
-      "subgenre":"Policier",
+      "subgenre":"Policie (roman)",
       "subgenre2":"Histoire"
    },
    {  
       "titre":"Fatale - Jean-Patrick Manchette",
       "tomes":1,
       "subgenre":"Policier",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Anthracite - Valerio Evangelisti",
       "tomes":1,
-      "subgenre":"Policier",
+      "subgenre":"Policier (roman)",
       "subgenre2":"Histoire"
    },
    {  
@@ -934,7 +934,7 @@
       "titre":"Olangar - Clément Bouhélier",
       "tomes":2,
       "subgenre":"Fantasy",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Le seigneur des anneaux - JRR Tolkien",
@@ -1109,25 +1109,25 @@
       "titre":"Une histoire populaire des Etats-Unis - Howard Zinn",
       "tomes":1,
       "subgenre":"Histoire",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Une histoire populaire de l'humanité - chris harman",
       "tomes":1,
       "subgenre":"Histoire",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Une histoire populaire de la France - Gérard Noiriel",
       "tomes":1,
       "subgenre":"Histoire",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Une histoire populaire des sciences - Clifford D. Conner",
       "tomes":1,
       "subgenre":"Histoire",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"La révolution Allemande (1918 - 1923) - Chris Harman",
@@ -1199,13 +1199,13 @@
       "titre":"Nino dans la nuit - Capucine et Simon Johannin",
       "tomes":1,
       "subgenre":"Classique",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"L'été des charognes - Simon Johannin",
       "tomes":1,
       "subgenre":"Classique",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Une auberge espagnole - Luis Bonet",
@@ -1221,7 +1221,7 @@
       "titre":"What Uncle Sam Really Wants - Noam Chomsky",
       "tomes":1,
       "subgenre":"Histoire",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Métamorphoses du travail - André Gorz",
@@ -1251,13 +1251,13 @@
       "titre":"Manifeste Negawatt - Collectif",
       "tomes":1,
       "subgenre":"Ecologie",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Sur les nerfs - Larry Fondation",
       "tomes":1,
       "subgenre":"Classique",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Manifeste convivialiste. Déclaration d'interdépendance",
@@ -1267,17 +1267,17 @@
    {  
       "titre":"Que fait l’armée française en Afrique ? - Raphaël Granvaud",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Un pompier pyromane - Raphaël Granvaud et David Mauger",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Comores-Mayotte : une histoire néocoloniale - Pierre Caminade",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"La convivialité - Ivan Illitch",
@@ -1288,56 +1288,56 @@
    {  
       "titre":"Danser au bord du monde - Ursula K. le Guin",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Société (essai)",
       "subgenre2":"Science-fiction"
    },
    {  
       "titre":"L'opinion, ça se travaille, Les médias et les « guerres justes » - SH, DV, HM",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"La fin de l'homme rouge - Svetlana Aleksievitch",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Société (essai)",
       "subgenre2":"Histoire"
    },
    {  
       "titre":"Nanterre, du bidonville à la cité - Victor Collet",
       "tomes":1,
       "subgenre":"Histoire",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Nouveau manifeste des économistes atterrés - Collectif",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Les naufragés du libre-échange - ATTAC",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Artists in Times of War - Howard Zinn",
       "tomes":1,
-      "subgenre":"Société",
+      "subgenre":"Société (essai)",
       "subgenre2":"Histoire"
    },
    {  
       "titre":"Terrorism and war- Howard Zinn",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Le bateau usine - Takiji Kobayashi",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (roman)"
    },
    {  
       "titre":"Media Control - Noam Chomsky",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Le Désert de la critique, Déconstruction et politique - Renaud Garcia",
@@ -1360,52 +1360,52 @@
       "titre":"Une juste colère: interrompre la destruction du monde - Jérôme Baschet",
       "tomes":1,
       "subgenre":"Anarchisme",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Le travail - Dominique Méda",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Les nouveaux chiens de garde - Serge Halimi",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Discours sur le colonialisme - Aimé Césaire",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Le commerce c'est la guerre - Yash Tandon",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Walter Benjamin 1892-1940 - Hannah Arendt",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"L'étranger - Alfred Schütz",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Chez soi - Mona Chollet",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"Sorcières: La puissance invaincue des femmes - Mona Chollet",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"The Prosperous Few and the Restless Many - Noam Chomsky",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"The Next Revolution: Popular Assemblies and the Promise of Direct Democracy - Murray Bookchin",
@@ -1434,7 +1434,7 @@
    {  
       "titre":"Contre Macron - Juan Branco",
       "tomes":1,
-      "subgenre":"Société"
+      "subgenre":"Société (essai)"
    },
    {  
       "titre":"On Anarchism - Noam Chomsky",
@@ -1499,7 +1499,7 @@
       "titre":"Tristes tropiques - Claude Levi-Strauss",
       "tomes":1,
       "subgenre":"Classique",
-      "subgenre2":"Société"
+      "subgenre2":"Société (essai)"
    },
    {  
       "titre":"Le grand voyage - Jorge Semprun",
@@ -1715,7 +1715,7 @@
       "titre":"Le Revenant - Eric Chauvier",
       "tomes":1,
       "subgenre":"OLNI",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"La république des savants - Arno schimdt",
@@ -1762,7 +1762,7 @@
       "titre":"Epépé - Ferenc Karinthy",
       "tomes":1,
       "subgenre":"OLNI",
-      "subgenre2":"Société"
+      "subgenre2":"Société (roman)"
    },
    {  
       "titre":"Franckushima - Géraud Bournet",
