@@ -61,7 +61,9 @@ function genre_mngmt(Livres) {
             color_temp = "rgb(000, 190, 000)";
         } else if (data_name_subgenre[i] == "Anarchisme") {
             color_temp = "rgb(000, 000, 000)";
-        } else if (data_name_subgenre[i] == "Société") {
+        } else if (data_name_subgenre[i] == "Société (roman)") {
+            color_temp = "rgb(220, 050, 000)";
+        } else if (data_name_subgenre[i] == "Société (essai)") {
             color_temp = "rgb(220, 050, 000)";
         } else if (data_name_subgenre[i] == "Philosophie") {
             color_temp = "rgb(160, 000, 000)";
