@@ -110,8 +110,13 @@
       "subgenre2":"Société (roman)"
    },
    {  
-      "titre":"Terremer- Ursula K Le Guin",
+      "titre":"Terremer - Ursula K Le Guin",
       "tomes":3,
+      "subgenre":"Fantasy"
+   },
+   {  
+      "titre":"Les Chevaliers du Tintamarre - Raphaël Bardas",
+      "tomes":1,
       "subgenre":"Fantasy"
    },
    {  
@@ -316,6 +321,11 @@
    },
    {  
       "titre":"Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
+      "tomes":1,
+      "subgenre":"Société (essai)"
+   },
+   {  
+      "titre":"La révolte des gilets jaunes - Collectif Aouh aouh aouh",
       "tomes":1,
       "subgenre":"Société (essai)"
    },
@@ -1286,6 +1296,11 @@
    },
    {  
       "titre":"Comores-Mayotte : une histoire néocoloniale - Pierre Caminade",
+      "tomes":1,
+      "subgenre":"Société (essai)"
+   },
+   {  
+      "titre":"Serhildan: le soulévement au Kurdistan - Collectif Ne var ne yok",
       "tomes":1,
       "subgenre":"Société (essai)"
    },
