@@ -459,6 +459,11 @@
       "subgenre":"Science-fiction"
    },
    {  
+      "titre":"Vita nostra - Marina & Sergueï Diatchenko",
+      "tomes":1,
+      "subgenre":"Science-fiction"
+   },
+   {  
       "titre":"Axiomatique / Radieux / Océanique  - Greg Egan",
       "tomes":3,
       "subgenre":"Hard science-fiction",
@@ -1462,6 +1467,18 @@
       "subgenre":"Société (essai)"
    },
    {  
+      "titre":"Hommage au Rojava",
+      "tomes":1,
+      "subgenre":"Anarchisme",
+      "subgenre2":"Société (essai)"
+   },
+   {  
+      "titre":"Serhildan: le soulevement au Kurdistand - Collectif Ne var ne yok",
+      "tomes":1,
+      "subgenre":"Anarchisme",
+      "subgenre2":"Société (essai)"
+   },
+   {  
       "titre":"On Anarchism - Noam Chomsky",
       "tomes":1,
       "subgenre":"Anarchisme",
@@ -1695,6 +1712,11 @@
       "tomes":1,
       "subgenre":"OLNI",
       "subgenre2":"Science-fiction"
+   },
+   {  
+      "titre":"Agrapha - Luvan",
+      "tomes":1,
+      "subgenre":"OLNI"
    },
    {  
       "titre":"Le prophète et le vizir - Yves et Ada Remy",
