@@ -114,12 +114,23 @@
       "subgenre2":"SF - nouvelles"
    },
    {  
+      "titre":"La fabrique des lendeamins - Rich Larson",
+      "tomes":1,
+      "subgenre":"Hard science-fiction",
+      "subgenre2":"SF - nouvelles"
+   },
+   {  
       "titre":"La Fontaine des âges - Nancy Kress",
       "tomes":1,
       "subgenre":"SF - nouvelles"
    },
    {  
       "titre":"Toutes les saveurs - Ken Liu",
+      "tomes":1,
+      "subgenre":"SF - nouvelles"
+   },
+   {  
+      "titre":"Molly Southbourne - Tade Thompson",
       "tomes":1,
       "subgenre":"SF - nouvelles"
    },
