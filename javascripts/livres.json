@@ -15,6 +15,21 @@
 		"subgenre": "Science-fiction"
 	},
 	{
+		"titre": "Les Fleurs du vide - Michael Swawick",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
+		"titre": "Le troupeau aveugle - John Brunner",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
+		"titre": "Le silence de la cité - Elisabeth Vonarburg",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
 		"titre": "Anathèm - Neal Stephenson",
 		"tomes": 2,
 		"subgenre": "Science-fiction"
@@ -144,6 +159,21 @@
 		"subgenre": "SF - nouvelles"
 	},
 	{
+		"titre": "Un souvenir de Loti - Philippe Curval",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
+		"titre": "L'arithmétique terrible de la misère - catherine dufour",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
+		"titre": "Appareil volant à basse altitude - James Graham Ballard",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
 		"titre": "Le cycle de l'Ekumen - Ursula K Le Guin",
 		"tomes": 4,
 		"subgenre": "Science-fiction",
@@ -163,6 +193,12 @@
 		"titre": "Les Chevaliers du Tintamarre - Raphaël Bardas",
 		"tomes": 1,
 		"subgenre": "Fantasy"
+	},
+	{
+		"titre": "Les lions d'Al-Rassan - Guy Gavriel Kay",
+		"tomes": 1,
+		"subgenre": "Fantasy",
+		"subgenre2": "Histoire"
 	},
 	{
 		"titre": "Le temps incertain -  Michel Jeury",
