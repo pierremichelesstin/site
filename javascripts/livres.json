@@ -134,6 +134,12 @@
 		"subgenre2": "SF - nouvelles"
 	},
 	{
+		"titre": "Roma Æterna - Robert Silverberg",
+		"tomes": 1,
+		"subgenre": "Uchronie",
+		"subgenre2": "SF - nouvelles"
+	},
+	{
 		"titre": "La Fontaine des âges - Nancy Kress",
 		"tomes": 1,
 		"subgenre": "SF - nouvelles"
@@ -367,11 +373,17 @@
 		"titre": "L'obsolescence de l'homme - Günther Anders",
 		"tomes": 1,
 		"subgenre": "Philosophie"
-	}, {
+	},
+	{
 		"titre": "Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
 		"tomes": 1,
 		"subgenre": "Société (essai)",
 		"subgenre2": "Anarchisme"
+	},
+	{
+		"titre": "Macronique - Emilie Noteris",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
 	},
 	{
 		"titre": "Histoire des agricultures du monde - Marcel Mazoyer",
@@ -519,9 +531,21 @@
 		"subgenre": "SF - nouvelles"
 	},
 	{
-		"titre": "Les spts fous / Les lances-flammes / La danse du feu - Roberto Arlt",
+		"titre": "Les septs fous / Les lances-flammes / La danse du feu - Roberto Arlt",
 		"tomes": 3,
 		"subgenre": "Classique"
+	},
+	{
+		"titre": "Nuit - Edgar Hilsenrath",
+		"tomes": 1,
+		"subgenre": "Classique",
+		"subgenre2": "Histoire"
+	},
+	{
+		"titre": "Borgo Vecchio - Giosuè Calaciura",
+		"tomes": 1,
+		"subgenre": "Classique",
+		"subgenre2": "Société (roman)"
 	},
 	{
 		"titre": "Le fini des mers - Gardner Dozois",
@@ -991,6 +1015,11 @@
 	},
 	{
 		"titre": "La dame du lac - Raymond Chandler",
+		"tomes": 1,
+		"subgenre": "Policier"
+	},
+	{
+		"titre": "Le Gros, le Français et la Souris - Raul Argemi",
 		"tomes": 1,
 		"subgenre": "Policier"
 	},
