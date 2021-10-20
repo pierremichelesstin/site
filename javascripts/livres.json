@@ -244,6 +244,16 @@
 		"subgenre2": "SF - nouvelles"
 	},
 	{
+		"titre": "Dans la toile du temps - Adrian Tchaikovsky",
+		"tomes": 1,
+		"subgenre": "Hard science-fiction"
+	},
+	{
+		"titre": "La nuit du faune - Romain Lucazeau",
+		"tomes": 1,
+		"subgenre": "Hard science-fiction"
+	},
+	{
 		"titre": "Trilogie des faucheurs - Nancy Kress",
 		"tomes": 3,
 		"subgenre": "Hard science-fiction"
@@ -271,7 +281,27 @@
 		"subgenre": "Science-fiction"
 	},
 	{
+		"titre": "Le fleuve de l'éternité - Philip José Farmer",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
+		"titre": "Rendez-vous avec Rama - Arthur C. Clarcke",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
+		"titre": "Retour sur Titan - Stephen Baxter",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
 		"titre": "La tour de Babylone - Ted Chaing",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
+		"titre": "Expiration - Ted Chaing",
 		"tomes": 1,
 		"subgenre": "SF - nouvelles"
 	},
@@ -425,6 +455,11 @@
 	},
 	{
 		"titre": "Histoire des agricultures du monde - Marcel Mazoyer",
+		"tomes": 1,
+		"subgenre": "Histoire"
+	},
+	{
+		"titre": "RAF - Steiner et Debrayr",
 		"tomes": 1,
 		"subgenre": "Histoire"
 	},
@@ -770,6 +805,21 @@
 		"tomes": 1,
 		"subgenre2": "Société (essai)",
 		"subgenre": "Anarchisme"
+	},
+	{
+		"titre": "Ventes d'armes, une honte française - Elluin et Fontenelle",
+		"tomes": 1,
+		"subgenre1": "Société (essai)"
+	},
+	{
+		"titre": "Face à la menace fasciste - Bantigny et Palheta",
+		"tomes": 1,
+		"subgenre1": "Société (essai)"
+	},
+	{
+		"titre": " Défaire la police",
+		"tomes": 1,
+		"subgenre1": "Société (essai)"
 	},
 	{
 		"titre": "Ce que vaut une vie - Mathias Delori",
