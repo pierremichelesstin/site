@@ -70,6 +70,12 @@
 		"subgenre": "Science-fiction"
 	},
 	{
+		"titre": "Melmoth furieus - Sabrina Calvo",
+		"tomes": 1,
+		"subgenre": "Science-fiction",
+		"subgenre2": "Anarchisme",
+	},
+	{
 		"titre": "Wonderful - Sabrina Calvo",
 		"tomes": 1,
 		"subgenre": "Science-fiction"
@@ -282,6 +288,12 @@
 		"subgenre2": "Policier"
 	},
 	{
+		"titre": " Le Mystère du tramway hanté - P. Djèlí Clark",
+		"tomes": 1,
+		"subgenre": "Uchronie",
+		"subgenre2": "SF - nouvelles"
+	},
+	{
 		"titre": "Un pont sur la brume - Kij Johnson",
 		"tomes": 1,
 		"subgenre": "SF - nouvelles"
@@ -310,6 +322,22 @@
 	{
 		"titre": "L'année suspendue - Mélanie Fazi",
 		"tomes": 1,
+		"subgenre": "OLNI"
+	},
+	{
+		"titre": "Solénoïde - Mircea Cărtăresc",
+		"tomes": 1,
+		"subgenre": "OLNI"
+	},
+ 	{
+		"titre": " Autobiographie d'un poulpe - Vinciane Despret",
+		"tomes": 1,
+		"subgenre2": "SF - nouvelles",
+		"subgenre": "OLNI"
+	},
+ 	{
+		"titre": "Monstrueuse féerie / Angélus des ogres - Laurent Pépin",
+		"tomes": 2,
 		"subgenre": "OLNI"
 	},
 	{
@@ -1119,7 +1147,7 @@
 	},
 	{
 		"titre": "Olangar - Clément Bouhélier",
-		"tomes": 2,
+		"tomes": 3,
 		"subgenre": "Fantasy",
 		"subgenre2": "Société (roman)"
 	},
