@@ -809,17 +809,17 @@
 	{
 		"titre": "Ventes d'armes, une honte française - Elluin et Fontenelle",
 		"tomes": 1,
-		"subgenre1": "Société (essai)"
+		"subgenre": "Société (essai)"
 	},
 	{
 		"titre": "Face à la menace fasciste - Bantigny et Palheta",
 		"tomes": 1,
-		"subgenre1": "Société (essai)"
+		"subgenre": "Société (essai)"
 	},
 	{
 		"titre": " Défaire la police",
 		"tomes": 1,
-		"subgenre1": "Société (essai)"
+		"subgenre": "Société (essai)"
 	},
 	{
 		"titre": "Ce que vaut une vie - Mathias Delori",
