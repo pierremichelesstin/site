@@ -1,2113 +1,2113 @@
-[{
-		"titre": "Les futurs mystères de Paris - Roland C Wagner",
-		"tomes": 9,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Policier"
-	},
-	{
-		"titre": "Histoire du futur proche - Roland C Wagner",
-		"tomes": 5,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "La horde du contrevent - Alain Damasio",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Les Fleurs du vide - Michael Swawick",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Le troupeau aveugle - John Brunner",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Le silence de la cité - Elisabeth Vonarburg",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Anathèm - Neal Stephenson",
-		"tomes": 2,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Terra ignota - Ada Palmer",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Booming - Mika Biermann",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Les paraboles - Octavia E. Butler",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Babylon babies - Maurice G. Dantec",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "L'échelle de Darwin - Greg Bear",
-		"tomes": 2,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "Rivage des intouchables - Francis Berthelot",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Toxoplasma - Sabrina Calvo",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Melmoth furieux - Sabrina Calvo",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Wonderful - Sabrina Calvo",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Les voyageurs - Becky Chambers",
-		"tomes": 2,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Millenium - John Varley",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Le canal Ophite - John Varley",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "le Système Valentine - John Varley",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "La trilogie de Gaïa - John Varley",
-		"tomes": 2,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Les gens de la lune - John Varley",
-		"tomes": 2,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "L'Homme démoli - Alfred Bester",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Le déchronologue - Stéphane Beauverger",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Uchronie"
-	},
-	{
-		"titre": "L'enfant de la fortune - Normann Spinrad",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "La ménagerie de papier - Ken Liu",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "Jardin de poussière - Ken Liu",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "La fabrique des lendeamins - Rich Larson",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "Roma Æterna - Robert Silverberg",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "La Fontaine des âges - Nancy Kress",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Toutes les saveurs - Ken Liu",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Molly Southbourne - Tade Thompson",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "À dos de crocodile - Greg Egan",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Les Agents de Dreamland- Caitlin R. Kierman",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Un souvenir de Loti - Philippe Curval",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "L'arithmétique terrible de la misère - catherine dufour",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Appareil volant à basse altitude - James Graham Ballard",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Le cycle de l'Ekumen - Ursula K Le Guin",
-		"tomes": 4,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Terremer - Ursula K Le Guin",
-		"tomes": 3,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "L'autre côté du rêve - Ursula K Le Guin",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Les Chevaliers du Tintamarre - Raphaël Bardas",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Les lions d'Al-Rassan - Guy Gavriel Kay",
-		"tomes": 1,
-		"subgenre": "Fantasy",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Garichankar -  Michel Jeury",
-		"tomes": 2,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Les colmateurs -  Michel Jeury",
-		"tomes": 2,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "May le monde -  Michel Jeury",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Les yeux géants -  Michel Jeury",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Danses aériennes - Nancy Kress",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "Dans la toile du temps - Adrian Tchaikovsky",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "La nuit du faune - Romain Lucazeau",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "Trilogie des faucheurs - Nancy Kress",
-		"tomes": 3,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "Kirinyaga - Mike Resnick ",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Exodes - Jean-Marc Ligny",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Aqua (TM) - Jean-Marc Ligny",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Des milliards de tapis de cheveux - Andreas Eschbach",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Le fleuve de l'éternité - Philip José Farmer",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Rendez-vous avec Rama - Arthur C. Clarcke",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Retour sur Titan - Stephen Baxter",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "La tour de Babylone - Ted Chaing",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Expiration - Ted Chaing",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Unica - Elise Fontenaille",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Policier"
-	},
-	{
-		"titre": "Dragon - Thomas Day",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Policier"
-	},
-	{
-		"titre": " Le Mystère du tramway hanté - P. Djèlí Clark",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "Un pont sur la brume - Kij Johnson",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Aux douze vents du monde - Ursula K. Le Guin",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Le Rayon zen - Barrington John Bayley",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Ti-Harnog - Christian Léourier",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Trilogie de l'âge d'or - John C Wright",
-		"tomes": 3,
-		"subgenre2": "Space-opéra",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "L'année suspendue - Mélanie Fazi",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Solénoïde - Mircea Cărtăresc",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
- 	{
-		"titre": " Autobiographie d'un poulpe - Vinciane Despret",
-		"tomes": 1,
-		"subgenre2": "SF - nouvelles",
-		"subgenre": "OLNI"
-	},
- 	{
-		"titre": "Monstrueuse féerie / Angélus des ogres - Laurent Pépin",
-		"tomes": 2,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Agora zéro - Éric Arlix et Frédéric Moulin ",
-		"tomes": 1,
-		"subgenre2": "SF - nouvelles",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "F.A.U.S.T. - Serge Lehman",
-		"tomes": 3,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Cru - Luvan",
-		"tomes": 1,
-		"subgenre2": "SF - nouvelles",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Le livre d'or de la science-fiction",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Les chambres inquiètes - Lisa Tuttle",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Les gardiens d'Aleph-deux - Colin Marchika",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Le silence de l'espace - Tommaso Pincio",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Ronge - Yves Frémion",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Années de rêves et de plomb: des grèves à la lutte armée en Italie (1968-1980) - Alessandro Stella",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "L'ordre du jour - Eric Vuillard",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "La tristesse de la terre - Eric Vuillard",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "La guerre des pauvres - Eric Vuillard",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "L'obsolescence de l'homme - Günther Anders",
-		"tomes": 1,
-		"subgenre": "Philosophie"
-	},
-	{
-		"titre": "Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
-		"tomes": 1,
-		"subgenre": "Société (essai)",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Macronique - Emilie Noteris",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Histoire des agricultures du monde - Marcel Mazoyer",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "RAF - Steiner et Debrayr",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Histoire des des révoltes panafricaines - Cyril Lionel Robert James",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Histoire de la guerre d'Algérie (1954-1962) - Benjamin Stora",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Le néant et le politique - Harold Bernat ",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Du gaullisme au black-bloc - Hervé Kempf",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "La révolte des gilets jaunes - Collectif Aouh aouh aouh",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Au-delà de Blade Runner : Los Angeles et l'imagination du désastre - Mike Davis",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Ceux qui restent - Benoît Coquard",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Rêves de sable, châteaux de sang - Yves Frémion",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Ubik - Philip K Dick",
-		"tomes": 1,
-		"subgenre2": "Science-fiction",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Complications - Nina Allan",
-		"tomes": 1,
-		"subgenre2": "SF - nouvelles",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Spin - Nina Allan",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "La course - Nina Allan",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Stardust - Nina Allan",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Le dieu venu du centaure - Philip K Dick",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Substance mort - Philip K Dick",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Le prisme du néant - Philip K Dick",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Rasta solitude - Philippe Curval",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Habite-t-on réellement quelque part? - Philippe Curval",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Les Attracteurs de Rose Street - Lucius Sherpard",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Aztechs - Lucius Sherpard",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "MARCOM- Philippe Curval",
-		"tomes": 3,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Macno emmerde la mort - Philippe Curval",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Poumon vert - Ian R. MacLeod ",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "24 vues du mont Fuji par Hokuzai - Roger Zelzany",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Kirinyaga - Mike Resnick",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles",
-		"subgenre2": "Uchronie"
-	},
-	{
-		"titre": "Cookie monster - Vernor Vinge",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Les septs fous / Les lances-flammes / La danse du feu - Roberto Arlt",
-		"tomes": 3,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Nuit - Edgar Hilsenrath",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Borgo Vecchio - Giosuè Calaciura",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Le fini des mers - Gardner Dozois",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "L'Effet Churten - Ursula K. le Guin",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Regarde, fiston, s'il n'y a pas un extra-terrestre derrière la bouteille de vin - Philippe Curval",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "L'enchâssement - Ian watson",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "Chanson pour Lya - GRR Martin",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Nicolas Eymerich, inquisiteur - Valerio Evangelisti",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Skin Trade - GRR Martin",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Vita nostra - Marina & Sergueï Diatchenko",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Axiomatique / Radieux / Océanique  - Greg Egan",
-		"tomes": 3,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "Cerès et Vesta - Greg Egan",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "La cité des permutants - Greg Egan",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "Diaspora - Greg Egan",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "La fille automate - Paolo Bacigalupi",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "SF - nouvelles"
-	},
-	{
-		"titre": "L'accroissement mathématique du plaisir - Catherine Dufour",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "La fille flûte et autres fragments de futurs brisés - Paolo Bacigalupi",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Fées, weed et guillotines - Karim Berrouka",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Policier"
-	},
-	{
-		"titre": "Tueurs de flics - Frédéric H. Fajardie",
-		"tomes": 1,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "Millenium - Stieg Larsson",
-		"tomes": 3,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "Forteresse - Georges Panchard",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "L'opéra de Shaya - Sylvie Lainé",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "L'anamnèse de Lady Stark - L.L. Kloetzer",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Les Olympiades truquées - Joëlle Wintrebert",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Amatka - Karin tidbeck",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Omale - Laurent Genefort",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Ce qui relie - Laurent Genefort",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Le bureau des atrocités - Charles Stross",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Crépuscule d'acier - Charles Stross",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Octobre 1917. Une lecture très critique de l’historiographie dominante - Lucien Sève",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Spin - Robert Charles Wilson",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Comment jouer à l'homme invisible en trois leçons - Philippe Curval",
-		"tomes": 1,
-		"subgenre2": "SF - nouvelles",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Radix - A.A. Attanasio",
-		"tomes": 1,
-		"subgenre2": "Science-fiction",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "L'homme à rebours - Philippe Curval",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Le cycle de la culture - Iam M. Banks",
-		"tomes": 8,
-		"subgenre": "Space-opéra",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "La révolution Russe - Voline",
-		"tomes": 1,
-		"subgenre2": "Histoire",
-		"subgenre": "Anarchisme"
-	},
-	{
-		"titre": "Calais face à la frontière",
-		"tomes": 1,
-		"subgenre2": "Société (essai)",
-		"subgenre": "Anarchisme"
-	},
-	{
-		"titre": "Ventes d'armes, une honte française - Elluin et Fontenelle",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Face à la menace fasciste - Bantigny et Palheta",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": " Défaire la police",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Ce que vaut une vie - Mathias Delori",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Aliénation et accélération - Hartmut Rosa",
-		"tomes": 1,
-		"subgenre": "Philosophie"
-	},
-	{
-		"titre": "La grande transformation du sommeil - Roger Ekirch",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Dans les imaginaires du futur - Ariel Kyrou",
-		"tomes": 1,
-		"subgenre2": "Science-fiction",
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Pour une antrhopologie - David Graeber",
-		"tomes": 1,
-		"subgenre": "Anarchisme"
-	},
-	{
-		"titre": "La Makhnovchtchina - Archinov",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Fragmenter le monde - Josep Rafanell I Orra",
-		"tomes": 1,
-		"subgenre": "Anarchisme"
-	},
-	{
-		"titre": "Eon - Greg Bear",
-		"tomes": 1,
-		"subgenre": "Space-opéra",
-		"subgenre2": "Uchronie"
-	},
-	{
-		"titre": "L'année du soleil calme - William Tucker",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Hyperion - Dan Simmons",
-		"tomes": 2,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Etoiles mourrante - Ayerdhal et Jean-Claude Dunyach",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Les planètes meurent aussi - Barrington John Bayley",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "La bohême et l'ivraie - Ayerdhal",
-		"tomes": 1,
-		"subgenre": "Space-opéra",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Le chant du cosmos - Roland C Wagner",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Latium - Romain Lucazeau",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Poupée aux yeux morts - Roland C Wagner",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "L'aube de la nuit - Peter F. Hamilton",
-		"tomes": 4,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "L'espace de la révélation - Reynolds, Alastair",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "La saga Vorkosigan - Lois McMaster Bujold",
-		"tomes": 2,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Le dragon ne dort jamais - Glen Cook",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Un feu sur l'abîme - Bernoir Vinge",
-		"tomes": 1,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Les guerriers du silence - Pierre Bordage",
-		"tomes": 2,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Les Seigneurs de l’Instrumentalité - Cordwainer Smith",
-		"tomes": 2,
-		"subgenre2": "Space-opéra",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": " Chroniques du pays des mères - Élisabeth Vonarburg",
-		"tomes": 1,
-		"subgenre2": "Science-fiction",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "L'hérésie d'Horus ",
-		"tomes": 3,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Rêves de gloire - Roland C Wagner",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Françatome -Johan Heliot",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Rêve de fer - Norman Spinrad",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Le club des policiers yiddish - Michael Chabon",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "Policier"
-	},
-	{
-		"titre": "Fatherland- Robert Harris",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "Policier"
-	},
-	{
-		"titre": "L'homme qui mit fin à l'histoire - Ken Liu",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "On est bien seul dans l'univers - Philippe Curval",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Papa 1er - Jacques Mondoloni",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Issa Eohim - Laurent Kloetzer",
-		"tomes": 1,
-		"subgenre": "SF - nouvelles"
-	},
-	{
-		"titre": "Quanticka - Laurence Suhner",
-		"tomes": 2,
-		"subgenre": "Space-opéra"
-	},
-	{
-		"titre": "Au-delà du gouffre - Peter Watts",
-		"tomes": 1,
-		"subgenre2": "SF - nouvelles",
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "Starfish - Peter Watts",
-		"tomes": 1,
-		"subgenre": "Hard science-fiction"
-	},
-	{
-		"titre": "Le maître du haut chateau - Phillip K Dick",
-		"tomes": 1,
-		"subgenre": "Uchronie"
-	},
-	{
-		"titre": "Le commando des immortels - Christophe Lambert",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "Fantasy"
-	},
-	{
-		"titre": "Aucun homme n'est une île - Christophe Lambert",
-		"tomes": 1,
-		"subgenre": "Uchronie",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Cinacittà - Tommaso Pincio",
-		"tomes": 1,
-		"subgenre": "Uchronie"
-	},
-	{
-		"titre": "Le roman d'un crime - Maj Sjöwall et Per Wahlöö",
-		"tomes": 10,
-		"subgenre": "Policier",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Pepe Carvalho - Manuel Vázquez Montalbán.",
-		"tomes": 7,
-		"subgenre": "Policier",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Nestor Burma - Léo Malet",
-		"tomes": 3,
-		"subgenre": "Policier",
-		"subgenre2": "Classique"
-	},
-	{
-		"titre": "Enquêtes de Leaphorn et Chee - Tony Hillerman",
-		"tomes": 1,
-		"subgenre": "Policier",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Cahier du retour au pays natal - Aimé Césaire",
-		"tomes": 1,
-		"subgenre2": "Société (essai)",
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Le troisième reich - Roberto Bolano",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Des putains meurtières - Roberto Bolano",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Paris sans le peuple - Anne CLERVAL",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "L'échiquier du mal- Dan Simmons ",
-		"tomes": 3,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "La vie est dégeulasse - Léo Mallet ",
-		"tomes": 1,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "Le grand sommeil - Raymond Chandler",
-		"tomes": 1,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "La dame du lac - Raymond Chandler",
-		"tomes": 1,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "Le Gros, le Français et la Souris - Raul Argemi",
-		"tomes": 1,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "Les racines du mal - Maurice G Dantec",
-		"tomes": 1,
-		"subgenre": "Policier",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "The city and the city - China Melville",
-		"tomes": 1,
-		"subgenre2": "Policier",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "La position du tireur couché - Jean-Patrick Manchette",
-		"tomes": 1,
-		"subgenre": "Policier",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Le quatuor du Yorkshire - David Peace",
-		"tomes": 4,
-		"subgenre": "Policier",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Meurtres pour mémoire - Didier Daenincks",
-		"tomes": 1,
-		"subgenre": "Policier",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Fatale - Jean-Patrick Manchette",
-		"tomes": 1,
-		"subgenre": "Policier",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Anthracite - Valerio Evangelisti",
-		"tomes": 1,
-		"subgenre": "Policier",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Inspectrice Simona Tavianello - Serge Quadruppani",
-		"tomes": 3,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "Y - Serge Quadruppani",
-		"tomes": 1,
-		"subgenre": "Policier"
-	},
-	{
-		"titre": "Lancedragon - Margaret Weis & Tracy Hickman",
-		"tomes": 15,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Les chroniques de Krondor - Raymond Elias Feist",
-		"tomes": 6,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "La trilogie du magicien noir - Trudi Canavan",
-		"tomes": 3,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "La roue du temps - Robert Jordan",
-		"tomes": 10,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Le trône de fer - GRR Martin",
-		"tomes": 5,
-		"subgenre": "Fantasy",
-		"subgenre2": "Dark fantasy"
-	},
-	{
-		"titre": "Le livre des martyrs - Steven Erickson",
-		"tomes": 1,
-		"subgenre": "Fantasy",
-		"subgenre2": "Dark fantasy"
-	},
-	{
-		"titre": "Olangar - Clément Bouhélier",
-		"tomes": 3,
-		"subgenre": "Fantasy",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Le seigneur des anneaux - JRR Tolkien",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Bilbo le hobbit- JRR Tolkien",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Le silmarion - JRR Tolkien",
-		"tomes": 1,
-		"subgenre": "Fantasy",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Gagner la guerre - Jean-Phillipe Jaworski",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Janua Vera - Jean-Phillipe Jaworski",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Le sentiment du fer - Jean-Phillipe Jaworski",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "La Forêt des Mythimages - Robert Holdstock",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Les chroniques des Féals - Mathieu Gaborit",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Le chevalier-mage - Gene Wolf",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Le sang des Ambrose - James Enge",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Porcelaine - Estelle Faye",
-		"tomes": 1,
-		"subgenre": "Fantasy",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Le lion de Macédoine - David Gemmel",
-		"tomes": 2,
-		"subgenre": "Fantasy",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "L'assassin royal - Robin Hobb",
-		"tomes": 6,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Les aventuriers de la mer - Robin Hobb",
-		"tomes": 3,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Les princes d'ambres - Roger Zelazny",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "La couronne des 7 royaumes - David B. Coe",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Le secret de Ji -  Pierre Grimbert",
-		"tomes": 4,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Le clan des Otori - Lian Hearn",
-		"tomes": 4,
-		"subgenre": "Fantasy",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Le cycle de Phénix - Bernard Simonay",
-		"tomes": 3,
-		"subgenre": "Fantasy",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Royaume de vent et de colères - Jean-Laurent Del Socoro",
-		"tomes": 1,
-		"subgenre": "Fantasy",
-		"subgenre2": "Uchronie"
-	},
-	{
-		"titre": "Winterheim - Fabrice Colin",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "Les dames du lac - Marion Zimmer Bradley",
-		"tomes": 2,
-		"subgenre": "Fantasy",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "La compagnie noire - Glen Cook",
-		"tomes": 9,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "L'épée brisée - Poul Anderson",
-		"tomes": 1,
-		"subgenre": "Dark fantasy",
-		"subgenre2": "Fantasy"
-	},
-	{
-		"titre": "La cinquième saison - N. K. Jemisin",
-		"tomes": 1,
-		"subgenre": "Science-fiction",
-		"subgenre2": "Fantasy"
-	},
-	{
-		"titre": "Les intrumentalités de la nuit (3) - Glen Cook",
-		"tomes": 1,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "Chien du heaume- Justine Niogret",
-		"tomes": 1,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "Mordre le bouclier- Justine Niogret",
-		"tomes": 1,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "La chronique des immortels - Wolfgang Hohlbein",
-		"tomes": 5,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "Aquaforte - KJ Bishop",
-		"tomes": 1,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "Wastburg - Cédric Ferrand",
-		"tomes": 1,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "Le mythe de Cthulhu- HP Lovecraft",
-		"tomes": 1,
-		"subgenre": "Dark fantasy"
-	},
-	{
-		"titre": "Une histoire populaire des Etats-Unis - Howard Zinn",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Une histoire populaire de l'humanité - chris harman",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Une histoire populaire de la France - Gérard Noiriel",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Une histoire populaire des sciences - Clifford D. Conner",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "La révolution Allemande (1918 - 1923) - Chris Harman",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Napoléon - Max Gallo",
-		"tomes": 4,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Les rois maudits - Maurice Druon",
-		"tomes": 2,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Histoire Romaine - Mommsen",
-		"tomes": 3,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Notes pour servir à l'histoire de Paris - Jules Andrieu",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Ma guerre d'espagne à moi - Mika Etchebéhère",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "La Désobéissance civile - Henry David Thoreau",
-		"tomes": 1,
-		"subgenre2": "Anarchisme",
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Le soviet - Colonel Durrutti",
-		"tomes": 3,
-		"subgenre": "Policier",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Pour le communisme libertaire - Daniel Guérin",
-		"tomes": 1,
-		"subgenre": "Anarchisme"
-	},
-	{
-		"titre": "Histoire de Chicago - Pap Ndiaye",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "La Guerre d'Espagne - Burnett Bolloten",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Le gang de la clé à molette - Edward Abbey",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Nino dans la nuit - Capucine et Simon Johannin",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "L'été des charognes - Simon Johannin",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Une auberge espagnole - Luis Bonet",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Alger, capitale de la révolution - Elaine Mokhtefi",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "What Uncle Sam Really Wants - Noam Chomsky",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Métamorphoses du travail - André Gorz",
-		"tomes": 1,
-		"subgenre": "Ecologie",
-		"subgenre2": "Philosophie"
-	},
-	{
-		"titre": "Ecologica - André Gorz",
-		"tomes": 1,
-		"subgenre": "Ecologie",
-		"subgenre2": "Philosophie"
-	},
-	{
-		"titre": "Bâtir la civilisation du temps libéré - André Gorz",
-		"tomes": 1,
-		"subgenre": "Ecologie",
-		"subgenre2": "Philosophie"
-	},
-	{
-		"titre": "Renverser nos manières de penser - Serge Latouche",
-		"tomes": 1,
-		"subgenre": "Ecologie",
-		"subgenre2": "Philosophie"
-	},
-	{
-		"titre": "Manifeste Negawatt - Collectif",
-		"tomes": 1,
-		"subgenre": "Ecologie",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Sur les nerfs - Larry Fondation",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Manifeste convivialiste. Déclaration d'interdépendance",
-		"tomes": 1,
-		"subgenre": "Philosophie"
-	},
-	{
-		"titre": "Que fait l’armée française en Afrique ? - Raphaël Granvaud",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Un pompier pyromane - Raphaël Granvaud et David Mauger",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Comores-Mayotte : une histoire néocoloniale - Pierre Caminade",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Serhildan: le soulévement au Kurdistan - Collectif Ne var ne yok",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "La convivialité - Ivan Illitch",
-		"tomes": 1,
-		"subgenre": "Philosophie",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Danser au bord du monde - Ursula K. le Guin",
-		"tomes": 1,
-		"subgenre": "Société (essai)",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "L'opinion, ça se travaille, Les médias et les « guerres justes » - SH, DV, HM",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "La fin de l'homme rouge - Svetlana Aleksievitch",
-		"tomes": 1,
-		"subgenre": "Société (essai)",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Nanterre, du bidonville à la cité - Victor Collet",
-		"tomes": 1,
-		"subgenre": "Histoire",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Nouveau manifeste des économistes atterrés - Collectif",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Les naufragés du libre-échange - ATTAC",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Artists in Times of War - Howard Zinn",
-		"tomes": 1,
-		"subgenre": "Société (essai)",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Terrorism and war- Howard Zinn",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Le bateau usine - Takiji Kobayashi",
-		"tomes": 1,
-		"subgenre": "Société (roman)"
-	},
-	{
-		"titre": "Media Control - Noam Chomsky",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Le Désert de la critique, Déconstruction et politique - Renaud Garcia",
-		"tomes": 1,
-		"subgenre": "Philosophie",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Quand la gauche essayait - Serge Halimi",
-		"tomes": 1,
-		"subgenre": "Histoire"
-	},
-	{
-		"titre": "Le sens des limites, contre l'abstraction capitaliste - Renaud Garcia",
-		"tomes": 1,
-		"subgenre": "Philosophie",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Une juste colère: interrompre la destruction du monde - Jérôme Baschet",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Le travail - Dominique Méda",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Les nouveaux chiens de garde - Serge Halimi",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Discours sur le colonialisme - Aimé Césaire",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Le commerce c'est la guerre - Yash Tandon",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Walter Benjamin 1892-1940 - Hannah Arendt",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "L'étranger - Alfred Schütz",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Chez soi - Mona Chollet",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Sorcières: La puissance invaincue des femmes - Mona Chollet",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "The Prosperous Few and the Restless Many - Noam Chomsky",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy - Murray Bookchin",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Pouvoir de détruire pouvoire de créer - Murray Bookchin",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Kafka et les anarchistes - Kostas Despoiniadis",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Classique"
-	},
-	{
-		"titre": "La Mémoire des vaincus - Michel Ragon",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "Contre Macron - Juan Branco",
-		"tomes": 1,
-		"subgenre": "Société (essai)"
-	},
-	{
-		"titre": "Hommage au Rojava",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Serhildan: le soulevement au Kurdistand - Collectif Ne var ne yok",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "On Anarchism - Noam Chomsky",
-		"tomes": 1,
-		"subgenre": "Anarchisme",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Maintenant - Comité invisible",
-		"tomes": 1,
-		"subgenre": "Anarchisme"
-	},
-	{
-		"titre": "Lettre à D. - André Gorz",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Du bruit - Joy Sorman",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Voyage au bout de la nuit - Louis-Ferdinand Célin",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Dans la dèche à Paris et à Londres - George Orwell",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Pêcheurs d'Islande - Pierre Lotti",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": " Le Roman d'un spahi - Pierre Lotti",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Pour qui sonne le glas - Ernest Hemingway",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Le camarade - Cesare Pavese",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "1Q84 - Haruki Murakami",
-		"tomes": 3,
-		"subgenre": "Classique",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "Tristes tropiques - Claude Levi-Strauss",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Société (essai)"
-	},
-	{
-		"titre": "Le grand voyage - Jorge Semprun",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Le Zéro et l'Infini - Arthur Koestler",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Germinal - Emile Zola",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Lolita - Vladimir Nabokov",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Women - Charles Bukowski",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Kaputt - Curzio Malaparte",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Les particules élémentaires - Michel Houellebecq",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Les misérables - Victor Hugo",
-		"tomes": 2,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "La carte et le territoiret - Michel Houellebecq",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Mercure - Amélie Nothomb",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Stupeur et tremblements - Amélie Nothomb",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "99 Francs - Frédéric Begbeider",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Le joueur d’échecs - Stefan Zweig",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Les choses - Georges Pérec",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "L'infra-ordinaire - Georges Pérec",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Classique",
-		"descriptif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque suscipit diam quis sapien sodales, id finibus nunc imperdiet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sed dapibus est. Nulla facilisi. Sed in lectus rutrum, dapibus velit id, vulputate dui. Mauris ut orci sodales, mollis diam quis, malesuada nulla. Aliquam viverra fringilla nibh, vitae pretium ipsum."
-	},
-	{
-		"titre": "Six photos noircies - Jonathan Wable",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "ROman dormant - Antoine Brea",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "La vie mode d'emploi - Georges Pérec",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "W ou le souvenir d'enfance - Georges Pérec",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "La Plaisanterie - Milan Kundera",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "L'élégance du hérisson - Muriel Barbery",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Le procès - Franz Kafka",
-		"tomes": 1,
-		"subgenre2": "Classique",
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "La nuit des temps - René  Barjavel",
-		"tomes": 1,
-		"subgenre": "Classique",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "Le parti des coîncidences - Mohamed Boudjedra",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Serat - Vicent Palacio",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Yama Loka Terminus - Léo Henry",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Berazachussetts - Leandro Avalos Blacha",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Lutz bassmann - Black village",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Terminus radieux - Antoine Volodine",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Classique"
-	},
-	{
-		"titre": "Des anges mineurs - Antoine Volodine",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Classique"
-	},
-	{
-		"titre": "Les soldats de la mer - Yves et Ada Remy",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Fantasy"
-	},
-	{
-		"titre": "Susto - Luvan",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "Agrapha - Luvan",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Le prophète et le vizir - Yves et Ada Remy",
-		"tomes": 1,
-		"subgenre": "Fantasy"
-	},
-	{
-		"titre": "La maison du cygne - Yves et Ada Remy",
-		"tomes": 1,
-		"subgenre": "Science-fiction"
-	},
-	{
-		"titre": "Intrabasses - Jeff Noon",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "Vurt - Jeff Noon",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "Scènes de la vie d'un faune - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "On a marché sur la lande - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Classique"
-	},
-	{
-		"titre": "Miroirs noirs - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "Le Revenant - Eric Chauvier",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "La république des savants - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI"
-	},
-	{
-		"titre": "Leviathan - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Brigade rouges: une histoire italienne - Mario Moretti et Rossana Rossanda",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Le coeur de pierre - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Classique"
-	},
-	{
-		"titre": "Cosmas ou la Montagne du Nord - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Sans patrie ni frontière - Jan Valtin",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Histoire"
-	},
-	{
-		"titre": "Brand's haide - Arno schimdt",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Science-fiction"
-	},
-	{
-		"titre": "Epépé - Ferenc Karinthy",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Société (roman)"
-	},
-	{
-		"titre": "Franckushima - Géraud Bournet",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Ecologie"
-	},
-	{
-		"titre": "Radiations et révolution - Sabu Kosho",
-		"tomes": 1,
-		"subgenre": "Ecologie"
-	},
-	{
-		"titre": "Le nucléaire c'est fini - La Parisienne libérée",
-		"tomes": 1,
-		"subgenre": "Ecologie"
-	},
-	{
-		"titre": "Le capitalocène - Armel Campagne",
-		"tomes": 1,
-		"subgenre2": "Anarchisme",
-		"subgenre": "Ecologie"
-	},
-	{
-		"titre": "Le Navire de bois - Hans Henny Jahnn ",
-		"tomes": 1,
-		"subgenre": "Classique"
-	},
-	{
-		"titre": "Et quelquefois j'ai comme une grande idée - Ken Kesey",
-		"tomes": 1,
-		"subgenre": "OLNI",
-		"subgenre2": "Classique"
-	},
-	{
-		"titre": "Surveiller et punir - Michel Foucault",
-		"tomes": 1,
-		"subgenre": "Philosophie"
-	},
-	{
-		"titre": "L'homme unidimmensionnel - Herbert Marcusse",
-		"tomes": 1,
-		"subgenre": "Philosophie"
-	},
-	{
-		"titre": "Guerre de mouvement et guerre de position - Antonio Gramsci",
-		"tomes": 1,
-		"subgenre": "Philosophie",
-		"subgenre2": "Anarchisme"
-	},
-	{
-		"titre": "L'homme superflu - Patrick Vassort",
-		"tomes": 1,
-		"subgenre": "Philosophie"
-	},
-	{
-		"titre": " How to Read Foucault - Johanna Oksala",
-		"tomes": 1,
-		"subgenre": "Classique"
-	}
+[
+  {
+    "titre": "Les futurs mystères de Paris - Roland C Wagner",
+    "tomes": 9,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Policier"
+  },
+  {
+    "titre": "Histoire du futur proche - Roland C Wagner",
+    "tomes": 5,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "La horde du contrevent - Alain Damasio",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Les Fleurs du vide - Michael Swawick",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Le troupeau aveugle - John Brunner",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Le silence de la cité - Elisabeth Vonarburg",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Anathèm - Neal Stephenson",
+    "tomes": 2,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Terra ignota - Ada Palmer",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Booming - Mika Biermann",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Les paraboles - Octavia E. Butler",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Babylon babies - Maurice G. Dantec",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "L'échelle de Darwin - Greg Bear",
+    "tomes": 2,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Rivage des intouchables - Francis Berthelot",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Toxoplasma - Sabrina Calvo",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Melmoth furieux - Sabrina Calvo",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Wonderful - Sabrina Calvo",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Les voyageurs - Becky Chambers",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Millenium - John Varley",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Le canal Ophite - John Varley",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "le Système Valentine - John Varley",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "La trilogie de Gaïa - John Varley",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Les gens de la lune - John Varley",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "L'Homme démoli - Alfred Bester",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Le déchronologue - Stéphane Beauverger",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Uchronie"
+  },
+  {
+    "titre": "L'enfant de la fortune - Normann Spinrad",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "La ménagerie de papier - Ken Liu",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "Jardin de poussière - Ken Liu",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "La fabrique des lendeamins - Rich Larson",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "Roma Æterna - Robert Silverberg",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "La Fontaine des âges - Nancy Kress",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Toutes les saveurs - Ken Liu",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Molly Southbourne - Tade Thompson",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "À dos de crocodile - Greg Egan",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Les Agents de Dreamland- Caitlin R. Kierman",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Un souvenir de Loti - Philippe Curval",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "L'arithmétique terrible de la misère - catherine dufour",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Appareil volant à basse altitude - James Graham Ballard",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Le cycle de l'Ekumen - Ursula K Le Guin",
+    "tomes": 4,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Terremer - Ursula K Le Guin",
+    "tomes": 3,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "L'autre côté du rêve - Ursula K Le Guin",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Les Chevaliers du Tintamarre - Raphaël Bardas",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Les lions d'Al-Rassan - Guy Gavriel Kay",
+    "tomes": 1,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Garichankar -  Michel Jeury",
+    "tomes": 2,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Les colmateurs -  Michel Jeury",
+    "tomes": 2,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "May le monde -  Michel Jeury",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Les yeux géants -  Michel Jeury",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Danses aériennes - Nancy Kress",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "Dans la toile du temps - Adrian Tchaikovsky",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "La nuit du faune - Romain Lucazeau",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Trilogie des faucheurs - Nancy Kress",
+    "tomes": 3,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Kirinyaga - Mike Resnick ",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Exodes - Jean-Marc Ligny",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Aqua (TM) - Jean-Marc Ligny",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Des milliards de tapis de cheveux - Andreas Eschbach",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Le fleuve de l'éternité - Philip José Farmer",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Rendez-vous avec Rama - Arthur C. Clarcke",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Retour sur Titan - Stephen Baxter",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "La tour de Babylone - Ted Chaing",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Expiration - Ted Chaing",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Unica - Elise Fontenaille",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Policier"
+  },
+  {
+    "titre": "Dragon - Thomas Day",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Policier"
+  },
+  {
+    "titre": " Le Mystère du tramway hanté - P. Djèlí Clark",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "Un pont sur la brume - Kij Johnson",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Aux douze vents du monde - Ursula K. Le Guin",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Le Rayon zen - Barrington John Bayley",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Ti-Harnog - Christian Léourier",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Trilogie de l'âge d'or - John C Wright",
+    "tomes": 3,
+    "subgenre2": "Space-opéra",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "L'année suspendue - Mélanie Fazi",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Solénoïde - Mircea Cărtăresc",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": " Autobiographie d'un poulpe - Vinciane Despret",
+    "tomes": 1,
+    "subgenre2": "SF - nouvelles",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Monstrueuse féerie / Angélus des ogres - Laurent Pépin",
+    "tomes": 2,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Agora zéro - Éric Arlix et Frédéric Moulin ",
+    "tomes": 1,
+    "subgenre2": "SF - nouvelles",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "F.A.U.S.T. - Serge Lehman",
+    "tomes": 3,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Cru - Luvan",
+    "tomes": 1,
+    "subgenre2": "SF - nouvelles",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Le livre d'or de la science-fiction",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Les chambres inquiètes - Lisa Tuttle",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Les gardiens d'Aleph-deux - Colin Marchika",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Le silence de l'espace - Tommaso Pincio",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Ronge - Yves Frémion",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Années de rêves et de plomb: des grèves à la lutte armée en Italie (1968-1980) - Alessandro Stella",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "L'ordre du jour - Eric Vuillard",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "La tristesse de la terre - Eric Vuillard",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "La guerre des pauvres - Eric Vuillard",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "L'obsolescence de l'homme - Günther Anders",
+    "tomes": 1,
+    "subgenre": "Philosophie"
+  },
+  {
+    "titre": "Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
+    "tomes": 1,
+    "subgenre": "Société (essai)",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Macronique - Emilie Noteris",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Histoire des agricultures du monde - Marcel Mazoyer",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "RAF - Steiner et Debrayr",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Histoire des des révoltes panafricaines - Cyril Lionel Robert James",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Histoire de la guerre d'Algérie (1954-1962) - Benjamin Stora",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Le néant et le politique - Harold Bernat ",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Du gaullisme au black-bloc - Hervé Kempf",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Lettre aux paysans sur la pauvreté et la paix - Jean Giono",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "La révolte des gilets jaunes - Collectif Aouh aouh aouh",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Au-delà de Blade Runner : Los Angeles et l'imagination du désastre - Mike Davis",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Ceux qui restent - Benoît Coquard",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Rêves de sable, châteaux de sang - Yves Frémion",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Ubik - Philip K Dick",
+    "tomes": 1,
+    "subgenre2": "Science-fiction",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Complications - Nina Allan",
+    "tomes": 1,
+    "subgenre2": "SF - nouvelles",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Spin - Nina Allan",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "La course - Nina Allan",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Stardust - Nina Allan",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Le dieu venu du centaure - Philip K Dick",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Substance mort - Philip K Dick",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Le prisme du néant - Philip K Dick",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Rasta solitude - Philippe Curval",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Habite-t-on réellement quelque part? - Philippe Curval",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Les Attracteurs de Rose Street - Lucius Sherpard",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Aztechs - Lucius Sherpard",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "MARCOM- Philippe Curval",
+    "tomes": 3,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Macno emmerde la mort - Philippe Curval",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Poumon vert - Ian R. MacLeod ",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "24 vues du mont Fuji par Hokuzai - Roger Zelzany",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Kirinyaga - Mike Resnick",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles",
+    "subgenre2": "Uchronie"
+  },
+  {
+    "titre": "Cookie monster - Vernor Vinge",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Les septs fous / Les lances-flammes / La danse du feu - Roberto Arlt",
+    "tomes": 3,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Nuit - Edgar Hilsenrath",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Borgo Vecchio - Giosuè Calaciura",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Le fini des mers - Gardner Dozois",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "L'Effet Churten - Ursula K. le Guin",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Regarde, fiston, s'il n'y a pas un extra-terrestre derrière la bouteille de vin - Philippe Curval",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "L'enchâssement - Ian watson",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Chanson pour Lya - GRR Martin",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Nicolas Eymerich, inquisiteur - Valerio Evangelisti",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Skin Trade - GRR Martin",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Vita nostra - Marina & Sergueï Diatchenko",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Axiomatique / Radieux / Océanique  - Greg Egan",
+    "tomes": 3,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "Cerès et Vesta - Greg Egan",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "La cité des permutants - Greg Egan",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Diaspora - Greg Egan",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "La fille automate - Paolo Bacigalupi",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "SF - nouvelles"
+  },
+  {
+    "titre": "L'accroissement mathématique du plaisir - Catherine Dufour",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "La fille flûte et autres fragments de futurs brisés - Paolo Bacigalupi",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Fées, weed et guillotines - Karim Berrouka",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Policier"
+  },
+  {
+    "titre": "Tueurs de flics - Frédéric H. Fajardie",
+    "tomes": 1,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "Millenium - Stieg Larsson",
+    "tomes": 3,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "Forteresse - Georges Panchard",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "L'opéra de Shaya - Sylvie Lainé",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "L'anamnèse de Lady Stark - L.L. Kloetzer",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Les Olympiades truquées - Joëlle Wintrebert",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Amatka - Karin tidbeck",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Omale - Laurent Genefort",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Ce qui relie - Laurent Genefort",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Le bureau des atrocités - Charles Stross",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Crépuscule d'acier - Charles Stross",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Octobre 1917. Une lecture très critique de l’historiographie dominante - Lucien Sève",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Spin - Robert Charles Wilson",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Comment jouer à l'homme invisible en trois leçons - Philippe Curval",
+    "tomes": 1,
+    "subgenre2": "SF - nouvelles",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Radix - A.A. Attanasio",
+    "tomes": 1,
+    "subgenre2": "Science-fiction",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "L'homme à rebours - Philippe Curval",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Le cycle de la culture - Iam M. Banks",
+    "tomes": 8,
+    "subgenre": "Space-opéra",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "La révolution Russe - Voline",
+    "tomes": 1,
+    "subgenre2": "Histoire",
+    "subgenre": "Anarchisme"
+  },
+  {
+    "titre": "Calais face à la frontière",
+    "tomes": 1,
+    "subgenre2": "Société (essai)",
+    "subgenre": "Anarchisme"
+  },
+  {
+    "titre": "Ventes d'armes, une honte française - Elluin et Fontenelle",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Face à la menace fasciste - Bantigny et Palheta",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": " Défaire la police",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Ce que vaut une vie - Mathias Delori",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Aliénation et accélération - Hartmut Rosa",
+    "tomes": 1,
+    "subgenre": "Philosophie"
+  },
+  {
+    "titre": "La grande transformation du sommeil - Roger Ekirch",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Dans les imaginaires du futur - Ariel Kyrou",
+    "tomes": 1,
+    "subgenre2": "Science-fiction",
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Pour une antrhopologie - David Graeber",
+    "tomes": 1,
+    "subgenre": "Anarchisme"
+  },
+  {
+    "titre": "La Makhnovchtchina - Archinov",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Fragmenter le monde - Josep Rafanell I Orra",
+    "tomes": 1,
+    "subgenre": "Anarchisme"
+  },
+  {
+    "titre": "Eon - Greg Bear",
+    "tomes": 1,
+    "subgenre": "Space-opéra",
+    "subgenre2": "Uchronie"
+  },
+  {
+    "titre": "L'année du soleil calme - William Tucker",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Hyperion - Dan Simmons",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Etoiles mourrante - Ayerdhal et Jean-Claude Dunyach",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Les planètes meurent aussi - Barrington John Bayley",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "La bohême et l'ivraie - Ayerdhal",
+    "tomes": 1,
+    "subgenre": "Space-opéra",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Le chant du cosmos - Roland C Wagner",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Latium - Romain Lucazeau",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Poupée aux yeux morts - Roland C Wagner",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "L'aube de la nuit - Peter F. Hamilton",
+    "tomes": 4,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "L'espace de la révélation - Reynolds, Alastair",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "La saga Vorkosigan - Lois McMaster Bujold",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Le dragon ne dort jamais - Glen Cook",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Un feu sur l'abîme - Bernoir Vinge",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Les guerriers du silence - Pierre Bordage",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Les Seigneurs de l’Instrumentalité - Cordwainer Smith",
+    "tomes": 2,
+    "subgenre2": "Space-opéra",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": " Chroniques du pays des mères - Élisabeth Vonarburg",
+    "tomes": 1,
+    "subgenre2": "Science-fiction",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "L'hérésie d'Horus ",
+    "tomes": 3,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Rêves de gloire - Roland C Wagner",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Françatome -Johan Heliot",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Rêve de fer - Norman Spinrad",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Le club des policiers yiddish - Michael Chabon",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Policier"
+  },
+  {
+    "titre": "Fatherland- Robert Harris",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Policier"
+  },
+  {
+    "titre": "L'homme qui mit fin à l'histoire - Ken Liu",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "On est bien seul dans l'univers - Philippe Curval",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Papa 1er - Jacques Mondoloni",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Issa Eohim - Laurent Kloetzer",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Quanticka - Laurence Suhner",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Au-delà du gouffre - Peter Watts",
+    "tomes": 1,
+    "subgenre2": "SF - nouvelles",
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Starfish - Peter Watts",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Le maître du haut chateau - Phillip K Dick",
+    "tomes": 1,
+    "subgenre": "Uchronie"
+  },
+  {
+    "titre": "Le commando des immortels - Christophe Lambert",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Fantasy"
+  },
+  {
+    "titre": "Aucun homme n'est une île - Christophe Lambert",
+    "tomes": 1,
+    "subgenre": "Uchronie",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Cinacittà - Tommaso Pincio",
+    "tomes": 1,
+    "subgenre": "Uchronie"
+  },
+  {
+    "titre": "Le roman d'un crime - Maj Sjöwall et Per Wahlöö",
+    "tomes": 10,
+    "subgenre": "Policier",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Pepe Carvalho - Manuel Vázquez Montalbán.",
+    "tomes": 7,
+    "subgenre": "Policier",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Nestor Burma - Léo Malet",
+    "tomes": 3,
+    "subgenre": "Policier",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "Enquêtes de Leaphorn et Chee - Tony Hillerman",
+    "tomes": 1,
+    "subgenre": "Policier",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Cahier du retour au pays natal - Aimé Césaire",
+    "tomes": 1,
+    "subgenre2": "Société (essai)",
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Le troisième reich - Roberto Bolano",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Des putains meurtières - Roberto Bolano",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Paris sans le peuple - Anne CLERVAL",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "L'échiquier du mal- Dan Simmons ",
+    "tomes": 3,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "La vie est dégeulasse - Léo Mallet ",
+    "tomes": 1,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "Le grand sommeil - Raymond Chandler",
+    "tomes": 1,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "La dame du lac - Raymond Chandler",
+    "tomes": 1,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "Le Gros, le Français et la Souris - Raul Argemi",
+    "tomes": 1,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "Les racines du mal - Maurice G Dantec",
+    "tomes": 1,
+    "subgenre": "Policier",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "The city and the city - China Melville",
+    "tomes": 1,
+    "subgenre2": "Policier",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "La position du tireur couché - Jean-Patrick Manchette",
+    "tomes": 1,
+    "subgenre": "Policier",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Le quatuor du Yorkshire - David Peace",
+    "tomes": 4,
+    "subgenre": "Policier",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Meurtres pour mémoire - Didier Daenincks",
+    "tomes": 1,
+    "subgenre": "Policier",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Fatale - Jean-Patrick Manchette",
+    "tomes": 1,
+    "subgenre": "Policier",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Anthracite - Valerio Evangelisti",
+    "tomes": 1,
+    "subgenre": "Policier",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Inspectrice Simona Tavianello - Serge Quadruppani",
+    "tomes": 3,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "Y - Serge Quadruppani",
+    "tomes": 1,
+    "subgenre": "Policier"
+  },
+  {
+    "titre": "Lancedragon - Margaret Weis & Tracy Hickman",
+    "tomes": 15,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Les chroniques de Krondor - Raymond Elias Feist",
+    "tomes": 6,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "La trilogie du magicien noir - Trudi Canavan",
+    "tomes": 3,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "La roue du temps - Robert Jordan",
+    "tomes": 10,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Le trône de fer - GRR Martin",
+    "tomes": 5,
+    "subgenre": "Fantasy",
+    "subgenre2": "Dark fantasy"
+  },
+  {
+    "titre": "Le livre des martyrs - Steven Erickson",
+    "tomes": 1,
+    "subgenre": "Fantasy",
+    "subgenre2": "Dark fantasy"
+  },
+  {
+    "titre": "Olangar - Clément Bouhélier",
+    "tomes": 3,
+    "subgenre": "Fantasy",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Le seigneur des anneaux - JRR Tolkien",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Bilbo le hobbit- JRR Tolkien",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Le silmarion - JRR Tolkien",
+    "tomes": 1,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Gagner la guerre - Jean-Phillipe Jaworski",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Janua Vera - Jean-Phillipe Jaworski",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Le sentiment du fer - Jean-Phillipe Jaworski",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "La Forêt des Mythimages - Robert Holdstock",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Les chroniques des Féals - Mathieu Gaborit",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Le chevalier-mage - Gene Wolf",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Le sang des Ambrose - James Enge",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Porcelaine - Estelle Faye",
+    "tomes": 1,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Le lion de Macédoine - David Gemmel",
+    "tomes": 2,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "L'assassin royal - Robin Hobb",
+    "tomes": 6,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Les aventuriers de la mer - Robin Hobb",
+    "tomes": 3,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Les princes d'ambres - Roger Zelazny",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "La couronne des 7 royaumes - David B. Coe",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Le secret de Ji -  Pierre Grimbert",
+    "tomes": 4,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Le clan des Otori - Lian Hearn",
+    "tomes": 4,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Le cycle de Phénix - Bernard Simonay",
+    "tomes": 3,
+    "subgenre": "Fantasy",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Royaume de vent et de colères - Jean-Laurent Del Socoro",
+    "tomes": 1,
+    "subgenre": "Fantasy",
+    "subgenre2": "Uchronie"
+  },
+  {
+    "titre": "Winterheim - Fabrice Colin",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "Les dames du lac - Marion Zimmer Bradley",
+    "tomes": 2,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "La compagnie noire - Glen Cook",
+    "tomes": 9,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "L'épée brisée - Poul Anderson",
+    "tomes": 1,
+    "subgenre": "Dark fantasy",
+    "subgenre2": "Fantasy"
+  },
+  {
+    "titre": "La cinquième saison - N. K. Jemisin",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Fantasy"
+  },
+  {
+    "titre": "Les intrumentalités de la nuit (3) - Glen Cook",
+    "tomes": 1,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "Chien du heaume- Justine Niogret",
+    "tomes": 1,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "Mordre le bouclier- Justine Niogret",
+    "tomes": 1,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "La chronique des immortels - Wolfgang Hohlbein",
+    "tomes": 5,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "Aquaforte - KJ Bishop",
+    "tomes": 1,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "Wastburg - Cédric Ferrand",
+    "tomes": 1,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "Le mythe de Cthulhu- HP Lovecraft",
+    "tomes": 1,
+    "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "Une histoire populaire des Etats-Unis - Howard Zinn",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Une histoire populaire de l'humanité - chris harman",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Une histoire populaire de la France - Gérard Noiriel",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Une histoire populaire des sciences - Clifford D. Conner",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "La révolution Allemande (1918 - 1923) - Chris Harman",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Napoléon - Max Gallo",
+    "tomes": 4,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Les rois maudits - Maurice Druon",
+    "tomes": 2,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Histoire Romaine - Mommsen",
+    "tomes": 3,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Notes pour servir à l'histoire de Paris - Jules Andrieu",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Ma guerre d'espagne à moi - Mika Etchebéhère",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "La Désobéissance civile - Henry David Thoreau",
+    "tomes": 1,
+    "subgenre2": "Anarchisme",
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Le soviet - Colonel Durrutti",
+    "tomes": 3,
+    "subgenre": "Policier",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Pour le communisme libertaire - Daniel Guérin",
+    "tomes": 1,
+    "subgenre": "Anarchisme"
+  },
+  {
+    "titre": "Histoire de Chicago - Pap Ndiaye",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "La Guerre d'Espagne - Burnett Bolloten",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Le gang de la clé à molette - Edward Abbey",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Nino dans la nuit - Capucine et Simon Johannin",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "L'été des charognes - Simon Johannin",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Une auberge espagnole - Luis Bonet",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Alger, capitale de la révolution - Elaine Mokhtefi",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "What Uncle Sam Really Wants - Noam Chomsky",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Métamorphoses du travail - André Gorz",
+    "tomes": 1,
+    "subgenre": "Ecologie",
+    "subgenre2": "Philosophie"
+  },
+  {
+    "titre": "Ecologica - André Gorz",
+    "tomes": 1,
+    "subgenre": "Ecologie",
+    "subgenre2": "Philosophie"
+  },
+  {
+    "titre": "Bâtir la civilisation du temps libéré - André Gorz",
+    "tomes": 1,
+    "subgenre": "Ecologie",
+    "subgenre2": "Philosophie"
+  },
+  {
+    "titre": "Renverser nos manières de penser - Serge Latouche",
+    "tomes": 1,
+    "subgenre": "Ecologie",
+    "subgenre2": "Philosophie"
+  },
+  {
+    "titre": "Manifeste Negawatt - Collectif",
+    "tomes": 1,
+    "subgenre": "Ecologie",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Sur les nerfs - Larry Fondation",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Manifeste convivialiste. Déclaration d'interdépendance",
+    "tomes": 1,
+    "subgenre": "Philosophie"
+  },
+  {
+    "titre": "Que fait l’armée française en Afrique ? - Raphaël Granvaud",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Un pompier pyromane - Raphaël Granvaud et David Mauger",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Comores-Mayotte : une histoire néocoloniale - Pierre Caminade",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Serhildan: le soulévement au Kurdistan - Collectif Ne var ne yok",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "La convivialité - Ivan Illitch",
+    "tomes": 1,
+    "subgenre": "Philosophie",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Danser au bord du monde - Ursula K. le Guin",
+    "tomes": 1,
+    "subgenre": "Société (essai)",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "L'opinion, ça se travaille, Les médias et les « guerres justes » - SH, DV, HM",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "La fin de l'homme rouge - Svetlana Aleksievitch",
+    "tomes": 1,
+    "subgenre": "Société (essai)",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Nanterre, du bidonville à la cité - Victor Collet",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Nouveau manifeste des économistes atterrés - Collectif",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Les naufragés du libre-échange - ATTAC",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Artists in Times of War - Howard Zinn",
+    "tomes": 1,
+    "subgenre": "Société (essai)",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Terrorism and war- Howard Zinn",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Le bateau usine - Takiji Kobayashi",
+    "tomes": 1,
+    "subgenre": "Société (roman)"
+  },
+  {
+    "titre": "Media Control - Noam Chomsky",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Le Désert de la critique, Déconstruction et politique - Renaud Garcia",
+    "tomes": 1,
+    "subgenre": "Philosophie",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Quand la gauche essayait - Serge Halimi",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Le sens des limites, contre l'abstraction capitaliste - Renaud Garcia",
+    "tomes": 1,
+    "subgenre": "Philosophie",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Une juste colère: interrompre la destruction du monde - Jérôme Baschet",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Le travail - Dominique Méda",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Les nouveaux chiens de garde - Serge Halimi",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Discours sur le colonialisme - Aimé Césaire",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Le commerce c'est la guerre - Yash Tandon",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Walter Benjamin 1892-1940 - Hannah Arendt",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "L'étranger - Alfred Schütz",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Chez soi - Mona Chollet",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Sorcières: La puissance invaincue des femmes - Mona Chollet",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "The Prosperous Few and the Restless Many - Noam Chomsky",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy - Murray Bookchin",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Pouvoir de détruire pouvoire de créer - Murray Bookchin",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Kafka et les anarchistes - Kostas Despoiniadis",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "La Mémoire des vaincus - Michel Ragon",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "Contre Macron - Juan Branco",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Hommage au Rojava",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Serhildan: le soulevement au Kurdistand - Collectif Ne var ne yok",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "On Anarchism - Noam Chomsky",
+    "tomes": 1,
+    "subgenre": "Anarchisme",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Maintenant - Comité invisible",
+    "tomes": 1,
+    "subgenre": "Anarchisme"
+  },
+  {
+    "titre": "Lettre à D. - André Gorz",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Du bruit - Joy Sorman",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Voyage au bout de la nuit - Louis-Ferdinand Célin",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Dans la dèche à Paris et à Londres - George Orwell",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Pêcheurs d'Islande - Pierre Lotti",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": " Le Roman d'un spahi - Pierre Lotti",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Pour qui sonne le glas - Ernest Hemingway",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Le camarade - Cesare Pavese",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "1Q84 - Haruki Murakami",
+    "tomes": 3,
+    "subgenre": "Classique",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "Tristes tropiques - Claude Levi-Strauss",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "Le grand voyage - Jorge Semprun",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Le Zéro et l'Infini - Arthur Koestler",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Germinal - Emile Zola",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Lolita - Vladimir Nabokov",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Women - Charles Bukowski",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Kaputt - Curzio Malaparte",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Les particules élémentaires - Michel Houellebecq",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Les misérables - Victor Hugo",
+    "tomes": 2,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "La carte et le territoiret - Michel Houellebecq",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Mercure - Amélie Nothomb",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Stupeur et tremblements - Amélie Nothomb",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "99 Francs - Frédéric Begbeider",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Le joueur d’échecs - Stefan Zweig",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Les choses - Georges Pérec",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "L'infra-ordinaire - Georges Pérec",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "Six photos noircies - Jonathan Wable",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Roman dormant - Antoine Brea",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "La vie mode d'emploi - Georges Pérec",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "W ou le souvenir d'enfance - Georges Pérec",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "La Plaisanterie - Milan Kundera",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "L'élégance du hérisson - Muriel Barbery",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Le procès - Franz Kafka",
+    "tomes": 1,
+    "subgenre2": "Classique",
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "La nuit des temps - René  Barjavel",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "Le parti des coîncidences - Mohamed Boudjedra",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Serat - Vicent Palacio",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Yama Loka Terminus - Léo Henry",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Berazachussetts - Leandro Avalos Blacha",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Lutz bassmann - Black village",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Terminus radieux - Antoine Volodine",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "Des anges mineurs - Antoine Volodine",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "Les soldats de la mer - Yves et Ada Remy",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Fantasy"
+  },
+  {
+    "titre": "Susto - Luvan",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "Agrapha - Luvan",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Le prophète et le vizir - Yves et Ada Remy",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
+    "titre": "La maison du cygne - Yves et Ada Remy",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
+    "titre": "Intrabasses - Jeff Noon",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "Vurt - Jeff Noon",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "Scènes de la vie d'un faune - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "On a marché sur la lande - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "Miroirs noirs - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "Le Revenant - Eric Chauvier",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "La république des savants - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
+    "titre": "Leviathan - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Brigade rouges: une histoire italienne - Mario Moretti et Rossana Rossanda",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Le coeur de pierre - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "Cosmas ou la Montagne du Nord - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Sans patrie ni frontière - Jan Valtin",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Brand's haide - Arno schimdt",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Science-fiction"
+  },
+  {
+    "titre": "Epépé - Ferenc Karinthy",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Franckushima - Géraud Bournet",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Ecologie"
+  },
+  {
+    "titre": "Radiations et révolution - Sabu Kosho",
+    "tomes": 1,
+    "subgenre": "Ecologie"
+  },
+  {
+    "titre": "Le nucléaire c'est fini - La Parisienne libérée",
+    "tomes": 1,
+    "subgenre": "Ecologie"
+  },
+  {
+    "titre": "Le capitalocène - Armel Campagne",
+    "tomes": 1,
+    "subgenre2": "Anarchisme",
+    "subgenre": "Ecologie"
+  },
+  {
+    "titre": "Le Navire de bois - Hans Henny Jahnn ",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Et quelquefois j'ai comme une grande idée - Ken Kesey",
+    "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Classique"
+  },
+  {
+    "titre": "Surveiller et punir - Michel Foucault",
+    "tomes": 1,
+    "subgenre": "Philosophie"
+  },
+  {
+    "titre": "L'homme unidimmensionnel - Herbert Marcusse",
+    "tomes": 1,
+    "subgenre": "Philosophie"
+  },
+  {
+    "titre": "Guerre de mouvement et guerre de position - Antonio Gramsci",
+    "tomes": 1,
+    "subgenre": "Philosophie",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "L'homme superflu - Patrick Vassort",
+    "tomes": 1,
+    "subgenre": "Philosophie"
+  },
+  {
+    "titre": " How to Read Foucault - Johanna Oksala",
+    "tomes": 1,
+    "subgenre": "Classique"
+  }
 ]
