@@ -167,6 +167,11 @@
     "subgenre": "SF - nouvelles"
   },
   {
+    "titre": "Le nez de Cléopatre - Robert Silverberg",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
     "titre": "À dos de crocodile - Greg Egan",
     "tomes": 1,
     "subgenre": "SF - nouvelles"
@@ -433,6 +438,12 @@
     "subgenre2": "Histoire"
   },
   {
+    "titre": "Une sortie honorable - Eric Vuillard",
+    "tomes": 1,
+    "subgenre": "Classique",
+    "subgenre2": "Histoire"
+  },
+  {
     "titre": "La guerre des pauvres - Eric Vuillard",
     "tomes": 1,
     "subgenre": "Classique",
@@ -471,6 +482,11 @@
   },
   {
     "titre": "Histoire de la guerre d'Algérie (1954-1962) - Benjamin Stora",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "Joseph Kabris - Christophe Granger",
     "tomes": 1,
     "subgenre": "Histoire"
   },
@@ -985,6 +1001,12 @@
     "subgenre2": "Policier"
   },
   {
+    "titre": "La ville dans le ciel - Brookmyre Chris",
+    "tomes": 1,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Policier"
+  },
+  {
     "titre": "Fatherland- Robert Harris",
     "tomes": 1,
     "subgenre": "Uchronie",
@@ -1080,6 +1102,11 @@
   },
   {
     "titre": "Le troisième reich - Roberto Bolano",
+    "tomes": 1,
+    "subgenre": "Classique"
+  },
+  {
+    "titre": "Notre part de nuit - Mariana Enriquez",
     "tomes": 1,
     "subgenre": "Classique"
   },
