@@ -235,6 +235,12 @@
     "subgenre2": "Histoire"
   },
   {
+    "titre": "Les derniers feux du soleil - Guy Gavriel Kay",
+    "tomes": 1,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
     "titre": "Garichankar -  Michel Jeury",
     "tomes": 2,
     "subgenre": "Science-fiction"
@@ -263,6 +269,11 @@
   {
     "titre": "Dans la toile du temps - Adrian Tchaikovsky",
     "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Gnomon - Nick Harkaway",
+    "tomes": 2,
     "subgenre": "Hard science-fiction"
   },
   {
@@ -1181,6 +1192,16 @@
     "subgenre2": "Société (roman)"
   },
   {
+    "titre": "Camarade Lune - Barbara Balzerani",
+    "tomes": 1,
+    "subgenre": "Société (roman)"
+  },
+  {
+    "titre": "L'université de Rebibbia - Goliarda Sapienza",
+    "tomes": 1,
+    "subgenre": "Société (roman)"
+  },
+  {
     "titre": "Meurtres pour mémoire - Didier Daenincks",
     "tomes": 1,
     "subgenre": "Policier",
@@ -1414,6 +1435,26 @@
     "titre": "Le mythe de Cthulhu- HP Lovecraft",
     "tomes": 1,
     "subgenre": "Dark fantasy"
+  },
+  {
+    "titre": "Capitalisme carcéral - Jackie Wang",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Race - Sarah Mazouz",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Ecole publique et émancipation sociale - Laurence De Cock",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Je ne pensais pas prendre du ferme",
+    "tomes": 1,
+    "subgenre": "Société (roman)"
   },
   {
     "titre": "Une histoire populaire des Etats-Unis - Howard Zinn",
