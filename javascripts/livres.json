@@ -240,6 +240,12 @@
     "subgenre2": "Histoire"
   },
   {
+    "titre": "La mosaïque sarantine - Guy Gavriel Kay",
+    "tomes": 2,
+    "subgenre": "Fantasy",
+    "subgenre2": "Histoire"
+  },
+  {
     "titre": "Garichankar -  Michel Jeury",
     "tomes": 2,
     "subgenre": "Science-fiction"
@@ -268,6 +274,16 @@
   {
     "titre": "Dans la toile du temps - Adrian Tchaikovsky",
     "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "La Chose en soi - Adam Roberts",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Cycle des Xeelees - AdamStephen Baxter",
+    "tomes": 2,
     "subgenre": "Hard science-fiction"
   },
   {
@@ -592,6 +608,11 @@
     "subgenre": "Science-fiction"
   },
   {
+    "titre": "nvasions divines : Philip K. Dick, une vie - Lawrence SUTIN",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
     "titre": "Le prisme du néant - Philip K Dick",
     "tomes": 1,
     "subgenre": "Science-fiction"
@@ -666,6 +687,16 @@
   },
   {
     "titre": "Le fini des mers - Gardner Dozois",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Ormeshadow - Priya Sharma",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "La maison des jeux - Calire North",
     "tomes": 1,
     "subgenre": "SF - nouvelles"
   },
@@ -1137,7 +1168,12 @@
     "subgenre": "Classique"
   },
   {
-    "titre": "Paris sans le peuple - Anne CLERVAL",
+    "titre": "Paris sans le peuple - Anne Clerval",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Louisa Yousfi - Rester barbare",
     "tomes": 1,
     "subgenre": "Société (essai)"
   },
