@@ -167,6 +167,11 @@
     "subgenre": "SF - nouvelles"
   },
   {
+    "titre": "Rosewater - Tade Thompson",
+    "tomes": 2,
+    "subgenre": "Science-fiction"
+  },
+  {
     "titre": "Le nez de Cléopatre - Robert Silverberg",
     "tomes": 1,
     "subgenre": "SF - nouvelles"
@@ -283,7 +288,7 @@
   },
   {
     "titre": "Cycle des Xeelees - AdamStephen Baxter",
-    "tomes": 2,
+    "tomes": 3,
     "subgenre": "Hard science-fiction"
   },
   {
@@ -490,6 +495,12 @@
     "titre": "L'obsolescence de l'homme - Günther Anders",
     "tomes": 1,
     "subgenre": "Philosophie"
+  },
+  {
+    "titre": "Utopie radicale - Alice Carabédian",
+    "tomes": 1,
+    "subgenre": "Philosophie",
+    "subgenre2": "Science-fiction"
   },
   {
     "titre": "Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
