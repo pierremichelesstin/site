@@ -223,6 +223,11 @@
     "subgenre": "Fantasy"
   },
   {
+    "titre": "Ormeshadow - Priya Sharma",
+    "tomes": 1,
+    "subgenre": "Fantasy"
+  },
+  {
     "titre": "L'autre côté du rêve - Ursula K Le Guin",
     "tomes": 1,
     "subgenre": "Science-fiction"
@@ -277,6 +282,16 @@
     "subgenre2": "SF - nouvelles"
   },
   {
+    "titre": "Opexx - Laurent Genefort",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Plasmas - Céline Minard",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
     "titre": "Dans la toile du temps - Adrian Tchaikovsky",
     "tomes": 1,
     "subgenre": "Hard science-fiction"
@@ -287,7 +302,7 @@
     "subgenre": "Hard science-fiction"
   },
   {
-    "titre": "Cycle des Xeelees - AdamStephen Baxter",
+    "titre": "Cycle des Xeelees - Stephen Baxter",
     "tomes": 3,
     "subgenre": "Hard science-fiction"
   },
