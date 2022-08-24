@@ -652,6 +652,11 @@
     "subgenre": "Science-fiction"
   },
   {
+    "titre": "Le temps désarticulé - Philip K Dick",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
     "titre": "Substance mort - Philip K Dick",
     "tomes": 1,
     "subgenre": "Science-fiction"
@@ -738,6 +743,11 @@
     "tomes": 1,
     "subgenre": "Classique",
     "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Dans la maison rêvée - Carmen Maria Machado",
+    "tomes": 1,
+    "subgenre": "Société (roman)"
   },
   {
     "titre": "Le fini des mers - Gardner Dozois",
@@ -1027,6 +1037,11 @@
     "subgenre": "Space-opéra"
   },
   {
+    "titre": "La sinsé habite au 21- Red Deff",
+    "tomes": 2,
+    "subgenre": "Space-opéra"
+  },
+  {
     "titre": "Latium - Romain Lucazeau",
     "tomes": 1,
     "subgenre": "Space-opéra"
@@ -1082,6 +1097,12 @@
     "titre": "L'hérésie d'Horus ",
     "tomes": 3,
     "subgenre": "Space-opéra"
+  },
+  {
+    "titre": "Le livre de Cendres - Mary gentle",
+    "tomes": 1,
+    "subgenre": "Fantasy",
+    "subgenre2": "Uchronie"
   },
   {
     "titre": "Rêves de gloire - Roland C Wagner",
@@ -1548,6 +1569,12 @@
   },
   {
     "titre": "Une histoire populaire des Etats-Unis - Howard Zinn",
+    "tomes": 1,
+    "subgenre": "Histoire",
+    "subgenre2": "Société (essai)"
+  },
+  {
+    "titre": "L'Empire qui ne veut pas mourir, une histoire de la Françafrique",
     "tomes": 1,
     "subgenre": "Histoire",
     "subgenre2": "Société (essai)"
