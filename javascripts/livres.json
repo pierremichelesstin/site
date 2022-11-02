@@ -37,7 +37,7 @@
   },
   {
     "titre": "Terra ignota - Ada Palmer",
-    "tomes": 2,
+    "tomes": 5,
     "subgenre": "Science-fiction"
   },
   {
@@ -652,6 +652,11 @@
     "subgenre": "Science-fiction"
   },
   {
+    "titre": "Au bout du labytinthe - Philip K Dick",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
     "titre": "Le temps désarticulé - Philip K Dick",
     "tomes": 1,
     "subgenre": "Science-fiction"
@@ -756,7 +761,7 @@
   },
   {
     "titre": "La maison des jeux - Calire North",
-    "tomes": 1,
+    "tomes": ,
     "subgenre": "SF - nouvelles"
   },
   {
@@ -927,6 +932,17 @@
     "tomes": 8,
     "subgenre": "Space-opéra",
     "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": " Subtil béton - Les aggloméré.e.s ",
+    "tomes": 8,
+    "subgenre": "Science-fiction",
+    "subgenre2": "Anarchisme"
+  },
+  {
+    "titre": "La plage de verre - Iam M. Banks",
+    "tomes": 1,
+    "subgenre": "Space-opéra"
   },
   {
     "titre": "La révolution Russe - Voline",
@@ -1139,6 +1155,26 @@
     "tomes": 1,
     "subgenre": "Uchronie",
     "subgenre2": "Policier"
+  },
+  {
+    "titre": "Le Styx coule à l'envers - Dan Simmons",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "La millième nuit - Alastair Reynolds",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Un an dans la Ville-Rue de Paul Di Filipo",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "Journal d'un AssaSynth - Martha Wellss",
+    "tomes": 2,
+    "subgenre": "SF - nouvelles"
   },
   {
     "titre": "L'homme qui mit fin à l'histoire - Ken Liu",
@@ -2170,6 +2206,12 @@
   {
     "titre": "Agrapha - Luvan",
     "tomes": 1,
+    "subgenre": "OLNI",
+    "subgenre2": "Histoire"
+  },
+  {
+    "titre": "Splines - Luvan",
+    "tomes": 1,
     "subgenre": "OLNI"
   },
   {
@@ -2217,6 +2259,11 @@
     "tomes": 1,
     "subgenre": "OLNI",
     "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Q comme qomplot - Wu Ming 1",
+    "tomes": 1,
+    "subgenre": "Société (esssai)"
   },
   {
     "titre": "La république des savants - Arno schimdt",
