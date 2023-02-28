@@ -157,6 +157,11 @@
     "subgenre": "SF - nouvelles"
   },
   {
+    "titre": "  En direct de la planète minuit - Nalo Hopkinson",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
     "titre": "Toutes les saveurs - Ken Liu",
     "tomes": 1,
     "subgenre": "SF - nouvelles"
@@ -311,6 +316,12 @@
     "titre": "Cycle des Xeelees - Stephen Baxter",
     "tomes": 3,
     "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Cycle des  Enfants de la destinée, - Stephen Baxter",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "Histoire"
   },
   {
     "titre": "Gnomon - Nick Harkaway",
@@ -761,7 +772,7 @@
   },
   {
     "titre": "La maison des jeux - Calire North",
-    "tomes": 2,
+    "tomes": 3,
     "subgenre": "SF - nouvelles"
   },
   {
@@ -776,6 +787,17 @@
   },
   {
     "titre": "L'enchâssement - Ian watson",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction"
+  },
+  {
+    "titre": "Le magicien quantique - Derek Künsken",
+    "tomes": 1,
+    "subgenre": "Hard science-fiction",
+    "subgenre2": "Space-opéra"
+  },
+  {
+    "titre": "Unity - Elly Bangs",
     "tomes": 1,
     "subgenre": "Hard science-fiction"
   },
@@ -923,6 +945,11 @@
     "subgenre": "OLNI"
   },
   {
+    "titre": "La Destinée manifeste - Éric Arlix",
+    "tomes": 1,
+    "subgenre": "OLNI"
+  },
+  {
     "titre": "L'homme à rebours - Philippe Curval",
     "tomes": 1,
     "subgenre": "Science-fiction"
@@ -986,6 +1013,12 @@
     "titre": "Aliénation et accélération - Hartmut Rosa",
     "tomes": 1,
     "subgenre": "Philosophie"
+  },
+  {
+    "titre": "Vivre avec le trouble - Donna Haraway",
+    "tomes": 1,
+    "subgenre": "Philosophie",
+    "subgenre2": "Ecologie
   },
   {
     "titre": "La grande transformation du sommeil - Roger Ekirch",
@@ -1119,6 +1152,11 @@
     "tomes": 1,
     "subgenre": "Fantasy",
     "subgenre2": "Uchronie"
+  },
+  {
+    "titre": "L'nfant de poussière - Patrick K. Dewdney",
+    "tomes": 1,
+    "subgenre": "Fantasy"
   },
   {
     "titre": "Rêves de gloire - Roland C Wagner",
@@ -1255,6 +1293,12 @@
   {
     "titre": "Enquêtes de Leaphorn et Chee - Tony Hillerman",
     "tomes": 1,
+    "subgenre": "Policier",
+    "subgenre2": "Société (roman)"
+  },
+  {
+    "titre": "Trilogie de la sirène - Benjamin Dierstein",
+    "tomes": 2,
     "subgenre": "Policier",
     "subgenre2": "Société (roman)"
   },
@@ -1651,6 +1695,16 @@
   {
     "titre": "Histoire Romaine - Mommsen",
     "tomes": 3,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "  Penser l'histoire de l'Afrique - François-Xavier Fauvelle",
+    "tomes": 1,
+    "subgenre": "Histoire"
+  },
+  {
+    "titre": "  Le rhinocéris d'or- François-Xavier Fauvelle",
+    "tomes": 1,
     "subgenre": "Histoire"
   },
   {
