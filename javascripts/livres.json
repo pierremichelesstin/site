@@ -228,6 +228,11 @@
     "subgenre": "Fantasy"
   },
   {
+    "titre": "Les poudremages - Brian McClellan",
+    "tomes": 2,
+    "subgenre": "Fantasy"
+  },
+  {
     "titre": "Ormeshadow - Priya Sharma",
     "tomes": 1,
     "subgenre": "Fantasy"
@@ -287,6 +292,11 @@
     "subgenre": "Science-fiction"
   },
   {
+    "titre": "Eversion - Alastair Reynolds",
+    "tomes": 1,
+    "subgenre": "Science-fiction"
+  },
+  {
     "titre": "Danses aériennes - Nancy Kress",
     "tomes": 1,
     "subgenre": "Hard science-fiction",
@@ -340,6 +350,16 @@
   },
   {
     "titre": "Kirinyaga - Mike Resnick ",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "	 La Pilule - Meg Elison",
+    "tomes": 1,
+    "subgenre": "SF - nouvelles"
+  },
+  {
+    "titre": "	 La trame - Bomby Mori collectif",
     "tomes": 1,
     "subgenre": "SF - nouvelles"
   },
@@ -616,6 +636,11 @@
   },
   {
     "titre": "Ceux qui restent - Benoît Coquard",
+    "tomes": 1,
+    "subgenre": "Société (essai)"
+  },
+  {
+    "titre": "Depuis qu'ils nous ont fait ça - Aurélie Garand",
     "tomes": 1,
     "subgenre": "Société (essai)"
   },
@@ -1154,7 +1179,7 @@
     "subgenre2": "Uchronie"
   },
   {
-    "titre": "L'nfant de poussière - Patrick K. Dewdney",
+    "titre": "L'enfant de poussière - Patrick K. Dewdney",
     "tomes": 1,
     "subgenre": "Fantasy"
   },
