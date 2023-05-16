@@ -133,6 +133,17 @@
 		"subgenre2": "SF - nouvelles"
 	},
 	{
+		"titre": "Options - John Varley",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
+		"titre": "Sur Mars - Arnauld Pontier",
+		"tomes": 1,
+		"subgenre": "Hard science-fiction",
+		"subgenre2": "SF - nouvelles"
+	},
+	{
 		"titre": "Jardin de poussière - Ken Liu",
 		"tomes": 1,
 		"subgenre": "Hard science-fiction",
@@ -497,6 +508,17 @@
 		"subgenre": "SF - nouvelles"
 	},
 	{
+		"titre": "Connexions - Michael F. Flynn",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
+		"titre": "La séquence Aardtman - Saul Pandelakis",
+		"tomes": 1,
+		"subgenre": "Space-opéra",
+		"subgenre2": "Société (roman)"
+	},
+	{
 		"titre": "Les gardiens d'Aleph-deux - Colin Marchika",
 		"tomes": 1,
 		"subgenre": "SF - nouvelles"
@@ -577,7 +599,22 @@
 		"subgenre": "Société (essai)"
 	},
 	{
+		"titre": "Know What I Mean?: Reflections on Hip-Hop - Michael Eric Dyson",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
 		"titre": "Macronique - Emilie Noteris",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "Un petit candidat face aux grands médias - Poutou, Salingue et Waylo",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "Beaufs et barbares: Le pari du nous - Houria Bouteldja",
 		"tomes": 1,
 		"subgenre": "Société (essai)"
 	},
@@ -588,6 +625,11 @@
 	},
 	{
 		"titre": "RAF - Steiner et Debrayr",
+		"tomes": 1,
+		"subgenre": "Histoire"
+	},
+	{
+		"titre": "Guadeloupe, mai 67 - Elsa Dorlin, Jean-Pierre Sainton et Mathieu Rigouste",
 		"tomes": 1,
 		"subgenre": "Histoire"
 	},
@@ -1956,6 +1998,12 @@
 		"subgenre2": "Anarchisme"
 	},
 	{
+		"titre": "L'oeuvre-vie d'Antonio Gramsci - Jean-Claude Zancarini et Romain Descendre",
+		"tomes": 1,
+		"subgenre": "Histoire",
+		"subgenre2": "Philosophie"
+	},
+	{
 		"titre": "Une juste colère: interrompre la destruction du monde - Jérôme Baschet",
 		"tomes": 1,
 		"subgenre": "Anarchisme",
@@ -1983,6 +2031,11 @@
 	},
 	{
 		"titre": "Walter Benjamin 1892-1940 - Hannah Arendt",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "La Volonté de changer. Les hommes, la masculinité et l'amour - Belle Hooks",
 		"tomes": 1,
 		"subgenre": "Société (essai)"
 	},
@@ -2403,6 +2456,16 @@
 	},
 	{
 		"titre": "Le nucléaire c'est fini - La Parisienne libérée",
+		"tomes": 1,
+		"subgenre": "Ecologie"
+	},
+	{
+		"titre": "Criminels climatiques - Mickaël Correia",
+		"tomes": 1,
+		"subgenre": "Ecologie"
+	},
+	{
+		"titre": "Fin du monde et petits fours - Édouard Morena",
 		"tomes": 1,
 		"subgenre": "Ecologie"
 	},
