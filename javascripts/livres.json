@@ -339,7 +339,7 @@
 	},
 	{
 		"titre": "Cycle des  Enfants de la destinée, - Stephen Baxter",
-		"tomes": 1,
+		"tomes": 2,
 		"subgenre": "Hard science-fiction",
 		"subgenre2": "Histoire"
 	},
@@ -1423,6 +1423,12 @@
 		"titre": "Le Gros, le Français et la Souris - Raul Argemi",
 		"tomes": 1,
 		"subgenre": "Policier"
+	},
+	{
+		"titre": "Frakas - Thomas Cantaloube",
+		"tomes": 1,
+		"subgenre": "Policier",
+		"subgenre2": "Histoire"
 	},
 	{
 		"titre": "Les racines du mal - Maurice G Dantec",
