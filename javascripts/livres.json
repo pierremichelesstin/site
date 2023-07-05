@@ -138,6 +138,16 @@
 		"subgenre": "SF - nouvelles"
 	},
 	{
+		"titre": "Rossignol - Audrey Pleynet",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
+		"titre": "Ellipses - Audrey Pleynet",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
 		"titre": "Sur Mars - Arnauld Pontier",
 		"tomes": 1,
 		"subgenre": "Hard science-fiction",
@@ -1425,8 +1435,8 @@
 		"subgenre": "Policier"
 	},
 	{
-		"titre": "Frakas - Thomas Cantaloube",
-		"tomes": 1,
+		"titre": "Trilogie Blanchard - Thomas Cantaloube",
+		"tomes": 3,
 		"subgenre": "Policier",
 		"subgenre2": "Histoire"
 	},
@@ -1738,9 +1748,15 @@
 		"subgenre2": "Société (essai)"
 	},
 	{
-		"titre": "Une histoire populaire de l'humanité - chris harman",
+		"titre": "Une histoire populaire de l'humanité - Chris Harman",
 		"tomes": 1,
 		"subgenre": "Histoire",
+		"subgenre2": "Société (essai)"
+	},
+	{
+		"titre": "Sur la piste animale - Baptiste MORIZOT",
+		"tomes": 1,
+		"subgenre": "Ecologie",
 		"subgenre2": "Société (essai)"
 	},
 	{
