@@ -348,9 +348,15 @@
 		"subgenre": "Hard science-fiction"
 	},
 	{
-		"titre": "Cycle des  Enfants de la destinée, - Stephen Baxter",
+		"titre": "Cycle des Enfants de la destinée - Stephen Baxter",
 		"tomes": 2,
 		"subgenre": "Hard science-fiction",
+		"subgenre2": "Histoire"
+	},
+	{
+		"titre": "Evolution - Stephen Baxter",
+		"tomes": 2,
+		"subgenre": "Science-fiction",
 		"subgenre2": "Histoire"
 	},
 	{
@@ -609,7 +615,17 @@
 		"subgenre": "Société (essai)"
 	},
 	{
+		"titre": "L'épreuve de la discrimination - Julien Talpin",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
 		"titre": "Know What I Mean?: Reflections on Hip-Hop - Michael Eric Dyson",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "L'intelligence des villes - Tyler Reigeluth",
 		"tomes": 1,
 		"subgenre": "Société (essai)"
 	},
