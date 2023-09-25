@@ -470,6 +470,11 @@
 		"subgenre": "Space-opéra"
 	},
 	{
+		"titre": "Luna - Ian McDonald",
+		"tomes": 3,
+		"subgenre": "Space-opéra"
+	},
+	{
 		"titre": "Trilogie de l'âge d'or - John C Wright",
 		"tomes": 3,
 		"subgenre2": "Space-opéra",
@@ -604,6 +609,11 @@
 		"subgenre2": "Anarchisme"
 	},
 	{
+		"titre": "Pour une écologie pirate - Fatima Ouassak",
+		"tomes": 1,
+		"subgenre": "Ecologie"
+	},
+	{
 		"titre": "Les Historiens de garde - Aurore Chéry, Christophe Naudin et William Blanc",
 		"tomes": 1,
 		"subgenre": "Société (essai)",
@@ -670,6 +680,11 @@
 		"subgenre": "Histoire"
 	},
 	{
+		"titre": "L'ennemi intérieur - Mathieu Rigouste",
+		"tomes": 1,
+		"subgenre": "Histoire"
+	},
+	{
 		"titre": "Joseph Kabris - Christophe Granger",
 		"tomes": 1,
 		"subgenre": "Histoire"
@@ -721,6 +736,11 @@
 		"tomes": 1,
 		"subgenre2": "Science-fiction",
 		"subgenre": "OLNI"
+	},
+	{
+		"titre": "Glissement de temps sur mars - Philip K Dick",
+		"tomes": 1,
+		"subgenre2": "Science-fiction"
 	},
 	{
 		"titre": "Trilogie divine - Philip K Dick",
@@ -851,6 +871,11 @@
 		"tomes": 1,
 		"subgenre": "Classique",
 		"subgenre2": "Société (roman)"
+	},
+	{
+		"titre": "Impossible - Erri Di Luca -",
+		"tomes": 1,
+		"subgenre": "Classique"
 	},
 	{
 		"titre": "Dans la maison rêvée - Carmen Maria Machado",
@@ -1702,14 +1727,19 @@
 		"subgenre": "Dark fantasy"
 	},
 	{
-		"titre": "Chien du heaume- Justine Niogret",
+		"titre": "Chien du heaume - Justine Niogret",
 		"tomes": 1,
 		"subgenre": "Dark fantasy"
 	},
 	{
-		"titre": "Mordre le bouclier- Justine Niogret",
+		"titre": "Mordre le bouclier - Justine Niogret",
 		"tomes": 1,
 		"subgenre": "Dark fantasy"
+	},
+	{
+		"titre": "Quand on eut mangé le dernier chien- Justine Niogret",
+		"tomes": 1,
+		"subgenre": "Classique"
 	},
 	{
 		"titre": "La chronique des immortels - Wolfgang Hohlbein",
@@ -1733,6 +1763,11 @@
 	},
 	{
 		"titre": "Capitalisme carcéral - Jackie Wang",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "L'épreuve de la discrimination - Julien Talpin",
 		"tomes": 1,
 		"subgenre": "Société (essai)"
 	},
