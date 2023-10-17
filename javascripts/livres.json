@@ -737,6 +737,11 @@
 		"subgenre": "SF - nouvelles"
 	},
 	{
+		"titre": "Protectorats - Ray Nayler",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
 		"titre": "Ubik - Philip K Dick",
 		"tomes": 1,
 		"subgenre2": "Science-fiction",
@@ -745,7 +750,12 @@
 	{
 		"titre": "Glissement de temps sur mars - Philip K Dick",
 		"tomes": 1,
-		"subgenre2": "Science-fiction"
+		"subgenre": "Science-fiction"
+	},
+	{
+		"titre": "L'Affaire Crystal Singer - Ethan Chatagnier",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
 	},
 	{
 		"titre": "Trilogie divine - Philip K Dick",
