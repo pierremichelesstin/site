@@ -422,6 +422,16 @@
 		"subgenre": "Science-fiction"
 	},
 	{
+		"titre": "Le fleuve des dieux - Ian McDonald",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
+		"titre": "La maison des derviches - Ian McDonald",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
 		"titre": "Retour sur Titan - Stephen Baxter",
 		"tomes": 1,
 		"subgenre": "SF - nouvelles"
@@ -665,6 +675,17 @@
 		"subgenre": "Histoire"
 	},
 	{
+		"titre": "Dernière nuit à Montréal - Emily St. John Mandel",
+		"tomes": 1,
+		"subgenre": "Polcier",
+		"subgenre2": "Science-fiction"
+	},
+	{
+		"titre": "Station Eleven - Emily St. John Mandel",
+		"tomes": 1,
+		"subgenre": "Science-fiction"
+	},
+	{
 		"titre": "RAF - Steiner et Debrayr",
 		"tomes": 1,
 		"subgenre": "Histoire"
@@ -728,6 +749,16 @@
 	},
 	{
 		"titre": "Depuis qu'ils nous ont fait ça - Aurélie Garand",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "Islamophobie - Abdellali Hajjat et Marwan Mohammed",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "Israël-Palestine, la solution : un État - Ghada Karmi",
 		"tomes": 1,
 		"subgenre": "Société (essai)"
 	},
@@ -1379,6 +1410,11 @@
 	},
 	{
 		"titre": "Starfish - Peter Watts",
+		"tomes": 1,
+		"subgenre": "Hard science-fiction"
+	},
+	{
+		"titre": "Vision aveugle - Peter Watts",
 		"tomes": 1,
 		"subgenre": "Hard science-fiction"
 	},
