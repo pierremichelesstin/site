@@ -292,6 +292,11 @@
 		"subgenre2": "Histoire"
 	},
 	{
+		"titre": "La tour de garde - Claire Duvivier et Guillaume Chamanadjian",
+		"tomes": 6,
+		"subgenre": "Fantasy"
+	},
+	{
 		"titre": "Garichankar -  Michel Jeury",
 		"tomes": 2,
 		"subgenre": "Science-fiction"
@@ -666,6 +671,11 @@
 	},
 	{
 		"titre": "Beaufs et barbares: Le pari du nous - Houria Bouteldja",
+		"tomes": 1,
+		"subgenre": "Société (essai)"
+	},
+	{
+		"titre": "L'affaire Wikileaks - Stefania Maurizi",
 		"tomes": 1,
 		"subgenre": "Société (essai)"
 	},
@@ -1419,6 +1429,11 @@
 		"subgenre": "Hard science-fiction"
 	},
 	{
+		"titre": "Echopraxie - Peter Watts",
+		"tomes": 1,
+		"subgenre": "Hard science-fiction"
+	},
+	{
 		"titre": "Le maître du haut chateau - Phillip K Dick",
 		"tomes": 1,
 		"subgenre": "Uchronie"
@@ -1475,6 +1490,11 @@
 		"tomes": 1,
 		"subgenre2": "Société (essai)",
 		"subgenre": "Classique"
+	},
+	{
+		"titre": "Forteresse Europe - Emilien Bernard",
+		"tomes": 1,
+		"subgenre2": "Société (essai)"
 	},
 	{
 		"titre": "Le troisième reich - Roberto Bolano",
