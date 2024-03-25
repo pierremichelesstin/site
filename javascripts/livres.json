@@ -258,6 +258,11 @@
 		"subgenre": "Fantasy"
 	},
 	{
+		"titre": "Lavinia - Ursula K Le Guin",
+		"tomes": 1,
+		"subgenre": "Fantasy"
+	},
+	{
 		"titre": "Les poudremages - Brian McClellan",
 		"tomes": 2,
 		"subgenre": "Fantasy"
@@ -1501,7 +1506,7 @@
 	},
 	{
 		"titre": "Trilogie de la sirène - Benjamin Dierstein",
-		"tomes": 2,
+		"tomes": 3,
 		"subgenre": "Policier",
 		"subgenre2": "Société (roman)"
 	},
