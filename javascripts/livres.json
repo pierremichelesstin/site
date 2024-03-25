@@ -138,6 +138,11 @@
 		"subgenre": "SF - nouvelles"
 	},
 	{
+		"titre": "Etats de rêve - Ian McDonald",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
 		"titre": "Rossignol - Audrey Pleynet",
 		"tomes": 1,
 		"subgenre": "SF - nouvelles"
@@ -493,6 +498,16 @@
 		"titre": "Luna - Ian McDonald",
 		"tomes": 3,
 		"subgenre": "Space-opéra"
+	},
+	{
+		"titre": "Roi du matin, reine du jour - Ian McDonald",
+		"tomes": 1,
+		"subgenre": "Fantasy"
+	},
+	{
+		"titre": "Les marins ne savent pas nager - Dominique Scali",
+		"tomes": 1,
+		"subgenre": "Fantasy"
 	},
 	{
 		"titre": "Trilogie de l'âge d'or - John C Wright",
