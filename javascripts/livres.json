@@ -182,7 +182,12 @@
 		"subgenre": "SF - nouvelles"
 	},
 	{
-		"titre": "  En direct de la planète minuit - Nalo Hopkinson",
+		"titre": "En direct de la planète minuit - Nalo Hopkinson",
+		"tomes": 1,
+		"subgenre": "SF - nouvelles"
+	},
+	{
+		"titre": "La peste du léopard vert - Walter Jon Williams",
 		"tomes": 1,
 		"subgenre": "SF - nouvelles"
 	},
